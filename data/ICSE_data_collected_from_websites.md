@@ -1,3 +1,18 @@
+# ICSE editions
+
+- [2017 - 39th ICSE](#2017---39th-icse)
+- [2018 - 40th ICSE](#2018---40th-icse)
+- [2019 - 41st ICSE](#2019---41st-icse)
+- [2020 - 42nd ICSE](#2020---42nd-icse)
+- [2021 - 43rd ICSE](#2021---43rd-icse)
+- [2022 - 44th ICSE](#2022---44th-icse)
+- [2023 - 45th ICSE](#2023---45th-icse)
+
+
+---
+---
+
+
 # 2017 - 39th ICSE
 
 ### 2017A - Verifiability [^1] became an evaluation criterion for submitted papers (Technical)
@@ -195,7 +210,7 @@ Breadcrumb: ICSE 2020 > Technical Papers > Call for Papers > Review Criteria
 
 
 
-# 2021 - 43st ICSE
+# 2021 - 43rd ICSE
 
 ### 2021A - ICSE defines research artifact and adheres to Open Science policies (all tracks)
 
