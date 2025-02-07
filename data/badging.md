@@ -1,336 +1,42 @@
 ## Badging
 
-305 ICSE papers received at least one badge. The list of badged papers and their badges' kinds are presented in the tables below.
+[297 ICSE Technical papers](#icse---297-total-badged-papers) and [308 FSE Research papers](#fse---308-total-badged-papers) successfully passed the artifact evaluation track and received at least one badge.
 
-### Technical Track (297 total badged papers)
+<br>
 
-| **Paper ID** | **Badges**                                                              |
-| :----------: | :---------------------------------------------------------------------- |
-| 1845         | Results Validated – Results Replicated                                  |
-| 1166         | Artifacts Available                                                     |
-| 1258         | Artifacts Available                                                     |
-| 0911         | Artifacts Evaluated – Reusable                                          |
-| 0914         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0915         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0922         | Artifacts Available                                                     |
-| 0926         | Artifacts Available                                                     |
-| 0928         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0931         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0934         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0944         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0946         | Artifacts Evaluated – Reusable                                          |
-| 0948         | Results Reproduced; Artifacts Evaluated – Reusable; Artifacts Available |
-| 0949         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0952         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0953         | Artifacts Available                                                     |
-| 0956         | Artifacts Available                                                     |
-| 0957         | Artifacts Evaluated – Reusable                                          |
-| 0963         | Artifacts Available                                                     |
-| 0964         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0965         | Artifacts Available                                                     |
-| 0972         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0974         | Artifacts Evaluated – Reusable                                          |
-| 0975         | Artifacts Available                                                     |
-| 0977         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0979         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0982         | Artifacts Available                                                     |
-| 0983         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0984         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0985         | Artifacts Available                                                     |
-| 0988         | Artifacts Available                                                     |
-| 0992         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0993         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0994         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0995         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0996         | Artifacts Available                                                     |
-| 0999         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 1001         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 1004         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 1005         | Artifacts Evaluated – Reusable                                          |
-| 1007         | Artifacts Available                                                     |
-| 1016         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0697         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0698         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0701         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0702         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0705         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0710         | Artifacts Available                                                     |
-| 0712         | Artifacts Evaluated – Reusable                                          |
-| 0714         | Artifacts Evaluated – Reusable                                          |
-| 0717         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0718         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0722         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0725         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0732         | Artifacts Available                                                     |
-| 0733         | Artifacts Available                                                     |
-| 0734         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0735         | Artifacts Available                                                     |
-| 0738         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0739         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0912         | Artifacts Available                                                     |
-| 0741         | Artifacts Available                                                     |
-| 0745         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0747         | Artifacts Available                                                     |
-| 0749         | Artifacts Available                                                     |
-| 0750         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0753         | Artifacts Evaluated – Reusable                                          |
-| 0756         | Artifacts Available                                                     |
-| 0757         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0762         | Artifacts Available                                                     |
-| 0765         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0775         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0778         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0781         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0782         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0783         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0784         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0960         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0961         | Artifacts Evaluated – Reusable                                          |
-| 0785         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0786         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0787         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0790         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0791         | Artifacts Available                                                     |
-| 0793         | Artifacts Evaluated – Reusable                                          |
-| 0796         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0797         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0798         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0804         | Artifacts Available                                                     |
-| 0986         | Artifacts Evaluated – Reusable                                          |
-| 0809         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0812         | Artifacts Available                                                     |
-| 0815         | Artifacts Available                                                     |
-| 0817         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0822         | Artifacts Available                                                     |
-| 0454         | Artifacts Evaluated – Reusable                                          |
-| 1012         | Artifacts Evaluated – Reusable                                          |
-| 0455         | Artifacts Evaluated – Reusable                                          |
-| 0458         | Artifacts Evaluated – Reusable                                          |
-| 0461         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0462         | Artifacts Evaluated – Reusable                                          |
-| 0467         | Artifacts Evaluated – Reusable                                          |
-| 0469         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0470         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0474         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0477         | Artifacts Evaluated – Reusable                                          |
-| 0489         | Artifacts Evaluated – Reusable                                          |
-| 0492         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0494         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0499         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0501         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0716         | Artifacts Available                                                     |
-| 0502         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0503         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0504         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0508         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0728         | Artifacts Available                                                     |
-| 0514         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0516         | Artifacts Evaluated – Reusable                                          |
-| 0518         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0520         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0529         | Artifacts Evaluated – Reusable                                          |
-| 0532         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0535         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0537         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0539         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0541         | Artifacts Evaluated – Reusable                                          |
-| 0543         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0544         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0550         | Artifacts Evaluated – Reusable                                          |
-| 0551         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0558         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0560         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0780         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0562         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0564         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0565         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0568         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0571         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0572         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0573         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0575         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0578         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0579         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0580         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0583         | Artifacts Evaluated – Reusable                                          |
-| 0584         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0805         | Artifacts Available                                                     |
-| 0589         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0002         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0003         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0004         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0813         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0007         | Artifacts Evaluated – Functional                                        |
-| 0015         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0020         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0022         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0023         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0032         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0036         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0038         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0039         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0041         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0044         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0046         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0453         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0053         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0057         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0063         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0064         | Artifacts Available                                                     |
-| 0068         | Artifacts Available                                                     |
-| 0069         | Artifacts Available                                                     |
-| 0074         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0076         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0077         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0078         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0081         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0085         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0088         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0091         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0098         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0099         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0105         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0120         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0122         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0125         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0126         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0131         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0133         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0137         | Artifacts Available                                                     |
-| 0139         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0140         | Artifacts Evaluated – Reusable                                          |
-| 0142         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0144         | Artifacts Available                                                     |
-| 0146         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0147         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0148         | Artifacts Available                                                     |
-| 0149         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0154         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0156         | Artifacts Available                                                     |
-| 0161         | Artifacts Evaluated – Functional                                        |
-| 0165         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0166         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0167         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0170         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0175         | Artifacts Evaluated – Reusable                                          |
-| 0178         | Artifacts Evaluated – Reusable                                          |
-| 0181         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 0182         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0184         | Artifacts Available                                                     |
-| 0190         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0197         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2028         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2030         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2031         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2032         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2037         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2038         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2039         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2042         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2043         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2044         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2047         | Artifacts Available                                                     |
-| 2052         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2053         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2054         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2055         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2060         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2061         | Artifacts Available                                                     |
-| 2063         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 0001         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2064         | Artifacts Available                                                     |
-| 2065         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2068         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2069         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2071         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2075         | Artifacts Available                                                     |
-| 2079         | Artifacts Available                                                     |
-| 2081         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2082         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2083         | Artifacts Available                                                     |
-| 2087         | Artifacts Available                                                     |
-| 2093         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2098         | Artifacts Evaluated – Reusable                                          |
-| 2099         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2103         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2105         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2106         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2107         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2108         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2109         | Artifacts Available                                                     |
-| 2111         | Artifacts Available                                                     |
-| 2113         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2114         | Artifacts Available                                                     |
-| 2119         | Artifacts Available                                                     |
-| 2120         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2121         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2123         | Artifacts Available                                                     |
-| 2125         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2126         | Artifacts Available                                                     |
-| 2128         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2132         | Artifacts Evaluated – Reusable                                          |
-| 2136         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2137         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2144         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2145         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2146         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2148         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2149         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2153         | Artifacts Available                                                     |
-| 2155         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2156         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2157         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2159         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2165         | Artifacts Available                                                     |
-| 2169         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2173         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2178         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2182         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2183         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2186         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2187         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2188         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2189         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2195         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2196         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2198         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2199         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2206         | Artifacts Available                                                     |
-| 0151         | Artifacts Evaluated – Functional; Artifacts Available                   |
-| 2207         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2214         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2218         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2223         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2228         | Artifacts Evaluated – Reusable; Artifacts Available                     |
-| 2229         | Artifacts Evaluated – Functional; Artifacts Available                   |
+### ICSE - 297 total badged papers
+
+| Year | \# of papers | Paper IDs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---- | :------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2014 | 1            | [PI1845]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 2015 | 0            | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2016 | 0            | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2017 | 0            | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2018 | 2            | [PI1166], [PI1258]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2019 | 45           | [PI911], [PI912], [PI914], [PI915], [PI922], [PI926], [PI928], [PI931], [PI934], [PI944], [PI946], [PI948], [PI949], [PI952], [PI953], [PI956], [PI957], [PI960], [PI961], [PI963], [PI964], [PI965], [PI972], [PI974], [PI975], [PI977], [PI979], [PI982], [PI983], [PI984], [PI985], [PI986], [PI988], [PI992], [PI993], [PI994], [PI995], [PI996], [PI999], [PI1001], [PI1004], [PI1005], [PI1007], [PI1012], [PI1016]                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 2020 | 54           | [PI697], [PI698], [PI701], [PI702], [PI705], [PI710], [PI712], [PI714], [PI716], [PI717], [PI718], [PI722], [PI725], [PI728], [PI732], [PI733], [PI734], [PI735], [PI738], [PI739], [PI741], [PI745], [PI747], [PI749], [PI750], [PI753], [PI756], [PI757], [PI762], [PI765], [PI775], [PI778], [PI780], [PI781], [PI782], [PI783], [PI784], [PI785], [PI786], [PI787], [PI790], [PI791], [PI793], [PI796], [PI797], [PI798], [PI804], [PI805], [PI809], [PI812], [PI813], [PI815], [PI817], [PI822]                                                                                                                                                                                                                                                                                                                                               |
+| 2021 | 50           | [PI453], [PI454], [PI455], [PI458], [PI461], [PI462], [PI467], [PI469], [PI470], [PI474], [PI477], [PI489], [PI492], [PI494], [PI499], [PI501], [PI502], [PI503], [PI504], [PI508], [PI514], [PI516], [PI518], [PI520], [PI529], [PI532], [PI535], [PI537], [PI539], [PI541], [PI543], [PI544], [PI550], [PI551], [PI558], [PI560], [PI562], [PI564], [PI565], [PI568], [PI571], [PI572], [PI573], [PI575], [PI578], [PI579], [PI580], [PI583], [PI584], [PI589]                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2022 | 63           | [PI1], [PI2], [PI3], [PI4], [PI7], [PI15], [PI20], [PI22], [PI23], [PI32], [PI36], [PI38], [PI39], [PI41], [PI44], [PI46], [PI53], [PI57], [PI63], [PI64], [PI68], [PI69], [PI74], [PI76], [PI77], [PI78], [PI81], [PI85], [PI88], [PI91], [PI98], [PI99], [PI105], [PI120], [PI122], [PI125], [PI126], [PI131], [PI133], [PI137], [PI139], [PI140], [PI142], [PI144], [PI146], [PI147], [PI148], [PI149], [PI151], [PI154], [PI156], [PI161], [PI165], [PI166], [PI167], [PI170], [PI175], [PI178], [PI181], [PI182], [PI184], [PI190], [PI197]                                                                                                                                                                                                                                                                                                   |
+| 2023 | 82           | [PI2028], [PI2030], [PI2031], [PI2032], [PI2037], [PI2038], [PI2039], [PI2042], [PI2043], [PI2044], [PI2047], [PI2052], [PI2053], [PI2054], [PI2055], [PI2060], [PI2061], [PI2063], [PI2064], [PI2065], [PI2068], [PI2069], [PI2071], [PI2075], [PI2079], [PI2081], [PI2082], [PI2083], [PI2087], [PI2093], [PI2098], [PI2099], [PI2103], [PI2105], [PI2106], [PI2107], [PI2108], [PI2109], [PI2111], [PI2113], [PI2114], [PI2119], [PI2120], [PI2121], [PI2123], [PI2125], [PI2126], [PI2128], [PI2132], [PI2136], [PI2137], [PI2144], [PI2145], [PI2146], [PI2148], [PI2149], [PI2153], [PI2155], [PI2156], [PI2157], [PI2159], [PI2165], [PI2169], [PI2173], [PI2178], [PI2182], [PI2183], [PI2186], [PI2187], [PI2188], [PI2189], [PI2195], [PI2196], [PI2198], [PI2199], [PI2206], [PI2207], [PI2214], [PI2218], [PI2223], [PI2228], [PI2229] |
 
 
-### SEIP Track (3 total badged papers)
+<br><br>
 
-| **Paper ID** | **Badges**                                          |
-| :----------: | :-------------------------------------------------- |
-| 0825         | Artifacts Evaluated – Reusable; Artifacts Available |
-| 0827         | Artifacts Evaluated – Reusable; Artifacts Available |
-| 0247         | Artifacts Evaluated – Reusable; Artifacts Available |
+---
+---
 
-### SEIS Track (5 total badged papers)
 
-| **Paper ID** | **Badges**                                            |
-| :----------: | :---------------------------------------------------- |
-| 0908         | Artifacts Evaluated – Reusable                        |
-| 0904         | Artifacts Evaluated – Reusable; Artifacts Available   |
-| 0692         | Artifacts Evaluated – Reusable; Artifacts Available   |
-| 0310         | Artifacts Evaluated – Reusable; Artifacts Available   |
-| 2335         | Artifacts Evaluated – Functional; Artifacts Available |
+### FSE - 308 total badged papers
 
-### SEET Track (0 total badged papers)
-
-| Paper ID | Badges |
-| :------: | :----- |
-| - | - |
-
-### NIER Track (0 total badged papers)
-
-| Paper ID | Badges |
-| :------: | :----- |
-| - | - |
+| Year | \# of papers | Paper IDs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---- | :----------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2014 | 15           | [PF783], [PF784], [PF790], [PF799], [PF804], [PF817], [PF819], [PF821], [PF822], [PF825], [PF828], [PF830], [PF835], [PF836], [PF840]                                                                                                                                                                                                                                                                                                                                                                                      |
+| 2015 | 17           | [PF708], [PF711], [PF714], [PF717], [PF720], [PF732], [PF735], [PF738], [PF763], [PF764], [PF766], [PF767], [PF769], [PF770], [PF773], [PF776], [PF779]                                                                                                                                                                                                                                                                                                                                                                    |
+| 2016 | 17           | [PF640], [PF642], [PF644], [PF647], [PF655], [PF657], [PF659], [PF663], [PF667], [PF668], [PF669], [PF680], [PF681], [PF688], [PF699], [PF701], [PF704]                                                                                                                                                                                                                                                                                                                                                                    |
+| 2017 | 11           | [PF560], [PF568], [PF569], [PF578], [PF584], [PF595], [PF603], [PF605], [PF608], [PF622], [PF623]                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 2018 | 20           | [PF501], [PF502], [PF510], [PF513], [PF515], [PF517], [PF520], [PF526], [PF527], [PF529], [PF531], [PF533], [PF535], [PF543], [PF544], [PF547], [PF551], [PF552], [PF554], [PF558]                                                                                                                                                                                                                                                                                                                                         |
+| 2019 | 21           | [PF425], [PF427], [PF429], [PF431], [PF434], [PF441], [PF442], [PF451], [PF452], [PF454], [PF457], [PF459], [PF460], [PF463], [PF465], [PF470], [PF473], [PF475], [PF489], [PF492], [PF494]                                                                                                                                                                                                                                                                                                                                |
+| 2020 | 54           | [PF324], [PF325], [PF327], [PF328], [PF329], [PF333], [PF334], [PF335], [PF336], [PF337], [PF338], [PF339], [PF340], [PF342], [PF345], [PF351], [PF354], [PF355], [PF358], [PF360], [PF361], [PF363], [PF373], [PF377], [PF378], [PF379], [PF380], [PF383], [PF385], [PF387], [PF388], [PF389], [PF392], [PF393], [PF394], [PF396], [PF397], [PF401], [PF404], [PF405], [PF406], [PF408], [PF409], [PF410], [PF412], [PF413], [PF415], [PF416], [PF417], [PF418], [PF420], [PF421], [PF423], [PF424]                       |
+| 2021 | 50           | [PF227], [PF228], [PF230], [PF231], [PF232], [PF236], [PF237], [PF239], [PF240], [PF241], [PF242], [PF243], [PF245], [PF247], [PF248], [PF252], [PF253], [PF254], [PF257], [PF258], [PF262], [PF263], [PF265], [PF267], [PF270], [PF271], [PF273], [PF276], [PF279], [PF281], [PF282], [PF286], [PF289], [PF294], [PF295], [PF297], [PF298], [PF299], [PF304], [PF305], [PF306], [PF307], [PF308], [PF309], [PF314], [PF317], [PF319], [PF320], [PF322], [PF323]                                                           |
+| 2022 | 41           | [PF129], [PF133], [PF139], [PF142], [PF143], [PF144], [PF146], [PF148], [PF149], [PF150], [PF155], [PF156], [PF160], [PF161], [PF162], [PF163], [PF166], [PF169], [PF171], [PF173], [PF174], [PF175], [PF176], [PF178], [PF182], [PF186], [PF188], [PF192], [PF195], [PF197], [PF198], [PF200], [PF201], [PF202], [PF207], [PF209], [PF215], [PF216], [PF217], [PF221], [PF222]                                                                                                                                            |
+| 2023 | 62           | [PF7], [PF8], [PF9], [PF10], [PF11], [PF13], [PF14], [PF15], [PF17], [PF23], [PF25], [PF26], [PF27], [PF28], [PF30], [PF32], [PF33], [PF35], [PF38], [PF39], [PF40], [PF42], [PF44], [PF45], [PF46], [PF48], [PF52], [PF53], [PF56], [PF57], [PF59], [PF64], [PF66], [PF69], [PF71], [PF72], [PF75], [PF79], [PF83], [PF85], [PF87], [PF88], [PF89], [PF90], [PF92], [PF93], [PF95], [PF100], [PF103], [PF105], [PF106], [PF107], [PF110], [PF111], [PF112], [PF113], [PF116], [PF117], [PF119], [PF120], [PF124], [PF125] |
