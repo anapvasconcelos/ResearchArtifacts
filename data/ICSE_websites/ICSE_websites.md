@@ -24,14 +24,16 @@
     - NIER Track: 	https://2014.icse-conferences.org/NIER
     - AE Track: ---	[^2]
 
-### 2015 - 37th ICSE
-- Home page: 	http://2015.icse-conferences.org/ [^3]
+### 2015 - 37th ICSE [^3]
+- Home page: 	http://2015.icse-conferences.org/
     - Technical Track: 	http://2015.icse-conferences.org/icse2015J/call-dates/call-for-contributions/technical-research-cfp
     - SEIP Track: 	http://2015.icse-conferences.org/icse2015J/call-dates/call-for-contributions/seip
     - SEIS Track: 	http://2015.icse-conferences.org/icse2015J/call-dates/call-for-contributions/seis
     - JSEET Track: 	http://2015.icse-conferences.org/icse2015J/call-dates/call-for-contributions/jseet
     - NIER Track: 	http://2015.icse-conferences.org/icse2015J/call-dates/call-for-contributions/nier-2015
     - AE Track: 	--- [^2]
+
+Archived version accessed: https://web.archive.org/web/20240213155619/http://2015.icse-conferences.org/
 
 ### 2016 - 38th ICSE
 - Home page: 	https://2016.icse.cs.txstate.edu/
@@ -51,14 +53,16 @@
     - NIER Track: 	https://icse2017.gatech.edu/?q=nier
     - AE Track: 	--- [^2]
  
-### 2018 - 40th ICSE
-- Home page: 	https://conf.researchr.org/home/icse-2018 [^4]
+### 2018 - 40th ICSE [^3]
+- Home page: 	https://conf.researchr.org/home/icse-2018
     - Technical Track: 	https://www.icse2018.org/track/icse-2018-Technical-Papers
     - SEIP Track: 	https://www.icse2018.org/track/icse-2018-Software-Engineering-in-Practice
     - SEIS Track: 	https://www.icse2018.org/track/icse-2018-Software-Engineering-in-Society
     - SEET Track: 	https://www.icse2018.org/track/icse-2018-Software-Engineering-Education-and-Training
     - NIER Track: 	https://www.icse2018.org/track/icse-2018-New-Ideas-and-Emerging-Results
     - AE Track: 	--- [^2]
+
+Archived version accessed: https://web.archive.org/web/20191209180227/https://conf.researchr.org/home/icse-2018
 
 ### 2019 - 41st ICSE
 - Home page: 	https://2019.icse-conferences.org/
@@ -105,10 +109,9 @@
     - NIER Track: 	https://conf.researchr.org/track/icse-2023/icse-2023-NIER
     - AE Track: 	https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation
 
+
 [^1]: In 2015 and 2021, SEET joined the Conference on Software Engineering Education and Training (CSEE\&T) as the Joint Track on Software Engineering Education and Training (JSEET), so when we mention JSEET we also refer to SEET as a single track.
 
-[^2]: The track did not exist.
+[^2]: This track did not exist in this ICSE edition.
 
-[^3]: The ICSE 2015 website is not available online, so we accessed an archived version of it from the Wayback Machine website: https://web.archive.org/web/20240213155619/http://2015.icse-conferences.org/
-
-[^4]: The ICSE 2018 website is not available online, so we accessed an archived version of it from the Wayback Machine website: https://web.archive.org/web/20191209180227/https://conf.researchr.org/home/icse-2018
+[^3]: This ICSE website is not available online, so we accessed an archived version of it from the Wayback Machine website.
