@@ -1,0 +1,95 @@
+/* Bootstrap adapt */
+body{ 
+  padding: 0px 0px 0px;
+}
+
+/* Generic CSS */
+
+html{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  height:100%;  
+  overflow-y: scroll;	
+}
+body {
+	min-height: 100%;
+	position: relative;
+}
+textarea { 
+  min-height : 250px !important;
+}
+.form-control {
+  min-width : 100% !important;
+}
+
+select {
+  width: 100%;
+  max-width: 200px;
+}
+input[type="text"]{
+  max-width: 200px;
+}
+input[type="file"]{
+  width : 200px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 999px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.inputInt {
+	width: 8em !important;
+	min-width: 8em !important;
+}
+img {
+  border-width: 0px;
+}
+span.highlightcontent {
+	background-color: #BADBFF;
+	border-radius: 3px 3px;
+	padding: 2px;
+}
+
+/* input of List */
+.sortable { list-style-type: none; margin: 0; padding: 0; }
+.sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; min-width: 165px; }
+.sortable li span.ui-icon-arrowthick-2-n-s { position: absolute; margin-left: -1.3em; }
+.sortable li span.ui-icon-close { float: right; }
+.ui-icon-close:hover{ cursor: pointer; }
+/*
+     FILE ARCHIVED ON 13:34:50 Feb 22, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:53:33 Mar 19, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.537
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.008
+  esindex: 0.01
+  cdx.remote: 47.846
+  LoadShardBlock: 119.599 (3)
+  PetaboxLoader3.datanode: 166.301 (5)
+  load_resource: 731.873 (2)
+  PetaboxLoader3.resolve: 629.747 (2)
+*/
