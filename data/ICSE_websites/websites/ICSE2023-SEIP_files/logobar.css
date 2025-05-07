@@ -1,0 +1,33 @@
+div.logobar {
+    padding: 10px 15px;
+    height: 200px;
+    text-indent: -9999px;
+    background-color: rgb(219, 227, 234);
+    background-image: url("https://conf.researchr.org/getImage/icse-2023/orig/ICSE2023-web-banner-v1-5.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+#    color: #777777;
+}
+.logobar .container{
+	border-bottom: 1px solid #e7e7e7;
+}
+.logobar a {
+    color: #4e5e6b;
+}
+.navbar{
+  border-top: none !important;
+}
+.navbar-brand {
+  font-size : 36px;
+}
+.navbar{
+  border-radius: 0px !important;
+}
+.place {
+  float: left;
+  padding : 23px 0 0 40px
+}
+.place2 {
+  float: right;
+  padding : 23px 0 0 0px
+}

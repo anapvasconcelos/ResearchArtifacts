@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<!-- saved from url=(0072)https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link href="https://conf.researchr.org/favicon.ico?28d37e6d7e5e12d24c39bdba0f4f3cfd" rel="shortcut icon" type="image/x-icon">
+<link href="./ICSE2022-AE_files/common_.css" rel="stylesheet" type="text/css">
+<title>ICSE 2022 - Artifact Evaluation - ICSE 2022</title>
+<script type="text/javascript">var show_webdsl_debug=false;</script>
+<script type="text/javascript">var contextpath="https://conf.researchr.org";</script>
+<link rel="stylesheet" href="./ICSE2022-AE_files/bootstrap.min.css" type="text/css"><link rel="stylesheet" href="./ICSE2022-AE_files/conf.css" type="text/css"><link rel="stylesheet" href="./ICSE2022-AE_files/logobar (3) (1).css" type="text/css"><link rel="stylesheet" href="./ICSE2022-AE_files/theme.bootstrap_3.min.css" type="text/css"><script type="text/javascript" src="./ICSE2022-AE_files/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src="./ICSE2022-AE_files/jquery.tablesorter.combined.min.js"></script>
+<script type="text/javascript" src="./ICSE2022-AE_files/jquery.tablesorter.pager.min.js"></script>
+<script type="text/javascript" src="./ICSE2022-AE_files/tablesorter-init.js"></script>
+<script type="text/javascript" src="./ICSE2022-AE_files/bootstrap.min.js"></script>
+<script type="text/javascript" src="./ICSE2022-AE_files/notify.min.js"></script><style type="text/css" id="notify-bootstrap">.notifyjs-bootstrap-base {
+  font-weight: bold;
+  padding: 8px 15px 8px 14px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  background-color: #fcf8e3;
+  border: 1px solid #fbeed5;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  white-space: nowrap;
+  padding-left: 25px;
+  background-repeat: no-repeat;
+  background-position: 3px 7px;
+}
+.notifyjs-bootstrap-error {
+  color: #B94A48;
+  background-color: #F2DEDE;
+  border-color: #EED3D7;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAtRJREFUeNqkVc1u00AQHq+dOD+0poIQfkIjalW0SEGqRMuRnHos3DjwAH0ArlyQeANOOSMeAA5VjyBxKBQhgSpVUKKQNGloFdw4cWw2jtfMOna6JOUArDTazXi/b3dm55socPqQhFka++aHBsI8GsopRJERNFlY88FCEk9Yiwf8RhgRyaHFQpPHCDmZG5oX2ui2yilkcTT1AcDsbYC1NMAyOi7zTX2Agx7A9luAl88BauiiQ/cJaZQfIpAlngDcvZZMrl8vFPK5+XktrWlx3/ehZ5r9+t6e+WVnp1pxnNIjgBe4/6dAysQc8dsmHwPcW9C0h3fW1hans1ltwJhy0GxK7XZbUlMp5Ww2eyan6+ft/f2FAqXGK4CvQk5HueFz7D6GOZtIrK+srupdx1GRBBqNBtzc2AiMr7nPplRdKhb1q6q6zjFhrklEFOUutoQ50xcX86ZlqaZpQrfbBdu2R6/G19zX6XSgh6RX5ubyHCM8nqSID6ICrGiZjGYYxojEsiw4PDwMSL5VKsC8Yf4VRYFzMzMaxwjlJSlCyAQ9l0CW44PBADzXhe7xMdi9HtTrdYjFYkDQL0cn4Xdq2/EAE+InCnvADTf2eah4Sx9vExQjkqXT6aAERICMewd/UAp/IeYANM2joxt+q5VI+ieq2i0Wg3l6DNzHwTERPgo1ko7XBXj3vdlsT2F+UuhIhYkp7u7CarkcrFOCtR3H5JiwbAIeImjT/YQKKBtGjRFCU5IUgFRe7fF4cCNVIPMYo3VKqxwjyNAXNepuopyqnld602qVsfRpEkkz+GFL1wPj6ySXBpJtWVa5xlhpcyhBNwpZHmtX8AGgfIExo0ZpzkWVTBGiXCSEaHh62/PoR0p/vHaczxXGnj4bSo+G78lELU80h1uogBwWLf5YlsPmgDEd4M236xjm+8nm4IuE/9u+/PH2JXZfbwz4zw1WbO+SQPpXfwG/BBgAhCNZiSb/pOQAAAAASUVORK5CYII=);
+}
+.notifyjs-bootstrap-success {
+  color: #468847;
+  background-color: #DFF0D8;
+  border-color: #D6E9C6;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAutJREFUeNq0lctPE0Ecx38zu/RFS1EryqtgJFA08YCiMZIAQQ4eRG8eDGdPJiYeTIwHTfwPiAcvXIwXLwoXPaDxkWgQ6islKlJLSQWLUraPLTv7Gme32zoF9KSTfLO7v53vZ3d/M7/fIth+IO6INt2jjoA7bjHCJoAlzCRw59YwHYjBnfMPqAKWQYKjGkfCJqAF0xwZjipQtA3MxeSG87VhOOYegVrUCy7UZM9S6TLIdAamySTclZdYhFhRHloGYg7mgZv1Zzztvgud7V1tbQ2twYA34LJmF4p5dXF1KTufnE+SxeJtuCZNsLDCQU0+RyKTF27Unw101l8e6hns3u0PBalORVVVkcaEKBJDgV3+cGM4tKKmI+ohlIGnygKX00rSBfszz/n2uXv81wd6+rt1orsZCHRdr1Imk2F2Kob3hutSxW8thsd8AXNaln9D7CTfA6O+0UgkMuwVvEFFUbbAcrkcTA8+AtOk8E6KiQiDmMFSDqZItAzEVQviRkdDdaFgPp8HSZKAEAL5Qh7Sq2lIJBJwv2scUqkUnKoZgNhcDKhKg5aH+1IkcouCAdFGAQsuWZYhOjwFHQ96oagWgRoUov1T9kRBEODAwxM2QtEUl+Wp+Ln9VRo6BcMw4ErHRYjH4/B26AlQoQQTRdHWwcd9AH57+UAXddvDD37DmrBBV34WfqiXPl61g+vr6xA9zsGeM9gOdsNXkgpEtTwVvwOklXLKm6+/p5ezwk4B+j6droBs2CsGa/gNs6RIxazl4Tc25mpTgw/apPR1LYlNRFAzgsOxkyXYLIM1V8NMwyAkJSctD1eGVKiq5wWjSPdjmeTkiKvVW4f2YPHWl3GAVq6ymcyCTgovM3FzyRiDe2TaKcEKsLpJvNHjZgPNqEtyi6mZIm4SRFyLMUsONSSdkPeFtY1n0mczoY3BHTLhwPRy9/lzcziCw9ACI+yql0VLzcGAZbYSM5CCSZg1/9oc/nn7+i8N9p/8An4JMADxhH+xHfuiKwAAAABJRU5ErkJggg==);
+}
+.notifyjs-bootstrap-info {
+  color: #3A87AD;
+  background-color: #D9EDF7;
+  border-color: #BCE8F1;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QYFAhkSsdes/QAAA8dJREFUOMvVlGtMW2UYx//POaWHXg6lLaW0ypAtw1UCgbniNOLcVOLmAjHZolOYlxmTGXVZdAnRfXQm+7SoU4mXaOaiZsEpC9FkiQs6Z6bdCnNYruM6KNBw6YWewzl9z+sHImEWv+vz7XmT95f/+3/+7wP814v+efDOV3/SoX3lHAA+6ODeUFfMfjOWMADgdk+eEKz0pF7aQdMAcOKLLjrcVMVX3xdWN29/GhYP7SvnP0cWfS8caSkfHZsPE9Fgnt02JNutQ0QYHB2dDz9/pKX8QjjuO9xUxd/66HdxTeCHZ3rojQObGQBcuNjfplkD3b19Y/6MrimSaKgSMmpGU5WevmE/swa6Oy73tQHA0Rdr2Mmv/6A1n9w9suQ7097Z9lM4FlTgTDrzZTu4StXVfpiI48rVcUDM5cmEksrFnHxfpTtU/3BFQzCQF/2bYVoNbH7zmItbSoMj40JSzmMyX5qDvriA7QdrIIpA+3cdsMpu0nXI8cV0MtKXCPZev+gCEM1S2NHPvWfP/hL+7FSr3+0p5RBEyhEN5JCKYr8XnASMT0xBNyzQGQeI8fjsGD39RMPk7se2bd5ZtTyoFYXftF6y37gx7NeUtJJOTFlAHDZLDuILU3j3+H5oOrD3yWbIztugaAzgnBKJuBLpGfQrS8wO4FZgV+c1IxaLgWVU0tMLEETCos4xMzEIv9cJXQcyagIwigDGwJgOAtHAwAhisQUjy0ORGERiELgG4iakkzo4MYAxcM5hAMi1WWG1yYCJIcMUaBkVRLdGeSU2995TLWzcUAzONJ7J6FBVBYIggMzmFbvdBV44Corg8vjhzC+EJEl8U1kJtgYrhCzgc/vvTwXKSib1paRFVRVORDAJAsw5FuTaJEhWM2SHB3mOAlhkNxwuLzeJsGwqWzf5TFNdKgtY5qHp6ZFf67Y/sAVadCaVY5YACDDb3Oi4NIjLnWMw2QthCBIsVhsUTU9tvXsjeq9+X1d75/KEs4LNOfcdf/+HthMnvwxOD0wmHaXr7ZItn2wuH2SnBzbZAbPJwpPx+VQuzcm7dgRCB57a1uBzUDRL4bfnI0RE0eaXd9W89mpjqHZnUI5Hh2l2dkZZUhOqpi2qSmpOmZ64Tuu9qlz/SEXo6MEHa3wOip46F1n7633eekV8ds8Wxjn37Wl63VVa+ej5oeEZ/82ZBETJjpJ1Rbij2D3Z/1trXUvLsblCK0XfOx0SX2kMsn9dX+d+7Kf6h8o4AIykuffjT8L20LU+w4AZd5VvEPY+XpWqLV327HR7DzXuDnD8r+ovkBehJ8i+y8YAAAAASUVORK5CYII=);
+}
+.notifyjs-bootstrap-warn {
+  color: #C09853;
+  background-color: #FCF8E3;
+  border-color: #FBEED5;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAABJlBMVEXr6eb/2oD/wi7/xjr/0mP/ykf/tQD/vBj/3o7/uQ//vyL/twebhgD/4pzX1K3z8e349vK6tHCilCWbiQymn0jGworr6dXQza3HxcKkn1vWvV/5uRfk4dXZ1bD18+/52YebiAmyr5S9mhCzrWq5t6ufjRH54aLs0oS+qD751XqPhAybhwXsujG3sm+Zk0PTwG6Shg+PhhObhwOPgQL4zV2nlyrf27uLfgCPhRHu7OmLgAafkyiWkD3l49ibiAfTs0C+lgCniwD4sgDJxqOilzDWowWFfAH08uebig6qpFHBvH/aw26FfQTQzsvy8OyEfz20r3jAvaKbhgG9q0nc2LbZxXanoUu/u5WSggCtp1anpJKdmFz/zlX/1nGJiYmuq5Dx7+sAAADoPUZSAAAAAXRSTlMAQObYZgAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfdBgUBGhh4aah5AAAAlklEQVQY02NgoBIIE8EUcwn1FkIXM1Tj5dDUQhPU502Mi7XXQxGz5uVIjGOJUUUW81HnYEyMi2HVcUOICQZzMMYmxrEyMylJwgUt5BljWRLjmJm4pI1hYp5SQLGYxDgmLnZOVxuooClIDKgXKMbN5ggV1ACLJcaBxNgcoiGCBiZwdWxOETBDrTyEFey0jYJ4eHjMGWgEAIpRFRCUt08qAAAAAElFTkSuQmCC);
+}
+</style>
+<script type="text/javascript" src="./ICSE2022-AE_files/ajax.js"></script>
+<script type="text/javascript">$(document).ready( function(){
+          $('#program-menu a[data-fltr-type]').on('click', function(event){
+            event.preventDefault();
+            window.location = $(this).attr('href') + "?" + encodeURIComponent( $(this).data('fltr-type') ) + '=' + encodeURIComponent( $(this).data('fltr-val') );
+          })
+        })
+      </script>
+<script type="text/javascript">var ignoreHashChange = false;
+    function hashChangeFunc(){
+      // show active tab on hash in url
+      if (window.location.hash !== ''){
+        var hashTargetAll = $('a[href="' + window.location.hash + '"]');
+        if(hashTargetAll.length){
+          var hashTarget = hashTargetAll.filter('[data-toggle="tab"]')
+          if( hashTarget.length ){
+            hashTarget = hashTarget.first();
+            hashTarget.tab('show');
+          } else {
+            hashTarget = hashTargetAll.first();
+          }
+          // and open parent tabs in case the target element is nested in a tab
+          var parentPane = hashTarget.closest( '.tab-pane' );
+          if(parentPane.length){
+            $('.nav a[href="#'+ parentPane.attr('id') +'"]').tab('show');
+          }
+          var parentCollapse = hashTarget.closest( '.panel-collapse:not(.in)' ).collapse('show');
+        }
+      }
+      return false;
+    }
+
+    $(document).ready(function(){
+      var tabFromRequestUrl = window.location.hash !== '' ? $('a[href="' + window.location.hash + '"][data-toggle="tab"]') : [];
+      var initUrlHash = window.location.hash;
+      hashChangeFunc()
+      if( tabFromRequestUrl.length ){
+        //Prevent the browser to auto-scroll to the anchor of the tab
+        window.location.hash = "";
+      }
+      //make in-page #links open the tabs
+      if ($._data( $(window)[0], 'events' ).hashchange == undefined){
+        $(window).on('hashchange', hashChangeFunc);
+      }
+      if(tabFromRequestUrl.length){
+        setTimeout( function(){
+          ignoreHashChange = true;
+          history.replaceState(null, null, initUrlHash);
+          ignoreHashChange = false;
+        }, 10 );
+      }
+    });
+    var autoTabFunction = function(node){
+      var isActivatingFirstTab = false;
+      // remember the hash in the URL without jumping
+      $('a[data-toggle="tab"]:not(.no-hash):not(.bound)').addClass('bound').on('shown.bs.tab', function(e){
+        if(!isActivatingFirstTab){
+          var newhash = '#' + $(e.target).attr('href').substr(1);
+          if(history.replaceState){
+            history.replaceState(null, null, newhash);
+          } else{
+            location.hash = newhash;
+          }
+        }
+      });
+
+      //When no tab is active, set the first one to active
+      $(node).find('.nav-tabs:not(.bound), .nav-pills:not(.bound)').addClass('bound').each(function(){
+        if( $(this).children().length > 0 && 1 > $(this).find('.active').length){
+          const firstItem = $(this).find('a[data-toggle="tab"]').first();
+          isActivatingFirstTab = true;
+          firstItem.tab('show');
+          isActivatingFirstTab = false;
+        }
+      });
+    }
+  </script>
+<meta prefix="og: http://ogp.me/ns#" property="og:title" content="ICSE 2022 - Artifact Evaluation - ICSE 2022">
+<script type="text/javascript">(function($){
+        $(document).ready(function(){
+          $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function(event) {
+            event.preventDefault(); 
+            event.stopPropagation(); 
+            $(this).parent().siblings().removeClass('open');
+            $(this).parent().toggleClass('open');
+          });
+        });
+      })(jQuery);
+      </script>
+<meta name="description" content="Welcome to the website of the ICSE 2022 conference in Pittsburgh! 
+ICSE, the IEEE/ACM International Conference on Software Engineering, is the premier software engineering conference. Since 1975, ICSE provides a forum where researchers, practitioners, and educators gather together to present and discuss the most recent innovations, trends, experiences and issues in the field of software engineering.">
+<script async="" src="./ICSE2022-AE_files/js"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-4G0QWEKVQS', {'cookie_domain': 'auto', 'anonymizeIp': true });gtag('config', 'UA-9607501-2', {'cookie_domain': 'auto', 'anonymizeIp': true });</script>
+<meta prefix="og: http://ogp.me/ns#" property="og:description" content="Welcome to the website of the ICSE 2022 conference in Pittsburgh! 
+ICSE, the IEEE/ACM International Conference on Software Engineering, is the premier software engineering conference. Since 1975, ICSE provides a forum where researchers, practitioners, and educators gather together to present and discuss the most recent innovations, trends, experiences and issues in the field of software engineering.">
+<script type="text/javascript">function addEventModalLoadOnClick( containerNode ){
+        $(containerNode).find( "a[data-event-modal]" ).on("click", function(e){
+          var eventId = $(this).data("event-modal"); 
+          var modalElem = $("#modal-" + eventId);
+          if(modalElem.length){
+            modalElem.modal({ backdrop: 'static', keyboard: true}, 'show');
+          } else {
+            var loaderElem = $("#event-modal-loader");
+            loaderElem.find("input.event-id-input").val( eventId );
+            loaderElem.find("#load-modal-action").click();
+          }
+          e.preventDefault();
+        } );
+      }
+    </script><script type="text/javascript">function addStarredEventOnClick( containerNode ){
+        $(containerNode).find( "[data-event-star]" ).on("click", function(e){
+          var eventId = $(this).data("event-star"); 
+          var starEventFormElem = $("#event-star-form");
+          starEventFormElem.find("input.event-id-input").val( eventId );
+          starEventFormElem.find("#star-event-action").click();
+          e.preventDefault();
+          e.stopPropagation();
+        } );
+      }
+    </script><script type="text/javascript">function pauseOnCloseModal( modalid ){
+        //pauses video (only youtube at the moment) when closing modal
+        $('#' + modalid).on('hidden.bs.modal', function () {
+          $(this).find('.embed-container iframe[src*=enablejsapi]').each( function(){ this.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*') } );
+        } )
+      }
+    </script>
+<meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://conf.researchr.org/getImage/icse-2022/carousel/shutterstock_518539414+copy.jpg?1601573946000">
+<style>body.tablesorter-disableSelection { -ms-user-select: none; -moz-user-select: -moz-none;-khtml-user-select: none; -webkit-user-select: none; user-select: none; }.tablesorter-resizable-container { position: relative; height: 1px; }.tablesorter-resizable-handle { position: absolute; display: inline-block; width: 8px;top: 1px; cursor: ew-resize; z-index: 3; user-select: none; -moz-user-select: none; }</style><style type="text/css" id="core-notify">.notifyjs-corner {
+  position: fixed;
+  margin: 5px;
+  z-index: 1050;
+}
+
+.notifyjs-corner .notifyjs-wrapper,
+.notifyjs-corner .notifyjs-container {
+  position: relative;
+  display: block;
+  height: inherit;
+  width: inherit;
+  margin: 3px;
+}
+
+.notifyjs-wrapper {
+  z-index: 1;
+  position: absolute;
+  display: inline-block;
+  height: 0;
+  width: 0;
+}
+
+.notifyjs-container {
+  display: none;
+  z-index: 1;
+  position: absolute;
+}
+
+.notifyjs-hidable {
+  cursor: pointer;
+}
+
+[data-notify-text],[data-notify-html] {
+  position: relative;
+}
+
+.notifyjs-arrow {
+  position: absolute;
+  z-index: 2;
+  width: 0;
+  height: 0;
+}</style></head>
+<body id="track" data-new-gr-c-s-check-loaded="14.1226.0" data-gr-ext-installed=""><div class="frame"><a href="https://conf.researchr.org/blogposts/icse-2022" class="blog-link btn btn-xs btn-default navigate">Write a Blog &gt;&gt;</a><div class="logobar"><div class="container"><a href="https://conf.researchr.org/home/icse-2022" class="navbar-brand navigate"><span class="brand-text">ICSE 2022</span></a><div class="place">Sun 8 - Fri 27 May 2022 <a href="https://conf.researchr.org/venue/icse-2022/icse-2022-virtual-venue" class="navigate"></a></div></div></div><div class="navbar navbar-default"><div class="container"><div class="navbar-header"><button type="button" data-toggle="collapse" data-target="#navigationbar" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div id="navigationbar" class="navigationbar collapse navbar-collapse"><ul class="block nav navbar-nav"><li id="tracks-in-navbar" class="dropdown"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle">Tracks <span class="caret"></span></a><ul class="block dropdown-menu multi-column columns-3"><div class="row"><div class="col-sm-5"><ul class="block multi-column-dropdown"><li class="block dropdown-header">ICSE 2022</li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-plenaries" class="navigate">All plenary events</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-keynotes" class="navigate">Keynotes</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-awards" class="navigate">Awards</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-sponsors" class="navigate">Sponsors</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-community" class="navigate">Community</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-papers" class="navigate">Technical Track</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation" class="navigate">Artifact Evaluation</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-demo---demonstrations" class="navigate">DEMO - Demonstrations</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-nier---new-ideas-and-emerging-results" class="navigate">NIER - New Ideas and Emerging Results</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-seet" class="navigate">SEET - Software Engineering Education and Training</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice" class="navigate">SEIP - Software Engineering in Practice</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-seis---software-engineering-in-society" class="navigate">SEIS - Software Engineering in Society</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-journal-first-papers" class="navigate">Journal-First Papers</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-src---acm-student-research-competition" class="navigate">SRC - ACM Student Research Competition</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-ds---doctoral-symposium" class="navigate">DS - Doctoral Symposium</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-nfs---new-faculty-symposium" class="navigate">NFS - New Faculty Symposium</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-smew---student-mentoring-workshop" class="navigate">SMeW - Student Mentoring Workshop</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-posters" class="navigate">Posters</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-birds-of-a-feather" class="navigate">Birds of a Feather</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-workshops" class="navigate">Workshops</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-student-volunteers" class="navigate">Student Volunteers</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies" class="navigate">Open Science Policies</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-submitting-to-icse2022--q-a" class="navigate">Submitting to ICSE2022: Q&amp;A</a></li><li class="block"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-social" class="navigate">Social</a></li></ul></div><div class="col-sm-7"><ul class="block multi-column-dropdown"><li class="block dropdown-header">Co-hosted Conferences</li><li class="block"><a href="https://conf.researchr.org/home/ast-2022" class="navigate"><strong>AST</strong> </a></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>CAIN</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/home/cain-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> CAIN</a></li><li class="block"><a href="https://conf.researchr.org/track/cain-2022/cain-2022" class="navigate"><strong>CAIN</strong> </a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>CHASE</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/home/chase-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> CHASE</a></li><li class="block"><a href="https://conf.researchr.org/track/chase-2022/chase-2022-research-papers" class="navigate"><strong>CHASE</strong> Research Papers</a></li></ul></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/Formalise-2022" class="navigate"><strong>FormaliSE</strong> </a></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>ICPC</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/home/icpc-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> ICPC</a></li><li class="block"><a href="https://conf.researchr.org/track/icpc-2022/icpc-2022-era" class="navigate"><strong>ICPC</strong> Early Research Achievements (ERA)</a></li><li class="block"><a href="https://conf.researchr.org/track/icpc-2022/icpc-2022-journal-first" class="navigate"><strong>ICPC</strong> Journal First</a></li><li class="block"><a href="https://conf.researchr.org/track/icpc-2022/icpc-2022-rene" class="navigate"><strong>ICPC</strong> Replications and Negative Results (RENE)</a></li><li class="block"><a href="https://conf.researchr.org/track/icpc-2022/icpc-2022-research" class="navigate"><strong>ICPC</strong> Research</a></li><li class="block"><a href="https://conf.researchr.org/track/icpc-2022/icpc-2022-tool-demonstration" class="navigate"><strong>ICPC</strong> Tool Demonstration</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>MOBILESoft</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/home/mobilesoft-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> MOBILESoft</a></li><li class="block"><a href="https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-plenary" class="navigate"><strong>MOBILESoft</strong> Plenary</a></li><li class="block"><a href="https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-technical-papers" class="navigate"><strong>MOBILESoft</strong> Technical Papers</a></li><li class="block"><a href="https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-industry-forum" class="navigate"><strong>MOBILESoft</strong> Industry Forum</a></li><li class="block"><a href="https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-nier--novel-ideas-and-emerging-results-" class="navigate"><strong>MOBILESoft</strong> NIER (Novel Ideas and Emerging Results)</a></li><li class="block"><a href="https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-student-research-competition" class="navigate"><strong>MOBILESoft</strong> Student Research Competition</a></li><li class="block"><a href="https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-tool-demos-and-mobile-apps" class="navigate"><strong>MOBILESoft</strong> Tool Demos and Mobile Apps</a></li><li class="block"><a href="https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-special-issue" class="navigate"><strong>MOBILESoft</strong> Special Issue</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>MSR</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/home/msr-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> MSR</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-data-showcase" class="navigate"><strong>MSR</strong> Data and Tool Showcase Track</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-foss-award" class="navigate"><strong>MSR</strong> FOSS Award</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msrhackathon2022" class="navigate"><strong>MSR</strong> Hackathon</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-industry-track" class="navigate"><strong>MSR</strong> Industry Track</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-keynotes" class="navigate"><strong>MSR</strong> Keynotes</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-mip-award" class="navigate"><strong>MSR</strong> MIP Award </a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-msr-awards" class="navigate"><strong>MSR</strong>  Awards</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-mining-challenge" class="navigate"><strong>MSR</strong> Mining Challenge</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-registered-reports" class="navigate"><strong>MSR</strong> Registered Reports</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-shadow-pc" class="navigate"><strong>MSR</strong> Shadow PC</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers" class="navigate"><strong>MSR</strong> Technical Papers</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-tutorials" class="navigate"><strong>MSR</strong> Tutorials</a></li><li class="block"><a href="https://conf.researchr.org/track/msr-2022/msr-2022-vision-and-reflection" class="navigate"><strong>MSR</strong> Vision and Reflection</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>TechDebt</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://2022.techdebtconf.org/" class="navigate"><span class="glyphicon glyphicon-home"></span> TechDebt</a></li><li class="block"><a href="https://2022.techdebtconf.org/track/TechDebt-2022-papers" class="navigate"><strong>TechDebt</strong> Technical Papers</a></li><li class="block"><a href="https://2022.techdebtconf.org/track/TechDebt-2022-tools-track" class="navigate"><strong>TechDebt</strong> Tools Track</a></li></ul></li><li class="block dropdown-header">Workshops</li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/apr-2022" class="navigate"><strong>APR</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/botse-2022" class="navigate"><strong>BotSE</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/dree-2022" class="navigate"><strong>DREE</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/emip-2022" class="navigate"><strong>EMIP</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/encycris-2022" class="navigate"><strong>EnCyCriS</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/fairware-2022" class="navigate"><strong>FairWare</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/gas-2022" class="navigate"><strong>GAS</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/ge-icse-2022" class="navigate"><strong>GE@ICSE 2023</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/iwsib-2022" class="navigate"><strong>IWSiB</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/met-2022" class="navigate"><strong>MET</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/nlbse-2022" class="navigate"><strong>NLBSE</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/q-se-2022" class="navigate"><strong>Q-SE</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/ropes-2022" class="navigate"><strong>RoPES</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/rose-2022" class="navigate"><strong>RoSE</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/sbst-2022" class="navigate"><strong>SBST</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/se4rai-2022" class="navigate"><strong>SE4RAI</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/seeng-2022" class="navigate"><strong>SEENG</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/serp4iot-2022" class="navigate"><strong>SERP4IoT</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/sesos-2022" class="navigate"><strong>SESoS</strong> </a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2022/wetseb-2022" class="navigate"><strong>WETSEB</strong> </a></li><li class="block dropdown-header">Co-hosted Symposia</li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SEAMS</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/home/seams-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> SEAMS</a></li><li class="block"><a href="https://conf.researchr.org/track/seams-2022/seams-2022-papers" class="navigate"><strong>SEAMS</strong>  SEAMS</a></li></ul></li></ul></div></div></ul></li><li class="dropdown"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle">Program <span class="caret"></span></a><ul id="program-menu" class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" class="navigate">ICSE Program</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="prog" data-fltr-val="Your Program" class="navigate"><span class="glyphicon glyphicon-star"></span> Your Program</a></li><li class="block"><a href="https://conf.researchr.org/info/icse-2022/in-person-program" class="navigate">In-Person Program</a></li><li class="block"><a href="https://conf.researchr.org/info/icse-2022/virtual-program" class="navigate">Virtual Program</a></li><li class="block"><a href="https://conf.researchr.org/info/icse-2022/keynotes" class="navigate">Keynotes</a></li><li class="block"><a href="https://conf.researchr.org/info/icse-2022/awards" class="navigate">Awards</a></li><li class="block divider"></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>Filter by Day</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Sun 8 May 2022" class="navigate">Sun 8 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Mon 9 May 2022" class="navigate">Mon 9 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Tue 10 May 2022" class="navigate">Tue 10 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Wed 11 May 2022" class="navigate">Wed 11 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Thu 12 May 2022" class="navigate">Thu 12 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Fri 13 May 2022" class="navigate">Fri 13 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Sat 14 May 2022" class="navigate">Sat 14 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Sun 15 May 2022" class="navigate">Sun 15 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Mon 16 May 2022" class="navigate">Mon 16 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Tue 17 May 2022" class="navigate">Tue 17 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Wed 18 May 2022" class="navigate">Wed 18 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Thu 19 May 2022" class="navigate">Thu 19 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Fri 20 May 2022" class="navigate">Fri 20 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Sat 21 May 2022" class="navigate">Sat 21 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Sun 22 May 2022" class="navigate">Sun 22 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Mon 23 May 2022" class="navigate">Mon 23 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Tue 24 May 2022" class="navigate">Tue 24 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Wed 25 May 2022" class="navigate">Wed 25 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Thu 26 May 2022" class="navigate">Thu 26 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Fri 27 May 2022" class="navigate">Fri 27 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Sat 28 May 2022" class="navigate">Sat 28 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Sun 29 May 2022" class="navigate">Sun 29 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Mon 30 May 2022" class="navigate">Mon 30 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Tue 31 May 2022" class="navigate">Tue 31 May</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Wed 1 Jun 2022" class="navigate">Wed 1 Jun</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Thu 2 Jun 2022" class="navigate">Thu 2 Jun</a></li><li class="block"><a href="https://conf.researchr.org/program/icse-2022/program-icse-2022/" data-fltr-type="date" data-fltr-val="Fri 3 Jun 2022" class="navigate">Fri 3 Jun</a></li></ul></li></ul></li><li class="dropdown"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle">Organization <span class="caret"></span></a><ul class="block dropdown-menu multi-column columns-2"><div class="row"><div class="col-sm-6"><ul class="block multi-column-dropdown"><li class="block dropdown-header">ICSE 2022 Committees</li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block dropdown-header">Track Committees  </li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-papers-program-committee" class="navigate"><strong>Technical Track</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-artifact-evaluation-program-committee" class="navigate"><strong>Artifact Evaluation</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-demo---demonstrations-program-committee" class="navigate"><strong>DEMO - Demonstrations</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-nier---new-ideas-and-emerging-results-program-committee" class="navigate"><strong>NIER - New Ideas and Emerging Results</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-seet-program-committee" class="navigate"><strong>SEET - Software Engineering Education and Training</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-seip---software-engineering-in-practice-program-committee" class="navigate"><strong>SEIP - Software Engineering in Practice</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-seis---software-engineering-in-society" class="navigate"><strong>SEIS - Software Engineering in Society</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-journal-first-papers-program-committee" class="navigate"><strong>Journal-First Papers</strong></a></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SRC - ACM Student Research Competition</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-src---acm-student-research-competition-program-committee" class="navigate">Program Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-src---acm-student-research-competition-judges" class="navigate">Judges</a></li></ul></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-ds---doctoral-symposium-program-committee" class="navigate"><strong>DS - Doctoral Symposium</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-nfs---new-faculty-symposium-organizing-committee" class="navigate"><strong>NFS - New Faculty Symposium</strong></a></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SMeW - Student Mentoring Workshop</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-smew---student-mentoring-workshop-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-smew---student-mentoring-workshop-mentors" class="navigate">Mentors</a></li></ul></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-posters-program-committee" class="navigate"><strong>Posters</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-workshops-pc" class="navigate"><strong>Workshops</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-open-science-policies-organizing-committee" class="navigate"><strong>Open Science Policies</strong></a></li><li class="block dropdown-header">Contributors</li><li class="block"><a href="https://conf.researchr.org/people-index/icse-2022" class="navigate"><span class="glyphicon glyphicon-search"></span><sup><span class="glyphicon glyphicon-user"></span></sup> People Index</a></li></ul></div><div class="col-sm-6"><ul class="block multi-column-dropdown"><li class="block dropdown-header">Co-hosted Conferences</li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>AST</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/ast-2022/ast-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/ast-2022/ast-2022-ast-steering-committee" class="navigate">AST Steering Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/ast-2022/ast-2022-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>CAIN</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/cain-2022/cain-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/cain-2022/cain-2022-papers-program-committee" class="navigate">Program Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/cain-2022/cain-2022-industrial-track-chair" class="navigate">Industrial Track Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/cain-2022/cain-2022-poster-committee" class="navigate">Posters Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>CHASE</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/chase-2022/chase-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/chase-2022/chase-2022-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>FormaliSE</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/formalise-2022-general-chairs" class="navigate">General Chairs</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/formalise-2022-program-chairs" class="navigate">Program Chairs</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/formalise-2022-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>ICPC</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icpc-2022/icpc-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icpc-2022/icpc-2022-steering-committee" class="navigate">Steering Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icpc-2022/icpc-2022-era-program-committee" class="navigate"><strong>Early Research Achievements (ERA)</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icpc-2022/icpc-2022-rene-program-committee" class="navigate"><strong>Replications and Negative Results (RENE)</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icpc-2022/icpc-2022-research-program-committee" class="navigate"><strong>Research</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/icpc-2022/icpc-2022-tool-demonstration-program-committee" class="navigate"><strong>Tool Demonstration</strong></a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>MOBILESoft</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/mobilesoft-2022/mobilesoft-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/mobilesoft-2022/mobilesoft-2022-technical-papers-committee" class="navigate"><strong>Technical Papers</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/mobilesoft-2022/mobilesoft-2022-industry-forum-program-committee" class="navigate"><strong>Industry Forum</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/mobilesoft-2022/mobilesoft-2022-nier--novel-ideas-and-emerging-results--nier" class="navigate"><strong>NIER (Novel Ideas and Emerging Results)</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/mobilesoft-2022/mobilesoft-2022-student-research-competition-program-committee" class="navigate"><strong>Student Research Competition</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/mobilesoft-2022/mobilesoft-2022-tool-demos-and-mobile-apps-program-committee" class="navigate"><strong>Tool Demos and Mobile Apps</strong></a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>MSR</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-data-showcase-data-showcase-committee" class="navigate"><strong>Data and Tool Showcase Track</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-foss-award-program-committee" class="navigate"><strong>FOSS Award</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msrhackathon2022-hackathon-committee" class="navigate"><strong>Hackathon</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-industry-track-industry-track-committee" class="navigate"><strong>Industry Track</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-mip-award--committee-" class="navigate"><strong>MIP Award </strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-msr-awards-committee" class="navigate"><strong>MSR Awards</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-mining-challenge-mining-challenge-committee" class="navigate"><strong>Mining Challenge</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-registered-reports-program-committee" class="navigate"><strong>Registered Reports</strong></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-shadow-pc-shadow-pc-co-chairs" class="navigate"><strong>Shadow PC</strong> <small>Shadow PC Co-chairs</small></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-shadow-pc-shadow-pc-advisors" class="navigate"><strong>Shadow PC</strong> <small>Shadow PC Advisors</small></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-shadow-pc-shadow-pc-committee" class="navigate"><strong>Shadow PC</strong> <small>Shadow PC Members</small></a></li><li class="block"><a href="https://conf.researchr.org/committee/msr-2022/msr-2022-technical-papers-program-committee" class="navigate"><strong>Technical Papers</strong></a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>TechDebt</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://2022.techdebtconf.org/committee/TechDebt-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://2022.techdebtconf.org/committee/TechDebt-2022-steering-committee" class="navigate">Steering Committee</a></li><li class="block"><a href="https://2022.techdebtconf.org/committee/TechDebt-2022-papers-organizing-committee" class="navigate"><strong>Technical Papers</strong></a></li><li class="block"><a href="https://2022.techdebtconf.org/committee/TechDebt-2022-tools-track-tools-track-committee" class="navigate"><strong>Tools Track</strong></a></li></ul></li><li class="block dropdown-header">Workshops</li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>APR</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/apr-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>BotSE</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/botse-2022-papers-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/botse-2022-papers-programme-committee" class="navigate">Programme Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/botse-2022-papers-steering-committee" class="navigate">Steering Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>DREE</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/dree-2022-papers-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/dree-2022-papers-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>EMIP</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/emip-2022-papers-organizers" class="navigate">Organizers</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/emip-2022-papers-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>EnCyCriS</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/encycris-2022-papers-organization-committee" class="navigate">Organization Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/encycris-2022-papers-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>FairWare</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/fairware-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>GAS</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/gas-2022-organizer" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/gas-2022-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>GE@ICSE 2023</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/ge-icse-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>IWSiB</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/iwsib-2022-organising-committee" class="navigate">Organising Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/iwsib-2022-program-committee" class="navigate">Program Committee </a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>MET</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/met-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>NLBSE</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/nlbse-2022-papers-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/nlbse-2022-papers-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>Q-SE</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/q-se-2022/q-se-2022-papers-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/q-se-2022/q-se-2022-papers-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>RoPES</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/ropes-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>RoSE</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/rose-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SBST</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/sbst-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SE4RAI</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/se4rai-2022-papers-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/se4rai-2022-papers-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SEENG</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/seeng-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SERP4IoT</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/serp4iot-2022-papers-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/serp4iot-2022-papers-program-committee" class="navigate">Program Committee</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SESoS</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/sesos-2022-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/sesos-2022-steering-committee" class="navigate">Steering Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/sesos-2022-proceedings-chair" class="navigate">Proceedings Chair</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/sesos-2022-program-committee" class="navigate">Program Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/icse-2022/sesos-2022-social-media---website-support" class="navigate">Social Media &amp; Website Support</a></li></ul></li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>WETSEB</strong></a><ul class="block dropdown-menu"><li class="block small"><a href="https://conf.researchr.org/home/icse-2022/wetseb-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> N/A - check homepage</a></li></ul></li><li class="block dropdown-header">Co-hosted Symposia</li><li class="dropdown dropdown-submenu "><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><strong>SEAMS</strong></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/committee/seams-2022/seams-2022-papers-organizing-committee" class="navigate">Organizing Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/seams-2022/seams-2022-papers-program-committee" class="navigate">Program Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/seams-2022/seams-2022-papers-industry-committee" class="navigate">Industry Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/seams-2022/seams-2022-papers-doctoral-symposium-committee" class="navigate">Doctoral Symposium Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/seams-2022/seams-2022-papers-artifact-program-committee" class="navigate">Artifact Program Committee</a></li><li class="block"><a href="https://conf.researchr.org/committee/seams-2022/seams-2022-papers-steering-committee" class="navigate">Steering Committee</a></li></ul></li></ul></div></div></ul></li><li class="dropdown"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle">Attending <span class="caret"></span></a><ul class="block dropdown-menu"><li class="block" style="display: none;"><a href="https://conf.researchr.org/venue/icse-2022/icse-2022-physical-venue" class="navigate" style="display: none;">Venue: David Lawrence Convention Center</a></li><li class="block" style="display: none;"><a href="https://conf.researchr.org/venue/icse-2022/icse-2022-virtual-venue" class="navigate" style="display: none;">Virtual: Midspace</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/Attending-Virtually" class="navigate">Overview</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/Overview" class="navigate">Attending Virtually</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/attending-in-person" class="navigate">Attending In-Person</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/registration" class="navigate">Registration</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/code-of-conduct" class="navigate">Code of Conduct</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/diversity-and-inclusion-plan" class="navigate">Diversity, Equity, and Inclusion</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/travel-support" class="navigate">Travel Support</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/social-events" class="navigate">Social Events</a></li><li class="block"><a href="https://conf.researchr.org/attending/icse-2022/sustainability" class="navigate">Sustainability</a></li></ul></li><li class="block"><a href="https://conf.researchr.org/info/icse-2022/sponsors-and-supporters" class="navigate">Sponsors and Supporters</a></li><li class="block"><a href="https://conf.researchr.org/search/icse-2022//all" class="navigate"><span class="glyphicon glyphicon-search"></span><span class="hidden-sm"> Search</span></a></li><li class="dropdown"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><span class="hidden-sm">Series <span class="caret"></span></span><span title="" class="visible-sm" data-original-title="Series"><span class="glyphicon glyphicon-repeat"></span> <span class="caret"></span></span></a><ul class="block dropdown-menu"><li class="block"><a href="https://conf.researchr.org/series/icse" class="navigate"><span class="glyphicon glyphicon-home"></span> Series</a></li><li class="block divider"></li><li class="block"><a href="https://conf.researchr.org/home/icse-2026" class="navigate">ICSE 2026</a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2025" class="navigate">ICSE 2025</a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2024" class="navigate">ICSE 2024</a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2023" class="navigate">ICSE 2023</a></li><li class="block"><span class="text-muted" style="margin-left: 2px;"><span class="glyphicon glyphicon-hand-right"></span> ICSE 2022</span></li><li class="block"><a href="https://2021.icse-conferences.org/" class="navigate">ICSE 2021</a></li><li class="block"><a href="https://2020.icse-conferences.org/" class="navigate">ICSE 2020</a></li><li class="block"><a href="https://2019.icse-conferences.org/" class="navigate">ICSE 2019</a></li><li class="block"><a href="https://conf.researchr.org/home/icse-2018" class="navigate">* ICSE 2018 *</a></li></ul></li></ul><div class="navbar-right"><ul class="block nav navbar-nav"><li class="dropdown"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#" data-toggle="dropdown" class="dropdown-toggle"><img alt="Ana Paula Vasconcelos" src="./ICSE2022-AE_files/micro-avatar.jpg" class="outputimage navbar-image"></a><ul class="block dropdown-menu"><li class="block dropdown-header">Ana Paula Vasconcelos</li><li class="block divider"></li><li class="block"><a href="https://conf.researchr.org/profile/icse-2022/anapaulavasconcelos" class="navigate">My Profile</a></li><li class="block"><a href="https://conf.researchr.org/my-account/icse-2022" class="navigate">My Account</a></li><li class="block"><button style="position: absolute; left: -9999px; width: 1px; height: 1px;" onclick="javascript:serverInvoke(&quot;https://conf.researchr.org/track&quot;,&quot;signoffLinkBool_Bool_signoutuser128514b8869529641f43a79dd4fd43709&quot;, [{&quot;name&quot;:&quot;context&quot;, &quot;value&quot;:&quot;icse-2022&quot;},{&quot;name&quot;:&quot;tr&quot;, &quot;value&quot;:&quot;icse-2022-artifact-evaluation&quot;},],&quot;&quot;, this.nextSibling, true,&quot;1&quot;); return false;"></button><a submitid="signoffLinkBool_Bool_signoutuser128514b8869529641f43a79dd4fd43709" href="javascript:void(0)" onclick="javascript:loadImageElem=this;$(this.previousSibling).click()">Sign Off <small>(this device only)</small></a></li><li class="block"><button style="position: absolute; left: -9999px; width: 1px; height: 1px;" onclick="javascript:serverInvoke(&quot;https://conf.researchr.org/track&quot;,&quot;signoffLinkBool_Bool_signoutuser1fe476070b17af3a906e7bc2e4f8cdc8e&quot;, [{&quot;name&quot;:&quot;context&quot;, &quot;value&quot;:&quot;icse-2022&quot;},{&quot;name&quot;:&quot;tr&quot;, &quot;value&quot;:&quot;icse-2022-artifact-evaluation&quot;},],&quot;&quot;, this.nextSibling, true,&quot;1&quot;); return false;"></button><a submitid="signoffLinkBool_Bool_signoutuser1fe476070b17af3a906e7bc2e4f8cdc8e" href="javascript:void(0)" onclick="javascript:loadImageElem=this;$(this.previousSibling).click()">Sign Off <small>(all devices)</small></a></li><li class="block divider"></li><li class="block dropdown-header"><span class="glyphicon glyphicon-cog"></span> Management</li><li class="block"><a href="https://conf.researchr.org/manage/icse-2022" class="navigate"><span class="glyphicon glyphicon-dashboard"></span> Manage dashboard</a></li></ul></li></ul></div></div></div></div><div id="content" class="container"><div class="page-header"><span class="text-muted small"><span class="glyphicon glyphicon-home"></span> <a href="https://conf.researchr.org/home/icse-2022" class="navigate">ICSE 2022</a> (<a href="https://conf.researchr.org/series/icse" class="navigate">series</a>) / </span><h1>Artifact Evaluation<span class="pull-right small h1">ICSE 2022</span></h1></div><div class="row"><div class="col-sm-8"><ul id="tab" class="nav nav-pills bound"><li class="active"><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions" data-toggle="tab" class="bound" aria-expanded="true">Call For Artifact Submissions</a></li></ul><script type="text/javascript">(function(){
+    var post_process_function = function(n){ var node=(n&&n.nodeType === 1)?n:document; autoTabFunction(node); };
+    var original_post_process_func = ajax_post_process;
+    ajax_post_process = function(){
+      original_post_process_func.apply(this,arguments);
+      post_process_function.apply(this,arguments);
+    };
+    $(document).ready( post_process_function );
+  })();   
+  </script><div class="tab-content"><div id="Call-For-Artifact-Submissions" class="tab-pane active"><h2>Call For Artifact Submissions</h2><p></p><p class="MsoNormal"><b><span style="color:red">Attention</span></b><span style="
+color:red">: To ease our review process, we recommend authors use one of the
+two styles to running your artifacts, both are Ubuntu 20.04 (amd64):
+<!--[if !supportLineBreakNewLine]--><br style="mso-special-character:line-break">
+<!--[endif]--></span></p>
+<ul type="disc">
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style="color:red">Based on a virtual
+     machine (username &amp; password: icse22ae):&nbsp;<a href="https://urldefense.com/v3/__https:/cowtransfer.com/s/c07faf79207545__;!!PvXuogZ4sRB2p-tU!XpgUDiuRa0r97muh4NMURK4PHg9-wpvdC-eeOwMHBsL1Id3hOUu2pThBax00jQ$">https://cowtransfer.com/s/c07faf79207545</a>&nbsp;&nbsp;code
+     (optional): vqx6qz</span><span><o:p></o:p></span></li>
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><span style="color:red">Based on a docker:&nbsp;<a href="https://urldefense.com/v3/__https:/hub.docker.com/layers/ubuntu/library/ubuntu/20.04/images/sha256-57df66b9fc9ce2947e434b4aa02dbe16f6685e20db0c170917d4a1962a5fe6a9__;!!PvXuogZ4sRB2p-tU!XpgUDiuRa0r97muh4NMURK4PHg9-wpvdC-eeOwMHBsL1Id3hOUu2pTg6Rx3C-A$">https://hub.docker.com/layers/ubuntu/library/ubuntu/20.04/images/sha256-57df66b9fc9ce2947e434b4aa02dbe16f6685e20db0c170917d4a1962a5fe6a9</a></span><span><o:p></o:p></span></li>
+</ul>
+<p class="MsoNormal"><span style="
+color:red">In either case, please ensure any third party library installations
+are included in your steps.</span><span style="font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;"><o:p></o:p></span></p>
+<p>The artifact evaluation track aims to review, promote, share, and catalog the research artifacts of accepted software engineering papers. Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS Tracks are can submit an artifact for the&nbsp;<a href="https://2021.esec-fse.org/track/fse-2021-artifacts#evaluated">Artifacts Evaluated</a><span>&nbsp;and&nbsp;</span><a href="https://2021.esec-fse.org/track/fse-2021-artifacts#available"><span>Artifacts Available</span></a><span>&nbsp;badges. Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the&nbsp;</span><a href="https://2021.esec-fse.org/track/fse-2021-artifacts#validated"><span>Results Validated</span></a><span>&nbsp;badges. Definitions for the badges are given in the table below, taken from&nbsp;</span><a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current"><span>ACM Artifact Review and Badging Version 1.1</span></a><span>.</span></p>
+<div align="center">
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%" style="width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="40%" colspan="2" valign="top" style="width:40.7%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Artifacts Evaluated<o:p></o:p></span></p>
+  </td>
+  <td width="18%" valign="top" style="width:18.38%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Artifacts Available<o:p></o:p></span></p>
+  </td>
+  <td width="40%" colspan="2" valign="top" style="width:40.92%;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Results Validated<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="20%" valign="top" style="width:20.98%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Functional<o:p></o:p></span></p>
+  </td>
+  <td width="19%" valign="top" style="width:19.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Reusable<o:p></o:p></span></p>
+  </td>
+  <td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Available<o:p></o:p></span></p>
+  </td>
+  <td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Reproduced<o:p></o:p></span></p>
+  </td>
+  <td width="19%" valign="top" style="width:19.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span>Replicated<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="20%" valign="top" style="width:20.98%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1029" type="#_x0000_t75"
+   alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg"
+   style='width:78pt;height:78pt;visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg" o:title="artifacts_evaluated_functional_dl"/>
+  </v:shape><![endif]--><!--[if !vml]--><img border="0" width="78" height="78" src="./ICSE2022-AE_files/artifacts_evaluated_functional_dl.jpg" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg" v:shapes="Picture_x0020_1"><!--[endif]--></span><span><o:p></o:p></span></p>
+  </td>
+  <td width="19%" valign="top" style="width:19.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span><!--[if gte vml 1]><v:shape
+   id="Picture_x0020_2" o:spid="_x0000_i1028" type="#_x0000_t75" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_reusable_dl.jpg"
+   style='width:78pt;height:78pt;visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_reusable_dl.jpg" o:title="artifacts_evaluated_reusable_dl"/>
+  </v:shape><![endif]--><!--[if !vml]--><img border="0" width="78" height="78" src="./ICSE2022-AE_files/artifacts_evaluated_reusable_dl.jpg" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_reusable_dl.jpg" v:shapes="Picture_x0020_2"><!--[endif]--></span><span><o:p></o:p></span></p>
+  </td>
+  <td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span><!--[if gte vml 1]><v:shape
+   id="Picture_x0020_3" o:spid="_x0000_i1027" type="#_x0000_t75" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg"
+   style='width:78pt;height:78pt;visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg" o:title="artifacts_available_dl"/>
+  </v:shape><![endif]--><!--[if !vml]--><img border="0" width="78" height="78" src="./ICSE2022-AE_files/artifacts_available_dl.jpg" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg" v:shapes="Picture_x0020_3"><!--[endif]--></span><span><o:p></o:p></span></p>
+  </td>
+  <td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span><!--[if gte vml 1]><v:shape
+   id="Picture_x0020_4" o:spid="_x0000_i1026" type="#_x0000_t75" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/results_reproduced_dl.jpg"
+   style='width:78pt;height:78pt;visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/results_reproduced_dl.jpg" o:title="results_reproduced_dl"/>
+  </v:shape><![endif]--><!--[if !vml]--><img border="0" width="78" height="78" src="./ICSE2022-AE_files/results_reproduced_dl.jpg" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/results_reproduced_dl.jpg" v:shapes="Picture_x0020_4"><!--[endif]--></span><span><o:p></o:p></span></p>
+  </td>
+  <td width="19%" valign="top" style="width:19.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;line-height:normal"><span><!--[if gte vml 1]><v:shape
+   id="Picture_x0020_5" o:spid="_x0000_i1025" type="#_x0000_t75" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/results_replicated_dl.jpg"
+   style='width:78pt;height:78pt;visibility:visible;mso-wrap-style:square'>
+   <v:imagedata src="ICSE22-AE-CFP-v4.fld/image005.jpg" o:title="results_replicated_dl"/>
+  </v:shape><![endif]--><!--[if !vml]--><img border="0" width="78" height="78" src="./ICSE2022-AE_files/results_replicated_dl.jpg" alt="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/results_replicated_dl.jpg" v:shapes="Picture_x0020_5"><!--[endif]--></span><span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes">
+  <td width="20%" valign="top" style="width:20.98%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" style="line-height:normal"><span>The artifacts associated with the research are
+  found to be documented, consistent, complete, exercisable, and include
+  appropriate evidence of verification and validation.<o:p></o:p></span></p>
+  </td>
+  <td width="19%" valign="top" style="width:19.72%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" style="line-height:normal"><span>Functional + The artifacts associated with the
+  paper are of a quality that significantly exceeds minimal functionality. That
+  is, they have all the qualities of the&nbsp;Artifacts Evaluated –
+  Functional&nbsp;level, but, in addition, they are very carefully documented
+  and well-structured to the extent that reuse and repurposing is facilitated.
+  In particular, norms and standards of the research community for artifacts of
+  this type are strictly adhered to.&nbsp;<o:p></o:p></span></p>
+  <p class="MsoNormal" style="line-height:normal"><span><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width="18%" valign="top" style="width:18.38%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" style="line-height:normal"><span>Author-created artifacts relevant to this paper
+  have been placed on a publicly accessible archival repository. A DOI or link
+  to this repository along with a unique identifier for the object is provided.<o:p></o:p></span></p>
+  </td>
+  <td width="20%" valign="top" style="width:20.94%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" style="line-height:normal"><span class="SpellE"><span>Τhe</span></span><span> main results of the paper
+  have been obtained in a subsequent study by a person or team other than the
+  authors, using, in part, artifacts provided by the author.<o:p></o:p></span></p>
+  </td>
+  <td width="19%" valign="top" style="width:19.98%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt">
+  <p class="MsoNormal" style="line-height:normal"><span class="SpellE"><span>Τhe</span></span><span> main results of the paper
+  have been independently obtained in a subsequent study by a person or team
+  other than the authors, without the use of author-supplied artifacts.<o:p></o:p></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+<h3><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#important-dates" id="important-dates" class="anchor-link">Important Dates</a></h3>
+<ul>
+<li>
+<p>Jan 21, 2022: Artifact abstract deadline.</p>
+</li>
+<li>
+<p>Jan 28, 2022: Artifact submissions deadline.</p>
+</li>
+<li>
+<p>Jan 29 - Feb 8, 2022: First Review period.</p>
+</li>
+<li>
+<p>Feb 8 - Feb 18, 2022: Second Review period.</p>
+</li>
+<li>
+<p>Feb 25, 2022: Notifications.</p>
+</li>
+</ul>
+<h3><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#best-artifact-awards" id="best-artifact-awards" class="anchor-link">Best Artifact Awards</a></h3>
+<p>There will be two ICSE 2022 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.</p>
+<h3><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#submission-for-replicated-and-reproduced-badges" id="submission-for-replicated-and-reproduced-badges" class="anchor-link">Submission for Replicated and Reproduced Badges</a></h3>
+<p>For “replicated” and “reproduced” badges, authors will need to offer appropriate documentation that their artifacts have reached that stage.</p>
+<p>By January 21, 2022 register your research artifact at the <a href="https://icse2022-artifact.hotcrp.com/">ICSE 2022 Hotcrp</a> site by submitting a two pages (max) abstract in PDF format describing your artifact.</p>
+<p>The abstract should include the paper title, the purpose of the research artifact, the badge(s) you are claiming, and the technology skills assumed by the reviewer evaluating the artifact. Please also mention if running your artifact requires specific Operating Systems or other environments.</p>
+<ul>
+<li>
+<p>TITLE: A (Partial)? (Replication|Reproduction) of XYZ . Please add the term partial to your title if only some of the original work could be replicated/reproduced.</p>
+</li>
+<li>
+<p>WHO: name the original authors (and paper) and the authors that performed the replication/reproduction. Include contact information and mark one author as the corresponding author. <strong>IMPORTANT</strong> : include also a web link to a publically available URL directory containing (a) the original paper (that is being reproduced) and (b) any subsequent paper(s)/documents/reports that do the reproduction.</p>
+</li>
+<li>
+<p>WHAT: describe the “thing” being replicated/reproduced;</p>
+</li>
+<li>
+<p>WHY: clearly state why that “thing” is interesting/important;</p>
+</li>
+<li>
+<p>HOW: say how it was done first;</p>
+</li>
+<li>
+<p>WHERE: describe the replication/reproduction. If the replication/reproduction was only partial, then explain what parts could be achieved or had to be missed.</p>
+</li>
+<li>
+<p>DISCUSSION (if applicable): What aspects of this “thing” made it easier/harder to replicate/reproduce. What are the lessons learned from this work that would enable more replication/reproduction in the future for other kinds of tasks or other kinds of research.</p>
+</li>
+</ul>
+<p>Two PC members will review each abstract, possibly reaching out to the authors of the abstract or original paper. Abstracts will be ranked as follows.</p>
+<ul>
+<li>
+<p>If PC members do not find sufficient substantive evidence for replication/reproduction, the abstract will be rejected.</p>
+</li>
+<li>
+<p>Any abstract that is judged to be unnecessarily critical towards others in the research community will be rejected (*).</p>
+</li>
+<li>
+<p>The remaining abstracts will be sorted according to (a) how interesting they are to the community and (b) their correctness.</p>
+</li>
+<li>
+<p>The top ranked abstracts will be invited to give lightning talks.</p>
+</li>
+</ul>
+<p>(*) Please note that our goal is to foster a positive environment that supports and rewards researchers for conducting replications and reproductions. To that end, it is important to encourage an atmosphere where presentations pay due respect to both work that is being reproduced/replicated and reproductions/replications. Criticism of other work related to the reproduction/replication is acceptable only as part of a balanced and substantive discussion of prior accomplishments.</p>
+<h3><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#submission-for-evaluated-and-available-badges" id="submission-for-evaluated-and-available-badges" class="anchor-link">Submission for Evaluated and Available Badges</a></h3>
+<p>Only authors of papers accepted to the 2022 Technical/SEIP/NIER/SEET/SEIS Tracks can submit candidate reusable or available artifacts.</p>
+<p>By January 21, 2022 register your research artifact at the <a href="https://icse2022-artifact.hotcrp.com/">ICSE 2022 Hotcrp</a> site by submitting a two pages (max) abstract in PDF format describing your artifact.</p>
+<p>For the reusable and available badges, authors must offer “download information” showing how reviewers can access and execute (if appropriate) their artifact.</p>
+<p>Authors must perform the following steps to submit an artifact:</p>
+<ol>
+<li>
+<p>Prepare the artifact</p>
+</li>
+<li>
+<p>Making the artifact available</p>
+</li>
+<li>
+<p>Documenting the artifact</p>
+</li>
+<li>
+<p>Submit the artifact</p>
+</li>
+</ol>
+<h4><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#1-prepare-the-artifact" id="1-prepare-the-artifact" class="anchor-link">1.  Prepare the artifact</a></h4>
+<p>There are two options depending on the nature of the artifacts: Installation Package or Simple Package. In both cases, the configuration and installation for the artifact should take <strong>less than 30 minutes</strong>. Otherwise, the artifact is unlikely to be endorsed simply because the committee will not have sufficient time to evaluate it.</p>
+<p><strong>Installation Package</strong>. If the artifact consists of a tool or software system, then the authors need to prepare an installation package so that the tool can be installed and run in the evaluator’s environment. Provide enough associated instruction, code, and data such that some CS person with a reasonable knowledge of scripting, build tools, etc. could install, build, and run the code. If the artifact contains or requires the use of a special tool or any other non-trivial piece of software the authors must provide a VirtualBox VM image or a Docker container image with a working environment containing the artifact and all the necessary tools.</p>
+<p>We expect that the artifacts have been vetted on a clean machine before submission.</p>
+<p><strong>Simple Package</strong>. If the artifact only contains documents which can be used with a simple text editor, a PDF viewer, or some other common tool (e.g., a spreadsheet program in its basic configuration) the authors can just save all documents in a single package file (zip or tar.gz).</p>
+<h4><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#2-making-the-artifact-available" id="2-making-the-artifact-available" class="anchor-link">2. Making the artifact available</a></h4>
+<p>The authors need to make the packaged artifact (installation package or simple package) available so that the Evaluation Committee can access it. We suggest a link to a public repository or to a single archive file in a widely available archive format.</p>
+<p>If the authors are aiming for the badges “<strong>available</strong>” and beyond the artifact needs to publicly accessible. In other cases, the artifacts do not necessarily have to be publicly accessible for the review process. In this case, the authors are asked to provide a private link or a password-protected link. In either case, we encourage authors to ensure that artifact can be accessed with link only (e.g., no registration is necessary).</p>
+<h4><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#3-documenting-the-artifact" id="3-documenting-the-artifact" class="anchor-link">3. Documenting the artifact</a></h4>
+<p>The authors need to write and submit a documentation explaining how to obtain the artifact package, how to unpack the artifact, how to get started, and how to use the artifacts in more detail. The artifact submission must only describe the technicalities of the artifacts and uses of the artifact that are not already described in the paper.</p>
+<p>The submission should contain the following documents (in plain text or pdf format) in a zip archive:</p>
+<ul>
+<li>
+<p><strong>A README</strong> main file describing what the artifact does and where it can be obtained (with hidden links and access password if necessary). Also, there should be a clear description how to repeat/replicate/reproduce the results presented in the paper. Artifacts which focus on data should, in principle, cover aspects relevant to understand the context, data provenance, ethical and legal statements (as long as relevant), and storage requirements. Artifacts which focus on software should, in principle, cover aspects relevant to how to install and use it (and be accompanied by a small example).</p>
+</li>
+<li>
+<p><strong>A REQUIREMENTS</strong> file for artifacts which focus on software. This file should, in principle, cover aspects of hardware environment requirements (e.g., performance, storage or non-commodity peripherals) and software environments (e.g., Docker, VM, and operating system) but also, if relevant, a requirements.txt with explicit versioning information (e.g. for Python-only environments). Any deviation from standard environments needs to be reasonably justified.</p>
+</li>
+<li>
+<p><strong>A STATUS</strong> file stating what kind of badge(s) the authors are applying for as well as the reasons why the authors believe that the artifact deserves that badge(s).</p>
+</li>
+<li>
+<p><strong>A LICENSE</strong> file describing the distribution rights. Note that to score “available” or higher, then that license needs to be some form of open source license. Details also under the respective badges and the ICSE 2021 open science policy.</p>
+</li>
+<li>
+<p><strong>An INSTALL</strong> file with installation instructions. These instructions should include notes illustrating a very basic usage example or a method to test the installation. This could be, for instance, on what output to expect that confirms that the code is installed and working; and the code is doing something interesting and useful. A copy of the accepted paper in pdf format.</p>
+</li>
+</ul>
+<h4><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#4-submit-the-artifact" id="4-submit-the-artifact" class="anchor-link">4. Submit the artifact</a></h4>
+<p>By January 21, 2022 register your research artifact at the <a href="https://icse2022-artifact.hotcrp.com/">ICSE 2022 Hotcrp</a> site by submitting an abstract describing your artifact. The abstract should include the paper title, the purpose of the research artifact, the badge(s) you are claiming, and the technology skills assumed by the reviewer evaluating the artifact. Please also mention if running your artifact requires specific Operation Systems or other environments.</p>
+<p>By January 28, 2021 complete your submission by making sure that all the content related to the actual artifact is available.</p>
+<p>The Evaluation Committee may contact the authors within the Rebuttal Period to request clarifications on the basic installation and start-up procedures or to resolve simple installation problems. Information on the rebuttal phase are provided in the Submission and Reviewing Guidelines. Instructions will further be sent to the authors (and reviewers) along the reviewing process.</p>
+<p>Given the short review time available, the authors are expected to respond within a 48-hour period. Authors may update their research artifact after submission only for changes requested by reviewers in the rebuttal phase. Author submitting an open source repository link, are expected to give a tag to time-stamp your submission.</p>
+<h3><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#review-guidelines" id="review-guidelines" class="anchor-link">Review Guidelines</a></h3>
+<p>For PC members, please refer to these guidelines of ESEC/FSE’2021 for artifacts evaluation process: <a href="https://2021.esec-fse.org/getImage/orig/fse_artifacts_submission_reviewing_guidelines.pdf">https://2021.esec-fse.org/getImage/orig/fse_artifacts_submission_reviewing_guidelines.pdf</a></p>
+<p><br> <i>Finally</i>, further information will be constantly made available on the website <a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation">https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation</a></p>
+<p>In case of questions, please do not hesitate contacting the chairs.</p>
+<p></p></div></div></div><div class="col-sm-4 sidebar"><div class="panel panel-primary"><div class="panel-heading clearfix"><div class="panel-title"><a href="https://conf.researchr.org/committee/icse-2022/icse-2022-artifact-evaluation-program-committee" class="navigate">Program Committee</a></div></div><ul class="list-group"><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/yancai" class="navigate"><div class="media"><span class="pull-left"><img alt="Yan Cai" src="./ICSE2022-AE_files/micro-avatar(1).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Yan Cai<span class="pull-right"><small>Artifact Evaluation Co-Chair</small></span></h5><h5 class="media-heading"><span class="text-black">Institute of Software at Chinese Academy of Sciences</span></h5><h5 class="media-heading"><small>China</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/andreasvogelsang" class="navigate"><div class="media"><span class="pull-left"><img alt="Andreas Vogelsang" src="./ICSE2022-AE_files/micro-avatar(2).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Andreas Vogelsang<span class="pull-right"><small>Artifact Evaluation Co-Chair</small></span></h5><h5 class="media-heading"><span class="text-black">University of Cologne</span></h5><h5 class="media-heading"><small>Germany</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/sallamabualhaija" class="navigate"><div class="media"><span class="pull-left"><img alt="Sallam Abualhaija" src="./ICSE2022-AE_files/micro-avatar(3).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Sallam Abualhaija<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">University of Luxembourg</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/lucaardito" class="navigate"><div class="media"><span class="pull-left"><img alt="Luca Ardito" src="./ICSE2022-AE_files/micro-avatar(4).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Luca Ardito<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Politecnico di Torino</span></h5><h5 class="media-heading"><small>Italy</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/fatmabasakaydemir" class="navigate"><div class="media"><span class="pull-left"><img alt="Fatma Başak Aydemir" src="./ICSE2022-AE_files/micro-avatar(5).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Fatma Başak Aydemir<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Boğaziçi University</span></h5><h5 class="media-heading"><small>Turkey</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/thaisbatista" class="navigate"><div class="media"><span class="pull-left"><img alt="Thais Batista" src="./ICSE2022-AE_files/micro-avatar(6).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Thais Batista<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Federal University of Rio Grande do Norte</span></h5><h5 class="media-heading"><small>Brazil</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/lolaburgueno" class="navigate"><div class="media"><span class="pull-left"><img alt="Lola Burgueño" src="./ICSE2022-AE_files/micro-avatar(7).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Lola Burgueño<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Open University of Catalonia</span></h5><h5 class="media-heading"><small>Spain</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/jialiangchang" class="navigate"><div class="media"><span class="pull-left"><img alt="Jialiang Chang" src="./ICSE2022-AE_files/micro-avatar(8).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Jialiang Chang<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">CertiK </span></h5><h5 class="media-heading"><small>United States</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/sridharchimalakonda" class="navigate"><div class="media"><span class="pull-left"><img alt="Sridhar Chimalakonda" src="./ICSE2022-AE_files/micro-avatar(9).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Sridhar Chimalakonda<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Indian Institute of Technology Tirupati</span></h5><h5 class="media-heading"><small>India</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/danielalencardacosta" class="navigate"><div class="media"><span class="pull-left"><img alt="Daniel Alencar Da Costa " src="./ICSE2022-AE_files/micro-avatar(10).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Daniel Alencar Da Costa <span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Queen's University, Kingston, Ontario</span></h5><h5 class="media-heading"><small>Canada</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/mingfan1" class="navigate"><div class="media"><span class="pull-left"><img alt="Ming Fan" src="./ICSE2022-AE_files/micro-avatar(11).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Ming Fan<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Xi'an Jiaotong University</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/yangfeng" class="navigate"><div class="media"><span class="pull-left"><img alt="Yang Feng" src="./ICSE2022-AE_files/micro-avatar(12).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Yang Feng<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Nanjing University</span></h5><h5 class="media-heading"><small>China</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/davidefucci" class="navigate"><div class="media"><span class="pull-left"><img alt="Davide Fucci" src="./ICSE2022-AE_files/micro-avatar(13).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Davide Fucci<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Blekinge Institute of Technology</span></h5><h5 class="media-heading"><small>Sweden</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/iliasgerostathopoulos" class="navigate"><div class="media"><span class="pull-left"><img alt="Ilias Gerostathopoulos" src="./ICSE2022-AE_files/micro-avatar(14).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Ilias Gerostathopoulos<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Vrije Universiteit Amsterdam</span></h5><h5 class="media-heading"><small>Netherlands</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/gouriginde" class="navigate"><div class="media"><span class="pull-left"><img alt="Gouri Ginde (Deshpande)" src="./ICSE2022-AE_files/micro-avatar(15).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Gouri Ginde (Deshpande)<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">University of Calgary</span></h5><h5 class="media-heading"><small>Canada</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/javiergonzalezhuerta" class="navigate"><div class="media"><span class="pull-left"><img alt="Javier Gonzalez Huerta" src="./ICSE2022-AE_files/micro-avatar(16).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Javier Gonzalez Huerta<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Blekinge Institute of Technology</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/catarinagralha" class="navigate"><div class="media"><span class="pull-left"><img alt="Catarina Gralha" src="./ICSE2022-AE_files/micro-avatar(17).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Catarina Gralha<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">NOVA-LINCS, FCT/UNL</span></h5><h5 class="media-heading"><small>Portugal</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/janehayes" class="navigate"><div class="media"><span class="pull-left"><img alt="Jane Hayes" src="./ICSE2022-AE_files/micro-avatar(18).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Jane Hayes<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">University of Kentucky</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/kamiljezek" class="navigate"><div class="media"><span class="pull-left"><img alt="Kamil Jezek" src="./ICSE2022-AE_files/micro-avatar(19).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Kamil Jezek<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">University of West Bohemia, Pilsen, CZ</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/verenaklos" class="navigate"><div class="media"><span class="pull-left"><img alt="Verena Klös" src="./ICSE2022-AE_files/micro-avatar(20).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Verena Klös<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Technische Universität Berlin</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/sylwiakopczynska" class="navigate"><div class="media"><span class="pull-left"><img alt="Sylwia Kopczyńska" src="./ICSE2022-AE_files/micro-avatar(21).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Sylwia Kopczyńska<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Poznan University of Technology</span></h5><h5 class="media-heading"><small>Poland</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/tongli" class="navigate"><div class="media"><span class="pull-left"><img alt="micro-avatar" src="./ICSE2022-AE_files/no-image-50.png" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Tong Li<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Beijing University of Technology</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/xiapuluo" class="navigate"><div class="media"><span class="pull-left"><img alt="Xiapu Luo" src="./ICSE2022-AE_files/micro-avatar(22).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Xiapu Luo<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Hong Kong Polytechnic University</span></h5><h5 class="media-heading"><small>China</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/ruijiemeng1" class="navigate"><div class="media"><span class="pull-left"><img alt="Ruijie Meng" src="./ICSE2022-AE_files/micro-avatar(23).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Ruijie Meng<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">National University of Singapore, Singapore</span></h5><h5 class="media-heading"><small>Singapore</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/lloydmontgomery" class="navigate"><div class="media"><span class="pull-left"><img alt="Lloyd Montgomery" src="./ICSE2022-AE_files/micro-avatar(24).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Lloyd Montgomery<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Universität Hamburg</span></h5><h5 class="media-heading"><small>Germany</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/sebastienmosser" class="navigate"><div class="media"><span class="pull-left"><img alt="Sébastien Mosser" src="./ICSE2022-AE_files/micro-avatar(25).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Sébastien Mosser<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">McMaster University</span></h5><h5 class="media-heading"><small>Canada</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/tukarammuske" class="navigate"><div class="media"><span class="pull-left"><img alt="Tukaram Muske" src="./ICSE2022-AE_files/micro-avatar(26).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Tukaram Muske<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Tata Consultancy Services Ltd</span></h5><h5 class="media-heading"><small>India</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/adrianasejfia" class="navigate"><div class="media"><span class="pull-left"><img alt="Adriana Sejfia" src="./ICSE2022-AE_files/micro-avatar(27).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Adriana Sejfia<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">University of Southern California</span></h5><h5 class="media-heading"><small>United States</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/linshi" class="navigate"><div class="media"><span class="pull-left"><img alt="Lin Shi" src="./ICSE2022-AE_files/micro-avatar(28).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Lin Shi<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">ISCAS</span></h5><h5 class="media-heading"><small>China</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/matthewstephan" class="navigate"><div class="media"><span class="pull-left"><img alt="Matthew Stephan" src="./ICSE2022-AE_files/micro-avatar(29).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Matthew Stephan<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Miami University</span></h5><h5 class="media-heading"><small>United States</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/amjedtahir" class="navigate"><div class="media"><span class="pull-left"><img alt="Amjed Tahir" src="./ICSE2022-AE_files/micro-avatar(30).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Amjed Tahir<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Massey University</span></h5><h5 class="media-heading"><small>New Zealand</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/yutiantang" class="navigate"><div class="media"><span class="pull-left"><img alt="Yutian Tang" src="./ICSE2022-AE_files/micro-avatar(31).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Yutian Tang<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">ShanghaiTech University</span></h5><h5 class="media-heading"><small>China</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/marcotuliovalente" class="navigate"><div class="media"><span class="pull-left"><img alt="Marco Tulio Valente" src="./ICSE2022-AE_files/micro-avatar(32).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Marco Tulio Valente<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Federal University of Minas Gerais, Brazil</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/liliwei1" class="navigate"><div class="media"><span class="pull-left"><img alt="Lili Wei" src="./ICSE2022-AE_files/micro-avatar(33).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Lili Wei<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Hong Kong University of Science and Technology</span></h5><h5 class="media-heading"><small>China</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/colinwerner" class="navigate"><div class="media"><span class="pull-left"><img alt="Colin Werner" src="./ICSE2022-AE_files/micro-avatar(34).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Colin Werner<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">University of Victoria</span></h5><h5 class="media-heading"><small>Canada</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/mairieliwessel" class="navigate"><div class="media"><span class="pull-left"><img alt="Mairieli Wessel" src="./ICSE2022-AE_files/micro-avatar(35).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Mairieli Wessel<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Delft University of Technology</span></h5><h5 class="media-heading"><small>Netherlands</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/vadimzaytsev" class="navigate"><div class="media"><span class="pull-left"><img alt="Vadim Zaytsev" src="./ICSE2022-AE_files/micro-avatar(36).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Vadim Zaytsev<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">University of Twente, Netherlands</span></h5><h5 class="media-heading"><small>Netherlands</small></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/manzhang" class="navigate"><div class="media"><span class="pull-left"><img alt="Man Zhang" src="./ICSE2022-AE_files/micro-avatar(37).jpg" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Man Zhang<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">Kristiania University College, Norway</span></h5></div></div></a></li><li class="list-group-item"><a href="https://conf.researchr.org/profile/icse-2022/shihaozhu" class="navigate"><div class="media"><span class="pull-left"><img alt="micro-avatar" src="./ICSE2022-AE_files/no-image-50.png" class="outputimage media-object thumbnail no-bottom-margin"></span><div class="media-body"><h5 class="media-heading">Shihao Zhu<span class="pull-right"><small></small></span></h5><h5 class="media-heading"><span class="text-black">State Key Laboratory of Computer Science,Institute of Software,Chinese Academy of Sciences,China</span></h5></div></div></a></li></ul></div></div></div><div id="messages-placeholder" class="alert alert-warning" style="display:none;"><a data-dismiss="alert" class="close">x</a><em>Tue 18 Mar 18:19</em></div></div><div id="notifications-ph" class="webdsl-placeholder"></div><div id="event-modal-loader" class="webdsl-placeholder"><form name="form_131600131708a57402efa1b5cd9e47078b93a7980ed" id="form_131600131708a57402efa1b5cd9e47078b93a7980ed" action="https://conf.researchr.org/eventDetailsModalByAjaxConferenceEdition" accept-charset="UTF-8" method="POST" class="hidden"><input type="hidden" name="form_131600131708a57402efa1b5cd9e47078b93a7980ed" value="1"><input type="hidden" name="context" value="icse-2022"><input name="a388d298684b739d7ba8095f5c1327ba" type="text" value="" class="inputString form-control event-id-input"><button style="position: absolute; left: -9999px; width: 1px; height: 1px;" onclick="javascript:serverInvoke(&quot;https://conf.researchr.org/eventDetailsModalByAjaxConferenceEdition&quot;,&quot;eventDetailsModalByAjaxConferenceEdition_ia0_8a57402efa1b5cd9e47078b93a7980ed&quot;, [{&quot;name&quot;:&quot;context&quot;, &quot;value&quot;:&quot;icse-2022&quot;},],&quot;form_131600131708a57402efa1b5cd9e47078b93a7980ed&quot;, this.nextSibling, false,&quot;event-modal-loader&quot;); return false;"></button><a submitid="eventDetailsModalByAjaxConferenceEdition_ia0_8a57402efa1b5cd9e47078b93a7980ed" href="javascript:void(0)" onclick="javascript:loadImageElem=this;$(this.previousSibling).click()" id="load-modal-action"></a></form></div><div id="event-star-form" class="webdsl-placeholder"><form name="form_50986093804fe04f67acfaadcc33aa2b186c672540" id="form_50986093804fe04f67acfaadcc33aa2b186c672540" action="https://conf.researchr.org/eventStarByAjaxConferenceEdition" accept-charset="UTF-8" method="POST" class="hidden"><input type="hidden" name="form_50986093804fe04f67acfaadcc33aa2b186c672540" value="1"><input type="hidden" name="context" value="icse-2022"><input name="28625eb1bb3afd604555c751e6a00ef5" type="text" value="" class="inputString form-control event-id-input"><button style="position: absolute; left: -9999px; width: 1px; height: 1px;" onclick="javascript:serverInvoke(&quot;https://conf.researchr.org/eventStarByAjaxConferenceEdition&quot;,&quot;eventStarByAjaxConferenceEdition_ia0_4fe04f67acfaadcc33aa2b186c672540&quot;, [{&quot;name&quot;:&quot;context&quot;, &quot;value&quot;:&quot;icse-2022&quot;},],&quot;form_50986093804fe04f67acfaadcc33aa2b186c672540&quot;, this.nextSibling, false,&quot;event-star-form&quot;); return false;"></button><a submitid="eventStarByAjaxConferenceEdition_ia0_4fe04f67acfaadcc33aa2b186c672540" href="javascript:void(0)" onclick="javascript:loadImageElem=this;$(this.previousSibling).click()" id="star-event-action"></a></form></div><div id="event-modals" class="webdsl-placeholder"></div><script type="text/javascript">(function(){
+    var post_process_function = function(n){ var node=(n&&n.nodeType === 1)?n:document; addEventModalLoadOnClick(node); addStarredEventOnClick(node); };
+    var original_post_process_func = ajax_post_process;
+    ajax_post_process = function(){
+      original_post_process_func.apply(this,arguments);
+      post_process_function.apply(this,arguments);
+    };
+    $(document).ready( post_process_function );
+  })();   
+  </script><footer class="footer"><div class="container"><div class="footer-box"><div class="row"><div class="col-sm-3"><h3><a href="https://conf.researchr.org/home/icse-2022" class="navigate"><span class="glyphicon glyphicon-home"></span> ICSE 2022</a></h3><div><a href="https://conf.researchr.org/contact/icse-2022" class="navigate"><span class="glyphicon glyphicon-envelope"></span> contact form</a></div><hr>using <a href="https://conf.researchr.org/" class="navigate">conf.researchr.org</a> (<a href="http://yellowgrass.org/roadmap/conf.researchr.org" class="navigate">v1.69.0</a>)<br><small><a href="https://conf.researchr.org/support/icse-2022" target="_blank" class="navigate"><span class="glyphicon glyphicon-question-sign"></span> Support page</a></small><br><small></small></div><div class="col-sm-5"><div class="row"><div class="col-sm-6"><h4>Tracks</h4><a href="https://conf.researchr.org/track/icse-2022/icse-2022-plenaries" class="navigate">All plenary events</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-keynotes" class="navigate">Keynotes</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-awards" class="navigate">Awards</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-sponsors" class="navigate">Sponsors</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-community" class="navigate">Community</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-papers" class="navigate">Technical Track</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation" class="navigate">Artifact Evaluation</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-demo---demonstrations" class="navigate">DEMO - Demonstrations</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-nier---new-ideas-and-emerging-results" class="navigate">NIER - New Ideas and Emerging Results</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-seet" class="navigate">SEET - Software Engineering Education and Training</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-seip---software-engineering-in-practice" class="navigate">SEIP - Software Engineering in Practice</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-seis---software-engineering-in-society" class="navigate">SEIS - Software Engineering in Society</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-journal-first-papers" class="navigate">Journal-First Papers</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-src---acm-student-research-competition" class="navigate">SRC - ACM Student Research Competition</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-ds---doctoral-symposium" class="navigate">DS - Doctoral Symposium</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-nfs---new-faculty-symposium" class="navigate">NFS - New Faculty Symposium</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-smew---student-mentoring-workshop" class="navigate">SMeW - Student Mentoring Workshop</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-posters" class="navigate">Posters</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-birds-of-a-feather" class="navigate">Birds of a Feather</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-workshops" class="navigate">Workshops</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-student-volunteers" class="navigate">Student Volunteers</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies" class="navigate">Open Science Policies</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-submitting-to-icse2022--q-a" class="navigate">Submitting to ICSE2022: Q&amp;A</a><br><a href="https://conf.researchr.org/track/icse-2022/icse-2022-social" class="navigate">Social</a></div><div class="col-sm-6"><h4>Co-hosted Conferences</h4><a href="https://conf.researchr.org/home/ast-2022" class="navigate">AST 2022</a><br><a href="https://conf.researchr.org/home/cain-2022" class="navigate">CAIN 2022</a><br><a href="https://conf.researchr.org/home/chase-2022" class="navigate">CHASE 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/Formalise-2022" class="navigate">FormaliSE 2022</a><br><a href="https://conf.researchr.org/home/icpc-2022" class="navigate">ICPC 2022</a><br><a href="https://conf.researchr.org/home/mobilesoft-2022" class="navigate">MOBILESoft 2022</a><br><a href="https://conf.researchr.org/home/msr-2022" class="navigate">MSR 2022</a><br><a href="https://2022.techdebtconf.org/" class="navigate">TechDebt 2022</a><br><h4>Workshops</h4><a href="https://conf.researchr.org/home/icse-2022/apr-2022" class="navigate">APR 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/botse-2022" class="navigate">BotSE 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/dree-2022" class="navigate">DREE 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/emip-2022" class="navigate">EMIP 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/encycris-2022" class="navigate">EnCyCriS 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/fairware-2022" class="navigate">FairWare 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/gas-2022" class="navigate">GAS 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/ge-icse-2022" class="navigate">GE@ICSE 2023</a><br><a href="https://conf.researchr.org/home/icse-2022/iwsib-2022" class="navigate">IWSiB 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/met-2022" class="navigate">MET 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/nlbse-2022" class="navigate">NLBSE 2022</a><br><a href="https://conf.researchr.org/home/q-se-2022" class="navigate">Q-SE 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/ropes-2022" class="navigate">RoPES 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/rose-2022" class="navigate">RoSE 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/sbst-2022" class="navigate">SBST 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/se4rai-2022" class="navigate">SE4RAI 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/seeng-2022" class="navigate">SEENG 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/serp4iot-2022" class="navigate">SERP4IoT 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/sesos-2022" class="navigate">SESoS 2022</a><br><a href="https://conf.researchr.org/home/icse-2022/wetseb-2022" class="navigate">WETSEB 2022</a><br><h4>Co-hosted Symposia</h4><a href="https://conf.researchr.org/home/seams-2022" class="navigate">SEAMS 2022</a></div></div></div><div class="col-sm-2"><h4>Attending</h4><a href="https://conf.researchr.org/venue/icse-2022/icse-2022-physical-venue" class="navigate" style="display: none;">Venue: David Lawrence Convention Center</a><br style="display: none;"><a href="https://conf.researchr.org/venue/icse-2022/icse-2022-virtual-venue" class="navigate" style="display: none;">Virtual: Midspace</a><br style="display: none;"><a href="https://conf.researchr.org/attending/icse-2022/Attending-Virtually" class="navigate">Overview</a><br><a href="https://conf.researchr.org/attending/icse-2022/Overview" class="navigate">Attending Virtually</a><br><a href="https://conf.researchr.org/attending/icse-2022/attending-in-person" class="navigate">Attending In-Person</a><br><a href="https://conf.researchr.org/attending/icse-2022/registration" class="navigate">Registration</a><br><a href="https://conf.researchr.org/attending/icse-2022/code-of-conduct" class="navigate">Code of Conduct</a><br><a href="https://conf.researchr.org/attending/icse-2022/diversity-and-inclusion-plan" class="navigate">Diversity, Equity, and Inclusion</a><br><a href="https://conf.researchr.org/attending/icse-2022/travel-support" class="navigate">Travel Support</a><br><a href="https://conf.researchr.org/attending/icse-2022/social-events" class="navigate">Social Events</a><br><a href="https://conf.researchr.org/attending/icse-2022/sustainability" class="navigate">Sustainability</a></div><div class="col-sm-2"><img src="./ICSE2022-AE_files/ICSE2022-final.png">
+
+<script>
+
+// Remove the start time of papers in a room
+// Also remove the -even and -odd labels
+function remove_times(room_name, new_name) {
+    var label = $("a").filter(function() {
+        return $(this).text() == room_name;
+    });
+
+    var table = label.closest("table");
+
+//    table.find(".start-time").next().remove();
+    table.find(".start-time").remove();
+
+    label.text(new_name);
+}
+
+// Remove the start time and duration of papers in a room
+function remove_all_times(room) {
+    var table = $("a").filter(function() {
+        return $(this).text() == room;
+    }).closest("table");
+
+    table.find(".start-time").next().remove();
+    table.find(".start-time").remove();
+}
+
+    // These are the rooms on which we make changes
+    remove_times("ICSE room 1-odd hours", "ICSE room 1");
+    remove_times("ICSE room 2-odd hours", "ICSE room 2");
+    remove_times("ICSE room 3-odd hours", "ICSE room 3");
+    remove_times("ICSE room 4-odd hours", "ICSE room 4");
+    remove_times("ICSE room 5-odd hours", "ICSE room 5");
+    remove_times("ICSE room 1-even hours", "ICSE room 1");
+    remove_times("ICSE room 2-even hours", "ICSE room 2");
+    remove_times("ICSE room 3-even hours", "ICSE room 3");
+    remove_times("ICSE room 4-even hours", "ICSE room 4");
+    remove_times("ICSE room 5-even hours", "ICSE room 5");
+    remove_times("ICSE room 6", "ICSE room 6");
+    remove_times("ICSE room 7", "ICSE room 7");
+    remove_times("ICSE Poster room");
+    
+    remove_times("Ballroom A");
+    remove_times("Ballroom B");
+    remove_times("Room 301");
+    remove_times("Room 303");
+    remove_times("Room 304");
+    remove_times("Room 306");
+
+// Display the session name only in session timeline
+if (document.location.href.indexOf('Session-Timeline') != -1){
+    var div = $('.timeline-elem');
+    div.children(0).remove();
+
+    div.contents().filter(function() {
+          return this.nodeType === 3;
+        }).wrap( "<h4></h4>" ).end();
+
+    div.parent().removeAttr("href");
+    div.parent().css('text-decoration','none');
+}
+
+// Hide the venues in the menus
+$("a").filter(function() {
+        return $(this).text() == "Venue: David Lawrence Convention Center";
+    }).closest("li").hide();
+
+$("a").filter(function() {
+        return $(this).text() == "Virtual: Midspace";
+    }).closest("li").hide();
+
+// Hide the venues in the footer
+var point = $("a").filter(function() {
+        return $(this).text() == "Venue: David Lawrence Convention Center";
+    });
+point.next().hide();
+point.hide();
+
+var point = $("a").filter(function() {
+        return $(this).text() == "Virtual: Midspace";
+    }).hide();
+point.next().hide();
+point.hide();
+
+
+if (document.location.href.indexOf('https://conf.researchr.org/track/icse-2022/icse-2022-sponsors') != -1){
+    window.location.replace("https://conf.researchr.org/info/icse-2022/sponsors-and-supporters");
+}
+
+// Remove the "about" button on some pages
+if (document.location.href.indexOf('icse-2022-sponsors') != -1){
+    $('a[href$="program"]:first').click();
+     $('a[href$="About"]:first').hide();
+}
+
+if (document.location.href.indexOf('icse-2022-plenaries') != -1){
+    //$('a[href*="program"]:first').click();
+    //$(document).xpathEvaluate('//div[3]/div[2]/div/ul/li[2]/a').click();
+    var point = $('.col-sm-12').children().first().children().first();
+    point.next().children().first().click();
+    point.hide();
+}
+
+</script>
+</div></div></div></div></footer></div><script type="text/javascript">(function(){
+    var post_process_function = function(n){ var node=(n&&n.nodeType === 1)?n:document; let defaultplacement = $(document).scrollLeft() > 100 ? 'auto left' : 'auto top'; $(node).find('[title]').each( function(i,el){ var $e=$(el);$e.tooltip({placement: function(tt, elem){ var attval = elem.getAttribute('data-placement'); return attval ? attval : defaultplacement; }, sanitize: false, container: 'body' }) } ).on('show.bs.tooltip', function () {  let el = this; while (el && window.getComputedStyle(el).position !== 'fixed') { el = el.parentElement; } if(el) $(this).data('bs.tooltip').options.container = el;});$('.tooltip.fade.in, .ui-tooltip-content').remove();  };
+    var original_post_process_func = ajax_post_process;
+    ajax_post_process = function(){
+      original_post_process_func.apply(this,arguments);
+      post_process_function.apply(this,arguments);
+    };
+    $(document).ready( post_process_function );
+  })();   
+  </script><script type="text/javascript">jQuery(document).ready(function($) {
+        $(".clickable-row").click(function() {
+          var href = $(this).attr("href");
+          if( window.location.href.indexOf( href ) < 0 ){
+            if ($(this).hasClass('new-window') ){
+              window.open( href );
+            } else {
+              window.document.location = href;
+            }
+          }
+        });
+    });
+    </script>
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"><template shadowrootmode="open"><style>
+      div.grammarly-desktop-integration {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select:none;
+        user-select:none;
+      }
+
+      div.grammarly-desktop-integration:before {
+        content: attr(data-content);
+      }
+    </style><div aria-label="grammarly-integration" role="group" tabindex="-1" class="grammarly-desktop-integration" data-content="{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integration></html>
