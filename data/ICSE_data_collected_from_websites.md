@@ -135,7 +135,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 > ICSE’18 puts a strong emphasis on creation of quality artifacts and repeatability and verifiability of experiences reported in the papers. An artifact evaluation committee is put in place to review artifacts accompanying all accepted papers, without the need to conceal identity of the authors.
 
 [Direct link](https://web.archive.org/web/20170821063924/http://www.icse2018.org:80/track/icse-2018-Software-Engineering-in-Society) - 
-[PDF](ICSE_websites/ICSE2018-SEIS.pdf) [^2] - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html) <br>
+[PDF](ICSE_websites/ICSE2018-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html) [^2] <br>
 Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double Blind Review > ICSE’18 Double Blind Review Process > What about additional information to support repeatability or verifiability of the reported results?
 <br><br>
 
@@ -1295,7 +1295,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 > ICSE’18 puts a strong emphasis on creation of quality artifacts and repeatability and verifiability of experiences reported in the papers. An artifact evaluation committee is put in place to review artifacts accompanying all accepted papers, without the need to conceal identity of the authors.
 
 [Direct link](https://web.archive.org/web/20170821063924/http://www.icse2018.org:80/track/icse-2018-Software-Engineering-in-Society) - 
-[PDF](ICSE_websites/ICSE2018-SEIS.pdf) [^2]  - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html)  <br>
+[PDF](ICSE_websites/ICSE2018-SEIS.pdf)  - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html) [^2] <br>
 Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double Blind Review > ICSE’18 Double Blind Review Process > What about additional information to support repeatability or verifiability of the reported results?
 <br><br>
 
