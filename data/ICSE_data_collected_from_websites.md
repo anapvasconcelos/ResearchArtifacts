@@ -39,7 +39,7 @@
 > - **Verifiability**: The evaluation of submissions will take into account to what extent sufficient information is available to support the full or partial independent verification or replication of the claimed contributions. The committee will consider independent verifiability an important factor that can significantly strengthen the value of a submission. Authors are strongly encouraged to explicitly discuss the verifiability of their contributions, including any links to relevant research artifacts, in a sub-section or paragraph titled "Verifiability".
 
 [Direct link](https://icse2017.gatech.edu/?q=technical-research-cfp) - 
-[PDF](data/ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
+[PDF](ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
 Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Research > Technical Track Submissions > Evaluation
 <br><br>
 
@@ -51,7 +51,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 
 
 [Direct link](https://web.archive.org/web/20170819025502/http://www.icse2018.org:80/track/icse-2018-Technical-Papers) - 
-[PDF](data/ICSE_websites/ICSE2018-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2018-TT.html) <br>
+[PDF](ICSE_websites/ICSE2018-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2018-TT.html) <br>
 Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions > Evaluation
 <br><br>
 
@@ -61,7 +61,7 @@ Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions 
 > -	**Verifiability**: Whether the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions,
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Technical-Papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
+[PDF](ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -71,7 +71,7 @@ Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers
 > -	**Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2020-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2020-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-TT-CFP.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Call for Papers > Review Criteria
 <br><br>
 
@@ -81,7 +81,7 @@ Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Call for Papers > Review Cri
 > -	**Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Review Criteria
 <br><br>
 
@@ -91,7 +91,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Review Crit
 > - **Verifiability and Transparency**: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Review Criteria
 <br><br>
 
@@ -103,7 +103,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Review Crit
 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Review Criteria
 <br><br>
 
@@ -116,7 +116,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Rev
 > Authors are strongly encouraged to explicitly discuss the verifiability of their contributions, including any links to relevant research artifacts, in a sub-section or paragraph titled "Verifiability".
 
 [Direct link](https://icse2017.gatech.edu/?q=technical-research-cfp) -
-[PDF](data/ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
+[PDF](ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
 Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Research > Technical Track Submissions > Evaluation > Verifiability
 <br><br>
 
@@ -135,7 +135,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 > ICSE’18 puts a strong emphasis on creation of quality artifacts and repeatability and verifiability of experiences reported in the papers. An artifact evaluation committee is put in place to review artifacts accompanying all accepted papers, without the need to conceal identity of the authors.
 
 [Direct link](https://web.archive.org/web/20170821063924/http://www.icse2018.org:80/track/icse-2018-Software-Engineering-in-Society) - 
-[PDF](data/ICSE_websites/ICSE2018-SEIS.pdf) [^2] - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html) <br>
+[PDF](ICSE_websites/ICSE2018-SEIS.pdf) [^2] - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html) <br>
 Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double Blind Review > ICSE’18 Double Blind Review Process > What about additional information to support repeatability or verifiability of the reported results?
 <br><br>
 
@@ -148,7 +148,7 @@ Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double
 ### 2019
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-ROSE-Festival#About) - 
-[PDF](data/ICSE_websites/ICSE2019-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
+[PDF](ICSE_websites/ICSE2019-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > ROSE Festival > About
 <br><br>
 
@@ -157,7 +157,7 @@ Breadcrumb: ICSE 2019 > Tracks > ROSE Festival > About
 > The ICSE’20 ROSE festival celebrates open science artifacts in software engineering.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-rose) - 
-[PDF](data/ICSE_websites/ICSE2020-ROSE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
+[PDF](ICSE_websites/ICSE2020-ROSE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > ROSE
 <br><br>
 
@@ -167,7 +167,7 @@ Breadcrumb: ICSE 2020 > Tracks > ROSE
 ### 2023
 
 [Direct link](https://conf.researchr.org/track/icse-2023/rose-festival) - 
-[PDF](data/ICSE_websites/ICSE2023-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-ROSE.html) <br>
+[PDF](ICSE_websites/ICSE2023-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-ROSE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ROSE Festival
 <br><br>
 
@@ -180,7 +180,7 @@ Breadcrumb: ICSE 2023 > Tracks > ROSE Festival
 > If the artifact is accepted it will receive one of the following badges on the front page of their paper and in the proceedings: Functional, Reusable, Available, Replicated, Reproduced
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
+[PDF](ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br><br>
 
@@ -190,7 +190,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -200,7 +200,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -227,7 +227,7 @@ There is not information about this event at ICSE 2022 website, but nevertheless
 > In addition, the authors will be invited to bring a poster summarizing their contributions to stimulate discussion after their presentations, and will be invited to submit artifacts related to the paper; the latter will be evaluated by the Artifact Evaluation Committee.
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Technical-Papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
+[PDF](ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers > How to Submit
 <br><br>
 
@@ -235,7 +235,7 @@ Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers > How to Subm
 > Authors of **papers accepted to the Technical Track** are invited to submit an artifact to the ICSE Artifact Track.
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
+[PDF](ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br> <br>
 
@@ -250,7 +250,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of **papers accepted to the 2020 Technical/SEIP/NIER/SEET/SEIS Track** are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate **reusable, available, replicated or reproduced** artifacts.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -259,7 +259,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > Authors of **papers accepted to the 2021 Technical/SEIP/NIER/SEET/SEIS Track** are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate reusable, available, replicated or reproduced artifacts.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -268,7 +268,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS Tracks are can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
+[PDF](ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -277,7 +277,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS tracks can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](data/ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
+[PDF](ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -291,7 +291,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > Authors of any prior SE work (published at ICSE or elsewhere) are invited to submit an artifact to the ICSE Artifact Track for evaluation as a candidate **replicated or reproduced** artifact.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -300,7 +300,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > Authors of **any prior Software Engineering work** (published at ICSE or elsewhere) are also eligible (and invited) to submit an artifact for evaluation as a candidate **reusable, available, replicated or reproduced** artifact.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -310,7 +310,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
+[PDF](ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -320,7 +320,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](data/ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
+[PDF](ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -334,7 +334,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Software-Engineering-Education-and-Training#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2020-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2020-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-SEET.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > SEET > Call for Papers > Submission
 <br><br>
 
@@ -345,7 +345,7 @@ Breadcrumb: ICSE 2020 > Tracks > SEET > Call for Papers > Submission
 
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Call for Papers > Submission Categories
 <br><br>
 
@@ -362,7 +362,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -377,7 +377,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -393,7 +393,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > - Authors will be invited to give lightning talks on this work at ICSE’20
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -406,7 +406,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions > Submission and Review > For Replicated and Reproduced Badges
 <br><br>
 
@@ -417,7 +417,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > - Authors will be invited to give lightning talks on this work at ICSE’21
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -429,7 +429,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions > Submission for Replicated and Reproduced Badges
 <br><br>
 
@@ -443,7 +443,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
+[PDF](ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions > Submission for Replicated and Reproduced Badges
 <br><br>
 
@@ -457,7 +457,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > - At least two PC members will review each abstract, possibly reaching out to the authors of the abstract or original paper. 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](data/ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
+[PDF](ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions > Submission for Results Validated Badges
 <br><br>
 
@@ -478,7 +478,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > As a conference sponsored by ACM SIGSOFT, ICSE 2021 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies
 <br><br>
 
@@ -488,7 +488,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > As a conference sponsored by ACM SIGSOFT, ICSE 2022 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies
 <br><br>
 
@@ -497,7 +497,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > As a conference co-sponsored by ACM SIGSOFT, ICSE 2023 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 <br><br>
 
@@ -516,7 +516,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 > Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -527,7 +527,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > 1. Provide a supporting statement on the data/software/analysis scripts/…/artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
+[PDF](ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABOUT OPEN POLICIES
 <br><br>
 
@@ -538,7 +538,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABO
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Practice?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -549,7 +549,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Infor
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Society?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -560,7 +560,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Inform
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-JSEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -571,7 +571,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-New-Ideas-and-Emerging-Results?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -586,7 +586,7 @@ Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Informa
 >Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy > ICSE 2022 Open Science policies > About > ICSE 2022 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -596,7 +596,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > The research track of ICSE 2022 is governed by the ICSE 2022 Open Science policies. 
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -619,7 +619,7 @@ These tracks do not provide information related to this event. However, we know 
 > - to make their data available to the program committee (via upload of supplemental material or a link to an anonymous repository) – and provide instructions on how to access this data in the paper, possibly in a section named "Data Availability" after the Conclusions;
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -631,7 +631,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > *Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.*
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -641,7 +641,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > The NIER track of ICSE 2023 is governed by the ICSE 2023 Open Science policies. [...] For guidelines on how to report qualitative research to ensure the assessment of the reliability and credibility of research results, see the Q&A page.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -649,7 +649,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named *Data Availability* after the *Conclusion* section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -673,7 +673,7 @@ These tracks do not provide information related to this event.
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -683,7 +683,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -694,7 +694,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementa
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -707,7 +707,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Open Science Policies > About > ICSE 2023 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -718,7 +718,7 @@ Breadcrumb: ICSE 2023 > Tracks > Open Science Policies > About > ICSE 2023 Open 
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](data/ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -733,7 +733,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - Availability: whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users;
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET > Call for Papers > Submission Categories > Tool Papers > Availability
 <br><br>
 
@@ -748,7 +748,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET > Call for Papers > Submission Categories
 > - **Availability**: Whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -763,7 +763,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > - Availability: Whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Evaluation Criteria
 <br><br>
 
@@ -784,7 +784,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -795,7 +795,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > 2. Self-archive your camera ready (NOT the typeset proof by IEEE).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
+[PDF](ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABOUT OPEN POLICIES
 <br><br>
 
@@ -809,7 +809,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABO
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Society?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -824,7 +824,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Inform
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET-InformationForAuthors)<br>
+[PDF](ICSE_websites/ICSE2021-JSEET-InformationForAuthors)<br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -838,7 +838,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Practice?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -852,7 +852,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Infor
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-New-Ideas-and-Emerging-Results?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -866,7 +866,7 @@ Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Informa
 > Note: Authors are not allowed to self-archive the PDF of the published article as typeset by the publisher (a.k.a. “publisher proof,” “published paper,” “the digital library version”).
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -882,7 +882,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > Note: Authors are not allowed to self-archive the PDF of the published article as typeset by the publisher (a.k.a. “publisher proof,” “published paper,” “the digital library version”).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -896,7 +896,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > Note: Authors are not allowed to self-archive the PDF of the published article as typeset by the publisher (a.k.a. “publisher proof,” “published paper,” “the digital library version”).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](data/ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -913,7 +913,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -924,7 +924,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is [available online](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/).
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -938,7 +938,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > HOWTOs
 <br><br>
 
@@ -949,7 +949,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is available online .
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](data/ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -960,7 +960,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is [available online](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/)
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Open Science Policy
 <br><br>
 
@@ -980,7 +980,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -994,7 +994,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -1011,7 +1011,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > HOWTOs
 <br><br>
 
@@ -1025,7 +1025,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account .
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](data/ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -1037,7 +1037,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Open Science Policy
 <br><br>
 
@@ -1053,7 +1053,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > All accepted abstracts documenting the artifacts will be further published in the ICSE 2021 proceedings as a further form of recognition.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1069,7 +1069,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors are requested to adhere to the ICSE 2021 Open Science policies to the best of their abilities. To that end supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -1096,7 +1096,7 @@ From 2022 the encougarement became a request, not only at Technical track, but a
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. 
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1111,7 +1111,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1128,7 +1128,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1144,7 +1144,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > 2. Follow our **open science policy** – share data and justify if you do not.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -1155,7 +1155,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1165,7 +1165,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -1179,7 +1179,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1189,7 +1189,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -1201,7 +1201,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > *Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.*
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1214,7 +1214,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1230,7 +1230,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > 1. As previous ICSE editions, we apply an open science policy. This year, we will ask a reviewer to perform a lightweight check on the shared artifacts (see below).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -1247,7 +1247,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 > - Verifiability: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -1268,7 +1268,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > - **Verifiability**: The evaluation of submissions will take into account to what extent sufficient information is available to support the full or partial independent verification or replication of the claimed contributions. The committee will consider independent verifiability an important factor that can significantly strengthen the value of a submission. Authors are strongly encouraged to explicitly discuss the verifiability of their contributions, including any links to relevant research artifacts, in a sub-section or paragraph titled "Verifiability".
 
 [Direct link](https://icse2017.gatech.edu/?q=technical-research-cfp) - 
-[PDF](data/ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
+[PDF](ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
 Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Research > Technical Track Submissions > Evaluation
 <br><br>
 
@@ -1278,7 +1278,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 > Authors are strongly encouraged to explicitly discuss the verifiability of their contributions, including any links to relevant research artifacts, in a sub-section or paragraph titled "Verifiability".
 
 [Direct link](https://icse2017.gatech.edu/?q=technical-research-cfp) -
-[PDF](data/ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
+[PDF](ICSE_websites/ICSE2017-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2017-TT.html) <br>
 Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Research > Technical Track Submissions > Evaluation > Verifiability
 <br><br>
 
@@ -1295,7 +1295,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 > ICSE’18 puts a strong emphasis on creation of quality artifacts and repeatability and verifiability of experiences reported in the papers. An artifact evaluation committee is put in place to review artifacts accompanying all accepted papers, without the need to conceal identity of the authors.
 
 [Direct link](https://web.archive.org/web/20170821063924/http://www.icse2018.org:80/track/icse-2018-Software-Engineering-in-Society) - 
-[PDF](data/ICSE_websites/ICSE2018-SEIS.pdf) [^2]  - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html)  <br>
+[PDF](ICSE_websites/ICSE2018-SEIS.pdf) [^2]  - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2018-SEIS.html)  <br>
 Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double Blind Review > ICSE’18 Double Blind Review Process > What about additional information to support repeatability or verifiability of the reported results?
 <br><br>
 
@@ -1311,7 +1311,7 @@ Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double
 
 
 [Direct link](https://web.archive.org/web/20170819025502/http://www.icse2018.org:80/track/icse-2018-Technical-Papers) - 
-[PDF](data/ICSE_websites/ICSE2018-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2018-TT.html) <br>
+[PDF](ICSE_websites/ICSE2018-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/595bc427da3bc8ee19105bb30baf2054ade56cf0/data/ICSE_websites/websites/ICSE2018-TT.html) <br>
 Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions > Evaluation
 <br><br>
 
@@ -1325,7 +1325,7 @@ Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions 
 ## 2019A - ROSE Festival edition (Rewarding Open Science Replication and Reproduction in Software Engineering) at ICSE
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-ROSE-Festival#About) - 
-[PDF](data/ICSE_websites/ICSE2019-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
+[PDF](ICSE_websites/ICSE2019-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > ROSE Festival > About
 <br><br>
 
@@ -1335,7 +1335,7 @@ Breadcrumb: ICSE 2019 > Tracks > ROSE Festival > About
 > If the artifact is accepted it will receive one of the following badges on the front page of their paper and in the proceedings: Functional, Reusable, Available, Replicated, Reproduced
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
+[PDF](ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br><br>
 
@@ -1345,7 +1345,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > In addition, the authors will be invited to bring a poster summarizing their contributions to stimulate discussion after their presentations, and will be invited to submit artifacts related to the paper; the latter will be evaluated by the Artifact Evaluation Committee.
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Technical-Papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
+[PDF](ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers > How to Submit
 <br><br>
 
@@ -1353,7 +1353,7 @@ Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers > How to Subm
 > Authors of **papers accepted to the Technical Track** are invited to submit an artifact to the ICSE Artifact Track.
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
+[PDF](ICSE_websites/ICSE2019-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-AE.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br> <br>
 
@@ -1368,7 +1368,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > -	**Verifiability**: Whether the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions,
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Technical-Papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
+[PDF](ICSE_websites/ICSE2019-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-TT.html) <br>
 Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -1384,7 +1384,7 @@ Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers
 > Authors of **papers accepted to the 2020 Technical/SEIP/NIER/SEET/SEIS Track** are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate **reusable, available, replicated or reproduced** artifacts.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -1394,7 +1394,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > Authors of any prior SE work (published at ICSE or elsewhere) are invited to submit an artifact to the ICSE Artifact Track for evaluation as a candidate **replicated or reproduced** artifact.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -1405,7 +1405,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Software-Engineering-Education-and-Training#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2020-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2020-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-SEET.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > SEET > Call for Papers > Submission
 <br><br>
 
@@ -1416,7 +1416,7 @@ Breadcrumb: ICSE 2020 > Tracks > SEET > Call for Papers > Submission
 > - Authors will be invited to give lightning talks on this work at ICSE’20
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -1429,7 +1429,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions > Submission and Review > For Replicated and Reproduced Badges
 <br><br>
 
@@ -1448,7 +1448,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > -	**Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2020-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2020-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-TT-CFP.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Call for Papers > Review Criteria
 <br><br>
 
@@ -1457,7 +1457,7 @@ Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Call for Papers > Review Cri
 > The ICSE’20 ROSE festival celebrates open science artifacts in software engineering.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-rose) - 
-[PDF](data/ICSE_websites/ICSE2020-ROSE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
+[PDF](ICSE_websites/ICSE2020-ROSE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2019-ROSE-ABOUT.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > ROSE
 <br><br>
 
@@ -1466,7 +1466,7 @@ Breadcrumb: ICSE 2020 > Tracks > ROSE
 >  If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
+[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2020-AE.html) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -1482,7 +1482,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > As a conference sponsored by ACM SIGSOFT, ICSE 2021 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies
 <br><br>
 
@@ -1496,7 +1496,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -1507,7 +1507,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > 1. Provide a supporting statement on the data/software/analysis scripts/…/artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
+[PDF](ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABOUT OPEN POLICIES
 <br><br>
 
@@ -1518,7 +1518,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABO
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Practice?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1529,7 +1529,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Infor
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Society?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1540,7 +1540,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Inform
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-JSEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1551,7 +1551,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-New-Ideas-and-Emerging-Results?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1564,7 +1564,7 @@ Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Informa
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -1574,7 +1574,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -1585,7 +1585,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementa
 > - Availability: whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users;
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET > Call for Papers > Submission Categories > Tool Papers > Availability
 <br><br>
 
@@ -1602,7 +1602,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET > Call for Papers > Submission Categories
 
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -1613,7 +1613,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > 2. Self-archive your camera ready (NOT the typeset proof by IEEE).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
+[PDF](ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/tree/main/data/ICSE_websites/websites/ICSE2021-TT-IFA-P_files) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABOUT OPEN POLICIES
 <br><br>
 
@@ -1627,7 +1627,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABO
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Society?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIS.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIS-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -1642,7 +1642,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Inform
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET-InformationForAuthors)<br>
+[PDF](ICSE_websites/ICSE2021-JSEET-InformationForAuthors)<br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -1656,7 +1656,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Practice?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-SEIP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEIP-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -1670,7 +1670,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Infor
 > Authors from other tracks can also self-archive their camera ready although it is not mandatory for them. The policies (https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies) contain instructions and tutorials for this. In case of questions, do not hesitate to contact the open science chair Daniel Graziotin (daniel.graziotin@iste.uni-stuttgart.de).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-New-Ideas-and-Emerging-Results?#Information-for-Authors) - 
-[PDF](data/ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-NIER-IFA-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Information for Authors > Open Science > About Open Polices
 <br><br>
 
@@ -1680,7 +1680,7 @@ Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Informa
 > All accepted abstracts documenting the artifacts will be further published in the ICSE 2021 proceedings as a further form of recognition.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1698,7 +1698,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -1714,7 +1714,7 @@ From 2022 the encougarement became a request, not only at Technical track, but a
 <br><br>
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -1732,7 +1732,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementa
 > -	**Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-TT-IFA-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Review Criteria
 <br><br>
 
@@ -1742,7 +1742,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Review Crit
 > If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1752,7 +1752,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > Authors of **papers accepted to the 2021 Technical/SEIP/NIER/SEET/SEIS Track** are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate reusable, available, replicated or reproduced artifacts.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1762,7 +1762,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of **any prior Software Engineering work** (published at ICSE or elsewhere) are also eligible (and invited) to submit an artifact for evaluation as a candidate **reusable, available, replicated or reproduced** artifact.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1774,7 +1774,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2021-JSEET-CFP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-SEET-CFP.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Call for Papers > Submission Categories
 <br><br>
 
@@ -1784,7 +1784,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > - Authors will be invited to give lightning talks on this work at ICSE’21
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1796,7 +1796,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions > Submission for Replicated and Reproduced Badges
 <br><br>
 
@@ -1821,7 +1821,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. 
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1834,7 +1834,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > 2. Follow our **open science policy** – share data and justify if you do not.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -1845,7 +1845,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1855,7 +1855,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -1872,7 +1872,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > - **Verifiability and Transparency**: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Review Criteria
 <br><br>
 
@@ -1887,7 +1887,7 @@ There is not information about this event at ICSE 2022 website, but nevertheless
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS Tracks are can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
+[PDF](ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1896,7 +1896,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
+[PDF](ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -1913,7 +1913,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -1927,7 +1927,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](data/ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
+[PDF](ICSE_websites/ICSE2022-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-AE.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions > Submission for Replicated and Reproduced Badges
 <br><br>
 
@@ -1939,7 +1939,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > As a conference sponsored by ACM SIGSOFT, ICSE 2022 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies
 <br><br>
 
@@ -1953,7 +1953,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 >Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies#About) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy > ICSE 2022 Open Science policies > About > ICSE 2022 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -1963,7 +1963,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > The research track of ICSE 2022 is governed by the ICSE 2022 Open Science policies. 
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
+[PDF](ICSE_websites/ICSE2022-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-TT.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1981,7 +1981,7 @@ These tracks do not provide information related to this event. However, we know 
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -1996,7 +1996,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > - **Availability**: Whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](data/ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2022-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-SEET.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -2011,7 +2011,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > Note: Authors are not allowed to self-archive the PDF of the published article as typeset by the publisher (a.k.a. “publisher proof,” “published paper,” “the digital library version”).
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -2026,7 +2026,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -2046,7 +2046,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > 1. As previous ICSE editions, we apply an open science policy. This year, we will ask a reviewer to perform a lightweight check on the shared artifacts (see below).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -2060,7 +2060,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 > - Verifiability: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -2080,7 +2080,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Review Criteria
 <br><br>
 
@@ -2088,7 +2088,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Rev
 ### 2019A - ROSE Festival edition (Rewarding Open Science Replication and Reproduction in Software Engineering) at ICSE
 
 [Direct link](https://conf.researchr.org/track/icse-2023/rose-festival) - 
-[PDF](data/ICSE_websites/ICSE2023-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-ROSE.html) <br>
+[PDF](ICSE_websites/ICSE2023-ROSEFestival.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-ROSE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ROSE Festival
 <br><br>
 
@@ -2104,7 +2104,7 @@ There is not information about this event at ICSE 2022 website, but nevertheless
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS tracks can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](data/ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
+[PDF](ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -2114,7 +2114,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](data/ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
+[PDF](ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -2129,7 +2129,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -2143,7 +2143,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > - At least two PC members will review each abstract, possibly reaching out to the authors of the abstract or original paper. 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](data/ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
+[PDF](ICSE_websites/ICSE2023-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-AE.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions > Submission for Results Validated Badges
 <br><br>
 
@@ -2153,7 +2153,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > As a conference co-sponsored by ACM SIGSOFT, ICSE 2023 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 <br><br>
 
@@ -2166,7 +2166,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 > - to make their data available to the program committee (via upload of supplemental material or a link to an anonymous repository) – and provide instructions on how to access this data in the paper, possibly in a section named "Data Availability" after the Conclusions;
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -2178,7 +2178,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > *Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.*
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -2188,7 +2188,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > The NIER track of ICSE 2023 is governed by the ICSE 2023 Open Science policies. [...] For guidelines on how to report qualitative research to ensure the assessment of the reliability and credibility of research results, see the Q&A page.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -2196,7 +2196,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named *Data Availability* after the *Conclusion* section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -2216,7 +2216,7 @@ These tracks do not provide information related to this event.
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Open Science Policies > About > ICSE 2023 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -2227,7 +2227,7 @@ Breadcrumb: ICSE 2023 > Tracks > Open Science Policies > About > ICSE 2023 Open 
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](data/ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -2242,7 +2242,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - Availability: Whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Evaluation Criteria
 <br><br>
 
@@ -2259,7 +2259,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > Note: Authors are not allowed to self-archive the PDF of the published article as typeset by the publisher (a.k.a. “publisher proof,” “published paper,” “the digital library version”).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -2273,7 +2273,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > Note: Authors are not allowed to self-archive the PDF of the published article as typeset by the publisher (a.k.a. “publisher proof,” “published paper,” “the digital library version”).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](data/ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open Access
 <br><br>
 
@@ -2290,7 +2290,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](data/ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > HOWTOs
 <br><br>
 
@@ -2304,7 +2304,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account .
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](data/ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -2316,7 +2316,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Open Science Policy
 <br><br>
 
@@ -2335,7 +2335,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -2351,7 +2351,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -2366,7 +2366,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
+[PDF](ICSE_websites/ICSE2023-TT.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-CFP.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -2376,7 +2376,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > - **Verifiability**: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -2388,7 +2388,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > *Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.*
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -2401,7 +2401,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](data/ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
+[PDF](ICSE_websites/ICSE2023-NIER.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-NIER.html) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
