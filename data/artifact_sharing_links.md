@@ -5,11 +5,11 @@ At least one link to external material was found in 1,697 papers (81.7%) from IC
 - [Distribution of Repository Types](#distribution-of-repository-types)
 - [Links](#links)
     - [List of abreviations](#list-of-abbreviations)
-    - [Links from ICSE papers](#icse---technical-papers)
-        - 1,229 links from 1,002 papers that share links.
+    - [Links from ICSE papers](#icse---links-from-technical-papers)
+        - Out of 1,236 ICSE papers, 1,002 included links, totaling 1,229 shared links.
         - 81.1% of artifact sharing.
-    - [Links from FSE papers](#fse---research-papers) 
-        - 944 links from 695 papers that share links.
+    - [Links from FSE papers](#fse---links-from-research-papers) 
+        - Out of 840 FSE papers, 695 included links, totaling 944 shared links.
         - 82.7% of artifact sharing.
 
 
@@ -50,10 +50,10 @@ At least one link to external material was found in 1,697 papers (81.7%) from IC
 | \- IBM                                          | 2        | 0.1%     | 1       | 0.1%     | 1      | 0.1%     |
 | \- University                                   | 300      | 13.8%    | 185     | 15.1%    | 115    | 12.2%    |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
-| **Other**                                           | **196**      | **9.0%**     | **91**      | **7.4%**     | **105**    | **11.1%**    |
+| **Other**                                           | **192**      | **8.8%**     | **91**      | **7.4%**     | **101**    | **10.7%**    |
 | \- Research Gate                                | 1        | 0.0%     | 1       | 0.1%     | 0      | 0.0%     |
 | \- Kaggle                                       | 5        | 0.2%     | 0       | 0.0%     | 5      | 0.5%     |
-| \- Other                                        | 190      | 8.7%     | 90      | 7.3%     | 100    | 10.6%    |
+| \- Other                                        | 186      | 8.6%     | 90      | 7.3%     | 96    | 10.2%    |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
 | **Unique identifier**                               | **429**      | **19.7%**    | **248**     | **20.2%**    | **181**    | **19.2%**    |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
