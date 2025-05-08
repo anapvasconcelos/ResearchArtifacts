@@ -1,13 +1,13 @@
 # Artifact sharing links
 
-At least one link to external material was found in 1,697 papers (81.7%) from ICSE and FSE main tracks. The links are presented in the tables below.
+At least one link to external material was found in 1,696 papers (81.7%) from ICSE and FSE main tracks. The links are presented in the tables below.
 
 - [Distribution of Repository Types](#distribution-of-repository-types)
 - [Links](#links)
     - [List of abreviations](#list-of-abbreviations)
     - [Links from ICSE papers](#icse---links-from-technical-papers)
-        - Out of 1,236 ICSE papers, 1,002 included links, totaling 1,229 shared links.
-        - 81.1% of artifact sharing.
+        - Out of 1,236 ICSE papers, 1,001 included links, totaling 1,226 shared links.
+        - 81% of artifact sharing.
     - [Links from FSE papers](#fse---links-from-research-papers) 
         - Out of 840 FSE papers, 695 included links, totaling 944 shared links.
         - 82.7% of artifact sharing.
@@ -27,7 +27,7 @@ At least one link to external material was found in 1,697 papers (81.7%) from IC
 | \- ACM Digital Library                          | 7        | 0.3%     | 1       | 0.1%     | 6      | 0.6%     |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
 | **Code/Software Repositories**                  | **1,046** | **48.1%** | **603**     | **49.1%**    | **443**  | **46.9%**  |
-| \- GitHub                                       | 994      | 45.7%    | 573     | 46.6%    | 421    | 44.6%    |
+| \- GitHub                                       | 994      | 45.7%    | 573     | 46.7%    | 421    | 44.6%    |
 | \- GitLab                                       | 5        | 0.2%     | 4       | 0.3%     | 1      | 0.1%     |
 | \- Bitbucket                                    | 30       | 1.4%     | 16      | 1.3%     | 14     | 1.5%     |
 | \- SoftwareHeritage                             | 6        | 0.3%     | 6       | 0.5%     | 0      | 0.0%     |
@@ -38,26 +38,25 @@ At least one link to external material was found in 1,697 papers (81.7%) from IC
 | \- Google Drive                                 | 28       | 1.3%     | 9       | 0.7%     | 19     | 2.0%     |
 | \- Dropbox                                      | 9        | 0.4%     | 7       | 0.6%     | 2      | 0.2%     |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
-| **Google-based Storage and Collaboration Services** | **131**      | **6.0%**     | **86**      | **7.0%**     | **45**     | **4.8%**     |
+| **Google-based Storage and Collaboration Services** | **130**      | **6.0%**     | **85**      | **6.9%**     | **45**     | **4.8%**     |
 | \- Google Code                                  | 2        | 0.1%     | 2       | 0.2%     | 0      | 0.0%     |
 | \- Google Cloud                                 | 1        | 0.0%     | 1       | 0.1%     | 0      | 0.0%     |
 | \- Google docs                                  | 14       | 0.6%     | 9       | 0.7%     | 5      | 0.5%     |
 | \- Google sites                                 | 108      | 5.0%     | 69      | 5.6%     | 39     | 4.1%     |
-| \- Youtube                                      | 6        | 0.3%     | 5       | 0.4%     | 1      | 0.1%     |
+| \- Youtube                                      | 5        | 0.2%     | 4       | 0.3%     | 1      | 0.1%     |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
 | **Institutional Pages**                             | **309**      | **14.2%**    | **192**     | **15.6%**    | **117**    | **12.4%**    |
 | \- Microsoft                                    | 7        | 0.3%     | 6       | 0.5%     | 1      | 0.1%     |
 | \- IBM                                          | 2        | 0.1%     | 1       | 0.1%     | 1      | 0.1%     |
 | \- University                                   | 300      | 13.8%    | 185     | 15.1%    | 115    | 12.2%    |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
-| **Other**                                           | **192**      | **8.8%**     | **91**      | **7.4%**     | **101**    | **10.7%**    |
+| **Other**                                           | **190**      | **8.7%**     | **89**      | **7.2%**     | **101**    | **10.7%**    |
 | \- Research Gate                                | 1        | 0.0%     | 1       | 0.1%     | 0      | 0.0%     |
 | \- Kaggle                                       | 5        | 0.2%     | 0       | 0.0%     | 5      | 0.5%     |
-| \- Other                                        | 186      | 8.6%     | 90      | 7.3%     | 96    | 10.2%    |
+| \- Other                                        | 184      | 8.5%     | 88      | 7.2%     |  96    | 10.7%    |
 | \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
 | **Unique identifier**                               | **429**      | **19.7%**    | **248**     | **20.2%**    | **181**    | **19.2%**    |
-| \----------------------------------------------------  | \----    | \------- | \----   | \------- | \----  | \------- |
-| **_Total of links_**                                  | **_2,173_**     | \-       | **_1,229_**    | \-       | **_944_**    | \-       |
+
 
 <br><br>
 
@@ -356,9 +355,6 @@ The actual availability of the artifact link was verified by accessing the links
 | [IP0510] | [PA]               | [CS]                       | https://github.com/vasumv/bonsai-fuzzing                                                                                                                                                                                                                                                                                                                         |
 | [IP0511] | [PA]               | [CS]                       | https://github.com/truelova/ICSE_2021_UpdateNotes                                                                                                                                                                                                                                                                                                                |
 | [IP0512] | [PA]               | [CS]                       | https://github.com/GUIDesignResearch/GUIGAN                                                                                                                                                                                                                                                                                                                      |
-| [IP0513] | [NA]               | [OT]                       | https://uishunter.net.cn/                                                                                                                                                                                                                                                                                                                                        |
-| [IP0513] | [NA]               | [OT]                       | https://uishuntergallery.net.cn/                                                                                                                                                                                                                                                                                                                                 |
-| [IP0513] | [PA]               | [GB]                       | https://youtu.be/7UZ0jtD_1gM - real link: https://www.youtube.com/watch?v=7UZ0jtD_1gM                                                                                                                                                                                                                                                                            |
 | [IP0514] | [PA]               | [CS]                       | https://github.com/NAIST-SE/MetaMaintenancePotential                                                                                                                                                                                                                                                                                                             |
 | [IP0516] | [PA]               | [CS]                       | https://github.com/s3team/Abacus                                                                                                                                                                                                                                                                                                                                 |
 | [IP0518] | [PA]               | [CS]                       | https://github.com/wsong-nj/IMGDroid                                                                                                                                                                                                                                                                                                                             |
