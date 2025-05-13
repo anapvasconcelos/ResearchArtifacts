@@ -1,6 +1,6 @@
 # Badging
 
-[297 ICSE Technical papers](#icse---297-total-badged-papers) and [308 FSE Research papers](#fse---308-total-badged-papers) successfully passed the Artifact Evaluation track and received at least one badge.
+297 [ICSE Technical papers](#icse---297-total-badged-papers) and 308 [FSE Research papers](#fse---308-total-badged-papers) successfully passed the Artifact Evaluation track and received at least one badge.
 
 <br>
 

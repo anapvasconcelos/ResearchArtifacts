@@ -5,8 +5,8 @@ Statements from ICSE and FSE papers about non-publicly-disclosure or partial dis
 - [Categories and subcategories](#categories-and-subcategories)
 - [Quantitative summary of coded responses](#quantitative-summary-of-coded-responses)
 - [Categorization of non-publicly-disclosure statements](#categorization-of-non-publicly-disclosure-statements)
-    - [ICSE: 68 papers](#icse-papers)
-    - [FSE: 37 papers](#fse-papers)
+    - [ICSE](#icse-papers): 68 papers
+    - [FSE](#fse-papers): 37 papers
 
 ## Categories and subcategories
 

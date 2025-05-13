@@ -6,9 +6,9 @@
 ---
 
 ### Considered tracks:
-- Research
-- Industry [^1]
-- Artifacts [^1]
+- Research Track
+- Industry Track [^1]
+- Artifacts Track [^1]
 
 ---
 
