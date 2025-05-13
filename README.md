@@ -18,7 +18,7 @@ This repository contains data collected and analyzed in the context of a researc
 - **ICSE and FSE**
   - [Collected papers](data/collected_papers.md)
   - [Artifact sharing links](data/artifact_sharing_links.md)
-  - [Artifact sharing section](data/artifact-sharing-section.md)
+  - [Artifact sharing location](data/artifact-sharing-section.md)
   - [Non-publicly-disclosure statements](data/non-publicly-disclosure_statements.md)
   - [Paper badging](data/badging.md)
 
