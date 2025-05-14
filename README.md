@@ -23,7 +23,7 @@ This repository contains data collected and analyzed in the context of a researc
   - [Paper badging](data/badging.md)
 
 - **Research Material**
-  - [Artifact search protocol](data/Others/ArtifactsSearchProtocol.pdf)
+  - [Artifact search protocol](data/artifacts-search-protocol.md)
   - [R Scripts](data/scripts.md)
   - [Figures](data/figures.md)
   - Pre-print _(link will be provided upon acceptance of the paper)_

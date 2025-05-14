@@ -30,7 +30,7 @@
 
 ---
 
-![FSE timeline of events](FSE_websites/TL-FSE.png)
+![FSE timeline of events](data/pictures/TL-FSE.png)
 
 
 ---
