@@ -109,6 +109,7 @@ Archived version accessed: https://web.archive.org/web/20191209180227/https://co
     - NIER Track: 	https://conf.researchr.org/track/icse-2023/icse-2023-NIER
     - AE Track: 	https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation
 
+<br><br>
 
 [^1]: In 2015 and 2021, SEET joined the Conference on Software Engineering Education and Training (CSEE\&T) as the Joint Track on Software Engineering Education and Training (JSEET), so when we mention JSEET we also refer to SEET as a single track.
 

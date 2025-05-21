@@ -1,15 +1,44 @@
+# ICSE timeline
+
+<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/pictures/TL-ICSE.png" alt="ICSE timeline of events" style="width:60%;"/>
+
+[PDF version of the timeline](./pictures/TL-ICSE.pdf)
+
 # ICSE data collected from websites
 
 
 ## [Data per timeline event](#title-data-per-timeline-event)
 
 - [Events that started in 2017](#events-that-started-in-2017)
+    - [**2017A** - Verifiability is an evaluation criterion for submitted papers in the Technical track](#2017a---verifiability-is-an-evaluation-criterion-for-submitted-papers-in-the-technical-track-1)
+    - [**2017B** - Authors of Technical papers were encouraged to include any links to relevant research artifacts, in a paper subsection or paragraph titled Verifiability](#2017b---authors-of-technical-papers-were-encouraged-to-include-any-links-to-relevant-research-artifacts-in-a-paper-subsection-or-paragraph-titled-verifiability)
 - [Events that started in 2018](#events-that-started-in-2018)
+    - [**2018A** - An Artifact Evaluation Committee (AEC) is mentioned - SEIS](#2018a---an-artifact-evaluation-committee-aec-is-mentioned---seis)
 - [Events that started in 2019](#events-that-started-in-2019)
+    - [**2019A** - ROSE Festival edition (Rewarding Open Science Replication and Reproduction in Software Engineering) at ICSE](#2019a---rose-festival-edition-rewarding-open-science-replication-and-reproduction-in-software-engineering-at-icse)
+    - [**2019B** - Artifact-evaluated badges are included on the front page of the authors' paper](#2019b---artifact-evaluated-badges-are-included-on-the-front-page-of-the-authors-paper)
+    - [**2019C** - Artifact Evaluation Track at ICSE welcomes artifacts from papers just from Technical track](#2019c---artifact-evaluation-track-at-icse-welcomes-artifacts-from-papers-just-from-technical-track)
 - [Events that started in 2020](#events-that-started-in-2020)
+    - [**2020A** - The Artifact Evaluation Track at ICSE welcomes artifacts from papers from all five main ICSE tracks: SEIP, SEET, SEIS, NIER, and Technical track](#2020a---the-artifact-evaluation-track-at-icse-welcomes-artifacts-from-papers-from-all-five-main-icse-tracks-seip-seet-seis-nier-and-technical-track)
+    - [**2020B** - The Artifact Evaluation Track allows authors of any prior SE work, published at ICSE or elsewhere, to submit as candidate for Results Validated badges](#2020b---the-artifact-evaluation-track-allows-authors-of-any-prior-se-work-published-at-icse-or-elsewhere-to-submit-as-candidate-for-results-validated-badges)
+    - [**2020C** - Verifiability is an evaluation criterion for submitted papers - SEET](#2020c---verifiability-is-an-evaluation-criterion-for-submitted-papers---seet-1)
+    - [**2020D** - Authors of accepted artifacts as Results Validated are invited to give lightning talks](#2020d---authors-of-accepted-artifacts-as-results-validated-are-invited-to-give-lightning-talks)
 - [Events that started in 2021](#events-that-started-in-2021)
+    - [**2021A** - ICSE adheres to Open Science policies as adopted by SIGSOFT](#2021a---icse-adheres-to-open-science-policies-as-adopted-by-sigsoft)
+    - [**2021B** - The artifacts availability needs to be declared in a specific paper section named Data Availability](#2021b---the-artifacts-availability-needs-to-be-declared-in-a-specific-paper-section-named-data-availability)
+    - [**2021C** - Artifact checking is optional for paper reviewers](#2021c---artifact-checking-is-optional-for-paper-reviewers)
+    - [**2021D** - Availability is an evaluation criterion for tool papers submitted - SEET](#2021d---availability-is-an-evaluation-criterion-for-tool-papers-submitted---seet)
+    - [**2021E** - ICSE encourages authors to self-archive their pre- and post-prints in open and preserved repositories](#2021e---icse-encourages-authors-to-self-archive-their-pre--and-post-prints-in-open-and-preserved-repositories)
+    - [**2021F** - ICSE provides a step-by-step approach to disclose data for double-blind peer review and makes it open data upon acceptance](#2021f---icse-provides-a-step-by-step-approach-to-disclose-data-for-double-blind-peer-review-and-makes-it-open-data-upon-acceptance)
+    - [**2021G** - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare](#2021g---icse-provides-step-by-step-approaches-to-automatically-archive-a-github-repository-to-zenodo-or-figshare)
+    - [**2021H** - The abstracts documenting the artifacts accepted in the Artifact Evaluation Track were published in the ICSE Proceedings](#2021h---the-abstracts-documenting-the-artifacts-accepted-in-the-artifact-evaluation-track-were-published-in-the-icse-proceedings)
+    - [**2021I** - Authors of Technical track papers are encouraged to make their data available to the program committee](#2021i---authors-of-technical-track-papers-are-encouraged-to-make-their-data-available-to-the-program-committee)
 - [Events that started in 2022](#events-that-started-in-2022)
+    - [**2022A** - Authors of some tracks are asked to make their data available to the program committee or explain why this is not possible or desirable](#2022a---authors-of-some-tracks-are-asked-to-make-their-data-available-to-the-program-committee-or-explain-why-this-is-not-possible-or-desirable)
+    - [**2022B** - Authors of some tracks are asked to share data and justify if they do not](#2022b---authors-of-some-tracks-are-asked-to-share-data-and-justify-if-they-do-not)
 - [Events that started in 2023](#events-that-started-in-2023)
+    - [**2023A** - The shared artifact underwent a lightweight check by one paper reviewer at the Technical track](#2023a---the-shared-artifact-underwent-a-lightweight-check-by-one-paper-reviewer-at-the-technical-track)
+    - [**2023B** - Verifiability is an evaluation criterion for papers submitted at the NIER track](#2023b---verifiability-is-an-evaluation-criterion-for-papers-submitted-at-the-nier-track)
 
 ---
 
@@ -124,6 +153,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 \- <br><br>
 
 ---
+---
 
 # Events that started in 2018
 
@@ -139,6 +169,10 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double Blind Review > ICSE’18 Double Blind Review Process > What about additional information to support repeatability or verifiability of the reported results?
 <br><br>
 
+### 2019 to 2023
+\- <br><br>
+
+---
 ---
 
 # Events that started in 2019
@@ -173,7 +207,7 @@ Breadcrumb: ICSE 2023 > Tracks > ROSE Festival
 
 ---
 
-## 2019B - Artifact-evaluated badges are included on the front page of the authors' paper.
+## 2019B - Artifact-evaluated badges are included on the front page of the authors' paper
 
 ### 2019
 
@@ -214,7 +248,7 @@ There is not information about this event at ICSE 2022 website, but nevertheless
 
 ### 2023
 
-There is not information about this event at ICSE 2022 website, but nevertheless papers whose artifacts were successfully evaluated received an ACM badge on their first page. For instance: [PI2028], [PI2030], [PI2031], [PI2032], [PI2037], [PI2038], [PI2039], [PI2042], [PI2043], and [PI2044].
+There is not information about this event at ICSE 2023 website, but nevertheless papers whose artifacts were successfully evaluated received an ACM badge on their first page. For instance: [PI2028], [PI2030], [PI2031], [PI2032], [PI2037], [PI2038], [PI2039], [PI2042], [PI2043], and [PI2044].
 <br><br>
 
 
@@ -239,6 +273,10 @@ Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers > How to Subm
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br> <br>
 
+### 2020 to 2023
+\- <br><br>
+
+---
 ---
 
 # Events that started in 2020
@@ -462,10 +500,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 <br><br>
 
 
-
-
-
-
+---
 ---
 
 
@@ -604,11 +639,8 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 #### SEIP, SEIS, SEET, and NIER
 
 These tracks do not provide information related to this event. However, we know that [ICSE 2022 Open Science policies](#icse-2022-open-science-policies) apply to all ICSE tracks, which cover these tracks too.
-
-
 <br><br>
 
----
 
 
 ### 2023
@@ -905,7 +937,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 
 ---
 
-## 2021F - ICSE provides a step-by-step approach to disclose data for double-blind peer review and makes it open data upon acceptance.
+## 2021F - ICSE provides a step-by-step approach to disclose data for double-blind peer review and makes it open data upon acceptance
 
 ### 2021
 
@@ -969,7 +1001,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 ---
 
 
-## 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare.
+## 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare
 
 ### 2021
 
@@ -1062,7 +1094,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 
 ---
 
-## 2021J - Authors of Technical track papers are encouraged to make their data available to the program committee
+## 2021I - Authors of Technical track papers are encouraged to make their data available to the program committee
 
 ### 2021
 
@@ -1079,10 +1111,11 @@ From 2022 the encougarement became a request, not only at Technical track, but a
 <br><br>
 
 ---
+---
 
 # Events that started in 2022
 
-## 2022A - Authors of some tracks are asked to make their data available to the program committee or explain why this is not possible or desirable.
+## 2022A - Authors of some tracks are asked to make their data available to the program committee or explain why this is not possible or desirable
 
 ### 2022
 
@@ -1134,7 +1167,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 
 ---
 
-## 2022B - Authors of some tracks are asked to share data and justify if they do not.
+## 2022B - Authors of some tracks are asked to share data and justify if they do not
 
 ### 2022
 
@@ -1219,10 +1252,11 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 <br><br>
 
 ---
+---
 
 # Events that started in 2023
 
-## 2023A - The shared artifact underwent a lightweight check by one paper reviewer at the Technical track.
+## 2023A - The shared artifact underwent a lightweight check by one paper reviewer at the Technical track
 
 ### 2023
 
@@ -1237,7 +1271,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 
 ---
 
-## 2023B - Verifiability is an evaluation criterion for papers submitted at the NIER track.
+## 2023B - Verifiability is an evaluation criterion for papers submitted at the NIER track
 
 ### 2023
 
@@ -1251,6 +1285,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Evaluation Criteria
 <br><br>
 
+<br><br>
 
 
 
@@ -1330,7 +1365,7 @@ Breadcrumb: ICSE 2019 > Tracks > ROSE Festival > About
 <br><br>
 
 
-## 2019B - Artifact-evaluated badges are included on the front page of the authors' paper.
+## 2019B - Artifact-evaluated badges are included on the front page of the authors' paper
 
 > If the artifact is accepted it will receive one of the following badges on the front page of their paper and in the proceedings: Functional, Reusable, Available, Replicated, Reproduced
 
@@ -1461,7 +1496,7 @@ Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Call for Papers > Review Cri
 Breadcrumb: ICSE 2020 > Tracks > ROSE
 <br><br>
 
-### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper.
+### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper
 
 >  If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
@@ -1675,20 +1710,20 @@ Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Informa
 <br><br>
 
 
-## 2021H - The abstracts documenting the artifacts accepted in the Artifact Evaluation Track were published in the ICSE Proceedings
 
-> All accepted abstracts documenting the artifacts will be further published in the ICSE 2021 proceedings as a further form of recognition.
+## 2021F - ICSE provides a step-by-step approach to disclose data for double-blind peer review and makes it open data upon acceptance
 
-[Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
-Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
+> HOWTOs <br>
+> A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/.
+
+[Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
+[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-OSP.html) <br>
+Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
 
 
-
-
-## 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare.
+## 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare
 
 
 > HOWTOs [...]
@@ -1704,9 +1739,22 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 
 
 
+## 2021H - The abstracts documenting the artifacts accepted in the Artifact Evaluation Track were published in the ICSE Proceedings
+
+> All accepted abstracts documenting the artifacts will be further published in the ICSE 2021 proceedings as a further form of recognition.
+
+[Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
+[PDF](ICSE_websites/ICSE2021-AE.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2021-AE.html) <br>
+Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
+<br><br>
 
 
-## 2021J - Authors of Technical track papers are encouraged to make their data available to the program committee
+
+
+
+
+
+## 2021I - Authors of Technical track papers are encouraged to make their data available to the program committee
 
 > Authors are requested to adhere to the ICSE 2021 Open Science policies to the best of their abilities. To that end supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible.
 
@@ -1737,7 +1785,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Review Crit
 <br><br>
 
 
-### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper.
+### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper
 
 > If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
@@ -1809,7 +1857,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 
 # 2022 - 44th ICSE
 
-## 2022A - Authors of some tracks are asked to make their data available to the program committee or explain why this is not possible or desirable.
+## 2022A - Authors of some tracks are asked to make their data available to the program committee or explain why this is not possible or desirable
 
 #### Technical
 
@@ -1826,7 +1874,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 <br><br>
 
 
-## 2022B - Authors of some tracks are asked to share data and justify if they do not.
+## 2022B - Authors of some tracks are asked to share data and justify if they do not
 
 #### Technical
 
@@ -1876,7 +1924,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Review Criteria
 <br><br>
 
-### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper.
+### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper
 
 There is not information about this event at ICSE 2022 website, but nevertheless papers whose artifacts were successfully evaluated received an ACM badge on their first page. For instance: [PI0001], [PI0002], [PI0003], [PI0004], [PI0007], [PI0015], [PI0020], [PI0022], [PI0023], [PI0032], and [PI0036].
 <br><br>
@@ -2016,8 +2064,18 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 <br><br>
 
 
+### 2021F - ICSE provides a step-by-step approach to disclose data for double-blind peer review and makes it open data upon acceptance
 
-### 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare.
+> HOWTOs <br>
+> A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is [available online](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/).
+
+[Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
+[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2022-OSP.html) <br>
+Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open artifacts > HOWTOs
+<br><br>
+
+
+### 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare
 
 > HOWTOs [...]
 > 
@@ -2040,7 +2098,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 
 # 2023 - 45th ICSE
 
-## 2023A - The shared artifact underwent a lightweight check by one paper reviewer at the Technical track.
+## 2023A - The shared artifact underwent a lightweight check by one paper reviewer at the Technical track
 
 > Please note the following important changes for 2023:
 > 1. As previous ICSE editions, we apply an open science policy. This year, we will ask a reviewer to perform a lightweight check on the shared artifacts (see below).
@@ -2052,7 +2110,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 
 
 
-## 2023B - Verifiability is an evaluation criterion for papers submitted at the NIER track.
+## 2023B - Verifiability is an evaluation criterion for papers submitted at the NIER track
 
 #### NIER
 
@@ -2093,7 +2151,7 @@ Breadcrumb: ICSE 2023 > Tracks > ROSE Festival
 <br><br>
 
 
-### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper.
+### 2019B - Artifact-evaluated badges are included on the front page of the authors' paper
 
 There is not information about this event at ICSE 2022 website, but nevertheless papers whose artifacts were successfully evaluated received an ACM badge on their first page. For instance: [PI2028], [PI2030], [PI2031], [PI2032], [PI2037], [PI2038], [PI2039], [PI2042], [PI2043], and [PI2044].
 <br><br>
@@ -2278,8 +2336,45 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 <br><br>
 
 
+### 2021F - ICSE provides a step-by-step approach to disclose data for double-blind peer review and makes it open data upon acceptance
 
-### 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare.
+#### Open Science Policies
+
+> HOWTOs<br>
+> A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/.
+
+[Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
+[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-OSP.html) <br>
+Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > HOWTOs
+<br><br>
+
+
+#### Technical
+
+> HOWTOs <br>
+> A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is available online .
+
+[Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
+[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-TT-OSP.html) <br>
+Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts > HOWTOs
+<br><br>
+
+
+#### SEET
+
+> Authors are asked to carefully review any supplementary material to ensure it conforms to the double-anonymous policy employed for ICSE SEET 2023. For example, code and data repositories may be exported to remove version control history, scrubbed of names in comments and metadata, and anonymously uploaded to a sharing site to support review. Below are some resources that can be helpful:
+> - A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is [available online](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/)
+
+[Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
+[PDF](ICSE_websites/ICSE2023-SEET.pdf) - [Local page](https://rawcdn.githack.com/anapvasconcelos/ResearchArtifacts/75bd4d4cb4d4f3d218618aa82888f06e54b2c1ed/data/ICSE_websites/websites/ICSE2023-SEET.html) <br>
+Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Open Science Policy
+<br><br>
+
+
+
+
+
+### 2021G - ICSE provides step-by-step approaches to automatically archive a GitHub repository to Zenodo or Figshare
 
 #### Open Science Policies
 
@@ -2325,7 +2420,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 
 
 
-### 2022A - Authors of some tracks are asked to make their data available to the program committee or explain why this is not possible or desirable.
+### 2022A - Authors of some tracks are asked to make their data available to the program committee or explain why this is not possible or desirable
 
 #### Technical
 
@@ -2356,7 +2451,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 <br><br>
 
 
-### 2022B - Authors of some tracks are asked to share data and justify if they do not.
+### 2022B - Authors of some tracks are asked to share data and justify if they do not
 
 #### Technical
 

@@ -2,38 +2,30 @@
 
 The papers collected for the study were published in ICSE and FSE main tracks (Technical track and Research track) from 2014 to 2023.
 
-- [Overview of collected papers](#overview-of-collected-papers)
-- [List of collected papers](#list-of-collected-papers)
-    - [List of ICSE papers](#icse-papers): 1,236 papers
-    - [List of FSE papers](#fse-papers): 840 papers
+## List of papers
+- [List of ICSE papers](#icse-papers): 1,236 papers
+- [List of FSE papers](#fse-papers): 840 papers
 
 
 ## Overview of collected papers
 
 | **Year**  | **ICSE papers**  | **FSE papers** | **Total of papers** |
-| --------- | --------: | ------: | --------: |
-| 2014      | 98        | 61      | 159       |
-| 2015      | 84        | 74      | 158       |
-| 2016      | 101       | 74      | 175       |
-| 2017      | 68        | 72      | 140       |
-| 2018      | 105       | 61      | 166       |
-| 2019      | 109       | 74      | 183       |
-| 2020      | 129       | 101     | 230       |
-| 2021      | 138       | 97      | 235       |
-| 2022      | 197       | 99      | 296       |
-| 2023      | 207       | 127     | 334       |
-| **Total** | **1,236** | **840** | **2,076** |
-
-
-
-## List of collected papers
-
-- [ICSE papers](#icse-papers)
-- [FSE papers](#fse-papers)
-
----
+| --------- | ---------------: | -------------: | ------------------: |
+| 2014      | 98               | 61             | 159                 |
+| 2015      | 84               | 74             | 158                 |
+| 2016      | 101              | 74             | 175                 |
+| 2017      | 68               | 72             | 140                 |
+| 2018      | 105              | 61             | 166                 |
+| 2019      | 109              | 74             | 183                 |
+| 2020      | 129              | 101            | 230                 |
+| 2021      | 138              | 97             | 235                 |
+| 2022      | 197              | 99             | 296                 |
+| 2023      | 207              | 127            | 334                 |
+| **Total** | **1,236**        | **840**        | **2,076**           |
 
 <br>
+
+## List of collected papers
 
 ### ICSE papers
 
