@@ -16,14 +16,14 @@ This file is used by the scripts and contains all the data used in our study.
 
 #### - Figure 3 -  The ICSE artifact sharing calling timeline
 
-<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/pictures/TL-ICSE.png" alt="ICSE timeline of events" style="width:60%;"/>
+<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/scripts/TL-ICSE.png" alt="ICSE timeline of events" style="width:60%;"/>
 
 - [R script](/data/scripts/ICSE-timeline.R) - [PDF](/data/scripts/TL-ICSE.pdf)
 
 
 #### - Figure 4 -  The FSE artifact sharing calling timeline
 
-<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/pictures/TL-FSE.png" alt="FSE timeline of events" style="width:60%;"/>
+<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/scripts/TL-FSE.png" alt="FSE timeline of events" style="width:60%;"/>
 
 - [R script](/data/scripts/FSE-timeline.R) - [PDF](/data/scripts/TL-FSE.pdf)
 
@@ -31,7 +31,7 @@ This file is used by the scripts and contains all the data used in our study.
 
 #### - FSE Spearman's Correlation
 
-<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/pictures/FSE-Spearman.png" alt="FSE Spearman's Correlation" style="width:60%;"/>
+<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/scripts/FSE-Spearman.png" alt="FSE Spearman's Correlation" style="width:60%;"/>
 
 - [R script](/data/scripts/FSE-spearman.R) - [PDF](/data/scripts/FSE-Spearman.pdf)
 
