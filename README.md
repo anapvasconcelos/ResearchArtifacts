@@ -24,3 +24,9 @@ Data related to the submitted paper **Assessing Research Artifact Availability i
   - [Search protocol](data/artifacts-search-protocol.md)
   - [Data and R Scripts](data/data-and-scripts.md)
   - Pre-print _(link will be provided upon acceptance of the paper)_
+
+
+## License
+
+- The **R scripts** in this repository are licensed under the [MIT License](LICENSE).
+- The **research data and artifacts** are licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
