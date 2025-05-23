@@ -21,6 +21,6 @@ Data related to the submitted paper **Assessing Research Artifact Availability i
 
 ## Research Material
 
-  - [Artifact search protocol](data/artifacts-search-protocol.md)
+  - [Search protocol](data/artifacts-search-protocol.md)
   - [Data and R Scripts](data/data-and-scripts.md)
   - Pre-print _(link will be provided upon acceptance of the paper)_

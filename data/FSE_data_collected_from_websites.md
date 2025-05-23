@@ -1,8 +1,8 @@
 # FSE timeline
 
-<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/pictures/TL-FSE.png" alt="FSE timeline of events" style="width:60%;"/>
+<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/scripts/TL-FSE.png" alt="FSE timeline of events" style="width:60%;"/>
 
-[PDF version of the timeline](./pictures/TL-FSE.pdf)
+[PDF version of the timeline](./scripts/TL-FSE.pdf)
 
 # FSE data collected from websites
 
