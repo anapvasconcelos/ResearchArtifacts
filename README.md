@@ -4,7 +4,7 @@
 
 This repository contains the data and scripts collected and analyzed in the context of a research project that investigates artifact sharing practices in the Software Engineering research community.
 
-The material is associated with the paper: **Assessing Research Artifact Availability in Software Engineering: A Decade of ICSE through an Open Science Lens**.
+The material is associated with the paper: **Assessing Research Artifact Availability in Software Engineering: A Decade of ICSE and FSE through an Open Science Lens**.
 
 ---
 
@@ -45,7 +45,7 @@ The material is associated with the paper: **Assessing Research Artifact Availab
                   Emanoel Barreiros and
                   Sergio Soares},
   title        = {Research Artifacts of Assessing Research Artifact Availability in Software Engineering:
-                  A Decade of ICSE through an Open Science Lens},
+                  A Decade of ICSE and FSE through an Open Science Lens},
   year         = 2025,
   publisher    = {Zenodo},
   version      = {v1.0},
@@ -66,8 +66,8 @@ The material is associated with the paper: **Assessing Research Artifact Availab
                   Adauto Trigueiro de Almeida Filho and
                   Emanoel Barreiros and
                   Sergio Soares},
-  title        = {Assessing Research Artifact Availability in Software Engineering:
-                  A Decade of ICSE through an Open Science Lens},
+  title        = {Assessing Research Artifact Availability in Software Engineering: 
+                  A Decade of ICSE and FSE through an Open Science Lens},
   journal      = {Empirical Software Engineering},
   year         = {2025}
 }
