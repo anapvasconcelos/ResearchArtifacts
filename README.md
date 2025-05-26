@@ -8,7 +8,11 @@ The material is associated with the paper: **Assessing Research Artifact Availab
 
 ---
 
-## 📊 Data
+## 🗂️ Data
+
+### 📊 Processed and Categorized Data
+
+This section contains data that has been cleaned, categorized, and summarized for analysis. They were used to produce the main results presented in the paper.
 
 - [Data collected from ICSE websites](data/ICSE_data_collected_from_websites.md)
   - [ICSE URLs](data/ICSE_websites.md)
@@ -20,12 +24,20 @@ The material is associated with the paper: **Assessing Research Artifact Availab
 - [Non-publicly disclosure statements](data/non-publicly-disclosure_statements.md)
 - [Paper badging data](data/badging.md)
 
+### 📝 Supporting Spreadsheet
+
+This spreadsheet includes raw-to-coded mappings, annotations, and intermediate classifications used to construct the final tabulations.
+
+- [Data.xlsx](/data/scripts/Data.xlsx)
+
 ---
 
 ## 🔬 Research Material
 
+This section includes supporting documentation and scripts used in the study.
+
   - [Search protocol](data/artifacts-search-protocol.md)
-  - [Data and R Scripts](data/data-and-scripts.md)
+  - [Data and R scripts](data/data-and-scripts.md)
   - Pre-print _(link will be provided upon acceptance of the paper)_
 
 ---
