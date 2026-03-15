@@ -1,0 +1,139 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{fp}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Figure 6
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\FPeval\varPapersNotShareLinkFSEXIV{3.8}
+\FPeval\varPapersNotShareLinkFSEXIX{8.3}
+\FPeval\varPapersNotShareLinkFSEXV{3.8}
+\FPeval\varPapersNotShareLinkFSEXVI{0.0}
+\FPeval\varPapersNotShareLinkFSEXVII{0.0}
+\FPeval\varPapersNotShareLinkFSEXVIII{0.0}
+\FPeval\varPapersNotShareLinkFSEXX{10.0}
+\FPeval\varPapersNotShareLinkFSEXXI{16.7}
+\FPeval\varPapersNotShareLinkFSEXXII{0.0}
+\FPeval\varPapersNotShareLinkFSEXXIII{50.0}
+\FPeval\varPapersNotShareLinkICSEXIV{5.6}
+\FPeval\varPapersNotShareLinkICSEXIX{3.3}
+\FPeval\varPapersNotShareLinkICSEXV{2.9}
+\FPeval\varPapersNotShareLinkICSEXVI{12.9}
+\FPeval\varPapersNotShareLinkICSEXVII{0.0}
+\FPeval\varPapersNotShareLinkICSEXVIII{9.1}
+\FPeval\varPapersNotShareLinkICSEXX{0.0}
+\FPeval\varPapersNotShareLinkICSEXXI{16.7}
+\FPeval\varPapersNotShareLinkICSEXXII{19.0}
+\FPeval\varPapersNotShareLinkICSEXXIII{14.3}
+
+
+\setcounter{figure}{5}%Figure 6
+
+\begin{figure}[htbp]
+    \noindent
+    \scriptsize
+    \begin{subfigure}[b]{0.5\textwidth}
+    \caption{ICSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers without links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.09,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=65,
+            ytick={0,5,10,20,30,40,50,60},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+       \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014,\varPapersNotShareLinkICSEXIV) [\varPapersNotShareLinkICSEXIV]
+            (2015,\varPapersNotShareLinkICSEXV) [\varPapersNotShareLinkICSEXV]
+            (2016,\varPapersNotShareLinkICSEXVI) [\varPapersNotShareLinkICSEXVI]
+            (2017,\varPapersNotShareLinkICSEXVII) [\varPapersNotShareLinkICSEXVII]
+            (2018,\varPapersNotShareLinkICSEXVIII) [\varPapersNotShareLinkICSEXVIII]
+            (2019,\varPapersNotShareLinkICSEXIX) [\varPapersNotShareLinkICSEXIX]
+            (2020,\varPapersNotShareLinkICSEXX) [\varPapersNotShareLinkICSEXX]
+            (2021,\varPapersNotShareLinkICSEXXI) [\varPapersNotShareLinkICSEXXI]
+            (2022,\varPapersNotShareLinkICSEXXII) [\varPapersNotShareLinkICSEXXII]
+            (2023,\varPapersNotShareLinkICSEXXIII) [\varPapersNotShareLinkICSEXXIII]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:statements-ICSE}
+    \end{subfigure}
+    \quad \quad
+    \begin{subfigure}[b]{0.5\textwidth}
+    \caption{FSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers without links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.09,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=65,
+            ytick={0,5,10,20,30,40,50,60},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014,\varPapersNotShareLinkFSEXIV) [\varPapersNotShareLinkFSEXIV]
+            (2015,\varPapersNotShareLinkFSEXV) [\varPapersNotShareLinkFSEXV]
+            (2016,\varPapersNotShareLinkFSEXVI) [\varPapersNotShareLinkFSEXVI]
+            (2017,\varPapersNotShareLinkFSEXVII) [\varPapersNotShareLinkFSEXVII]
+            (2018,\varPapersNotShareLinkFSEXVIII) [\varPapersNotShareLinkFSEXVIII]
+            (2019,\varPapersNotShareLinkFSEXIX) [\varPapersNotShareLinkFSEXIX]
+            (2020,\varPapersNotShareLinkFSEXX) [\varPapersNotShareLinkFSEXX]
+            (2021,\varPapersNotShareLinkFSEXXI) [\varPapersNotShareLinkFSEXXI]
+            (2022,\varPapersNotShareLinkFSEXXII) [\varPapersNotShareLinkFSEXXII]
+            (2023,\varPapersNotShareLinkFSEXXIII) [\varPapersNotShareLinkFSEXXIII]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:statements-FSE}
+    \end{subfigure}
+    \caption{Evolution of the statements about artifact disclosure.}
+    \label{fig:statements-ICSEFSE}
+\end{figure}
+
+\end{document}

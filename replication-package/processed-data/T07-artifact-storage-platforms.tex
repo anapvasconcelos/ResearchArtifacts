@@ -1,0 +1,176 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage[margin=3cm]{geometry}
+\usepackage{fp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{threeparttable}
+\usepackage{makecell}
+\npthousandsep{,}
+
+%%% Setup
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&\ShowPercentageNoHundred{#1}{#2}&\inlinechart{#1}{#2}}
+
+\newcommand{\inlinechart}[2]{%
+\FPeval{\BLACKBARSIZE}{#1/#2}\textcolor{black!80}{\rule{\BLACKBARSIZE\BARSIZE}{1.6ex}}%
+\FPeval{\BLACKBARSIZE}{1 - (#1/#2)}\textcolor{black!10}{\rule{\BLACKBARSIZE\BARSIZE}{1.6ex}}%
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \FPeval\percentage{round(#1/#2*100,1)}%
+    \FPeval\percentageRounded{round(#1/#2*100,0)}%
+    \ifthenelse
+        {\equal{\percentageRounded}{0}}%if
+        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+        {%else
+        \ifthenelse
+            {\equal{\percentageRounded}{1}}%if
+            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+            {%else
+            \ifthenelse
+                {\equal{\percentageRounded}{2}}%if
+                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                {%else
+                \ifthenelse
+                    {\equal{\percentageRounded}{3}}%if
+                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                    {%else
+                    \ifthenelse
+                        {\equal{\percentageRounded}{4}}%if
+                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                        {%else
+                        \ifthenelse
+                            {\equal{\percentageRounded}{5}}%if
+                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                            {%else
+                            \ifthenelse
+                                {\equal{\percentageRounded}{6}}%if
+                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                {%else
+                                \ifthenelse
+                                    {\equal{\percentageRounded}{7}}%if
+                                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                    {%else
+                                    \ifthenelse
+                                        {\equal{\percentageRounded}{8}}%if
+                                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                        {%else
+                                        \ifthenelse
+                                            {\equal{\percentageRounded}{9}}%if
+                                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                            {%else
+                                            \ifthenelse
+                                                {\equal{\percentage}{9.5}}%if
+                                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                {%else
+                                                \ifthenelse
+                                                    {\equal{\percentage}{9.6}}%if
+                                                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                    {%else
+                                                    \ifthenelse
+                                                        {\equal{\percentage}{9.7}}%if
+                                                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                        {%else
+                                                        \ifthenelse
+                                                            {\equal{\percentage}{9.8}}%if
+                                                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                            {%else
+                                                            \ifthenelse
+                                                                {\equal{\percentage}{9.9}}%if
+                                                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                                {%else
+                                                                    (\FPprint{percentage}\%)
+                                                                }%
+                                                            }%
+                                                        }%
+                                                    }%
+                                                }%
+                                            }%
+                                        }%
+                                    }%
+                                }%
+                            }%
+                        }%
+                    }%
+                }%
+            }%
+        }%
+}%
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 7
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\FPeval\varTotalOfLinksICSEFSE{2171}
+\FPeval\varArchivalPlatformsICSEFSE{468}
+\FPeval\varCodePlatICSEFSE{1035}
+\FPeval\varGeneralPurposePlatICSEFSE{172}
+\FPeval\varInstPersProfesPagesICSEFSE{309}
+\FPeval\varOtherRepsICSEFSE{188}
+
+\setcounter{table}{6}%Table 7
+
+\begin{table}[htbp]
+\begin{threeparttable}
+    \caption{Types of artifact storage platforms.}
+    \label{tab:artifact-rep}
+    \centering
+    \small
+
+    \begin{tabular}{@{}p{18mm} m{85mm} @{\hskip 0.1in} r @{\hskip 0.03in} r @{\hskip 0.02in} l@{}}
+
+        \toprule
+
+        \makecell[l]{Type} & Description & \multicolumn{3}{c@{}}{\# Links (\numprint{\varTotalOfLinksICSEFSE})}\\ 
+   
+\midrule
+
+\makecell[l]{Archival} &
+        Platforms providing long-term preservation and citability of research artifacts, such as Zenodo, Figshare, Open Science Framework (OSF), Mendeley Data, Software Heritage, ACM Digital Library, arXiv, and Internet Archive.&
+            \ChartWithAbsoluteAndPercentageNumbers{\varArchivalPlatformsICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+
+\midrule
+   
+        \makecell[l]{Code}&
+        Platforms primarily used for hosting and distributing code and software artifacts, such as GitHub, BitBucket, Docker, GitLab, Pypi, and Crates. &
+            \ChartWithAbsoluteAndPercentageNumbers{\varCodePlatICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+\midrule
+
+        \makecell[l]{Institutional} &
+        Webpages hosted under institutional domains, including personal, group, and organizational pages.&
+           \ChartWithAbsoluteAndPercentageNumbers{\varInstPersProfesPagesICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+\midrule
+
+        \makecell[l]{General-\\purpose}&
+        Generic cloud-based platforms for file storage, sharing, and collaboration, such as Dropbox, Google Drive, Google Sites, Google Documents, Youtube, Google Code, Google Cloud, and Kaggle. &
+            \ChartWithAbsoluteAndPercentageNumbers{\varGeneralPurposePlatICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+\midrule
+        Others &
+        Webpages and platforms that did not fit the previous categories (e.g., ResearchGate). &
+            \ChartWithAbsoluteAndPercentageNumbers{\varOtherRepsICSEFSE}{\varTotalOfLinksICSEFSE}\\
+   
+        \bottomrule
+   
+    \end{tabular}
+    \end{threeparttable}
+
+\end{table}
+
+\end{document}

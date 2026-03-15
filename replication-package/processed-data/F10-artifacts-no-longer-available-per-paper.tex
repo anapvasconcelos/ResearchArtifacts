@@ -1,0 +1,138 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{fp}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Figure 10
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\FPeval\varFSENotAvailablePerPaperXIV{45.7}
+\FPeval\varFSENotAvailablePerPaperXIX{14.5}
+\FPeval\varFSENotAvailablePerPaperXV{43.8}
+\FPeval\varFSENotAvailablePerPaperXVI{38.9}
+\FPeval\varFSENotAvailablePerPaperXVII{26.4}
+\FPeval\varFSENotAvailablePerPaperXVIII{9.8}
+\FPeval\varFSENotAvailablePerPaperXX{5.5}
+\FPeval\varFSENotAvailablePerPaperXXI{2.4}
+\FPeval\varFSENotAvailablePerPaperXXII{1.1}
+\FPeval\varFSENotAvailablePerPaperXXIII{3.2}
+\FPeval\varICSENotAvailablePerPaperEighteen{20.5}
+\FPeval\varICSENotAvailablePerPaperFifteen{46.9}
+\FPeval\varICSENotAvailablePerPaperFourteen{56.5}
+\FPeval\varICSENotAvailablePerPaperNineteen{7.6}
+\FPeval\varICSENotAvailablePerPaperSeventeen{35.7}
+\FPeval\varICSENotAvailablePerPaperSixteen{52.9}
+\FPeval\varICSENotAvailablePerPaperTwenty{6.6}
+\FPeval\varICSENotAvailablePerPaperTwentyOne{5.0}
+\FPeval\varICSENotAvailablePerPaperTwentyThree{4.5}
+\FPeval\varICSENotAvailablePerPaperTwentyTwo{2.8}
+
+\setcounter{figure}{9}%Figure 10
+
+\begin{figure}[htbp]
+    \noindent
+    \scriptsize
+    \begin{subfigure}[b]{0.5\textwidth}
+    \caption{ICSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}    
+    \begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.1,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=80,
+            ytick={0,10,20,30,40,50,60,70},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+       \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+        (2014,\varICSENotAvailablePerPaperFourteen) [\varICSENotAvailablePerPaperFourteen]
+        (2015,\varICSENotAvailablePerPaperFifteen) [\varICSENotAvailablePerPaperFifteen]
+        (2016,\varICSENotAvailablePerPaperSixteen) [\varICSENotAvailablePerPaperSixteen]
+        (2017,\varICSENotAvailablePerPaperSeventeen) [\varICSENotAvailablePerPaperSeventeen]
+        (2018,\varICSENotAvailablePerPaperEighteen) [\varICSENotAvailablePerPaperEighteen]
+        (2019,\varICSENotAvailablePerPaperNineteen) [\varICSENotAvailablePerPaperNineteen]
+        (2020,\varICSENotAvailablePerPaperTwenty) [\varICSENotAvailablePerPaperTwenty]
+        (2021,\varICSENotAvailablePerPaperTwentyOne) [\varICSENotAvailablePerPaperTwentyOne]
+        (2022,\varICSENotAvailablePerPaperTwentyTwo) [\varICSENotAvailablePerPaperTwentyTwo]
+        (2023,\varICSENotAvailablePerPaperTwentyThree) [\varICSENotAvailablePerPaperTwentyThree]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:artifact-linking-evolution-per-paper-ICSE}
+    \end{subfigure}
+    \quad \quad \quad
+    \begin{subfigure}[b]{0.5\textwidth}
+    \caption{FSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.1,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=80,
+            ytick={0,10,20,30,40,50,60,70},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+        (2014,\varFSENotAvailablePerPaperXIV) [\varFSENotAvailablePerPaperXIV]
+        (2015,\varFSENotAvailablePerPaperXV) [\varFSENotAvailablePerPaperXV]
+        (2016,\varFSENotAvailablePerPaperXVI) [\varFSENotAvailablePerPaperXVI]
+        (2017,\varFSENotAvailablePerPaperXVII) [\varFSENotAvailablePerPaperXVII]
+        (2018,\varFSENotAvailablePerPaperXVIII) [\varFSENotAvailablePerPaperXVIII]
+        (2019,\varFSENotAvailablePerPaperXIX) [\varFSENotAvailablePerPaperXIX]
+        (2020,\varFSENotAvailablePerPaperXX) [\varFSENotAvailablePerPaperXX]
+        (2021,\varFSENotAvailablePerPaperXXI) [\varFSENotAvailablePerPaperXXI]
+        (2022,\varFSENotAvailablePerPaperXXII) [\varFSENotAvailablePerPaperXXII]
+        (2023,\varFSENotAvailablePerPaperXXIII) [\varFSENotAvailablePerPaperXXIII]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:artifact-linking-evolution-per-paper-FSE}
+    \end{subfigure}
+    \caption{Artifacts no longer available per paper (checked in 2024).}
+    \label{fig:artifact-linking-evolution-per-paper}
+\end{figure}
+
+\end{document}

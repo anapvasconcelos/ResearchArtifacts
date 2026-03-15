@@ -1,0 +1,177 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{fp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{threeparttable}
+\npthousandsep{,}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 10
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXFSE{47.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXICSE{21.6}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIFSE{0.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIFSE{22.2}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIICSE{50.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXFSE{68.6}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXICSE{24.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIFSE{35.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIICSE{60.5}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIFSE{78.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIICSE{56.9}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIFSE{72.6}
+\FPeval\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIICSE{50.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXIXFSE{5.3}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXIXICSE{5.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIFSE{0.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIFSE{16.7}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIICSE{0.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXFSE{2.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXICSE{10.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIFSE{4.2}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIICSE{2.6}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIFSE{0.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIICSE{3.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIFSE{0.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIICSE{0.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXFSE{47.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXICSE{73.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIFSE{100}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIFSE{61.1}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIICSE{50.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXFSE{29.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXICSE{66.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIFSE{60.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIICSE{36.8}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIFSE{22.0}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIICSE{39.7}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIFSE{27.4}
+\FPeval\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIICSE{50.0}
+\FPeval\varEvolutionBadgeArtifactAvailableXIXFSE{19}
+\FPeval\varEvolutionBadgeArtifactAvailableXIXICSE{37}
+\FPeval\varEvolutionBadgeArtifactAvailableXVIIFSE{1}
+\FPeval\varEvolutionBadgeArtifactAvailableXVIIICSE{0}
+\FPeval\varEvolutionBadgeArtifactAvailableXVIIIFSE{18}
+\FPeval\varEvolutionBadgeArtifactAvailableXVIIIICSE{2}
+\FPeval\varEvolutionBadgeArtifactAvailableXXFSE{51}
+\FPeval\varEvolutionBadgeArtifactAvailableXXICSE{50}
+\FPeval\varEvolutionBadgeArtifactAvailableXXIFSE{48}
+\FPeval\varEvolutionBadgeArtifactAvailableXXIICSE{38}
+\FPeval\varEvolutionBadgeArtifactAvailableXXIIFSE{41}
+\FPeval\varEvolutionBadgeArtifactAvailableXXIIICSE{58}
+\FPeval\varEvolutionBadgeArtifactAvailableXXIIIFSE{62}
+\FPeval\varEvolutionBadgeArtifactAvailableXXIIIICSE{80}
+
+\setcounter{table}{9}%Table 10
+
+
+\begin{table}[htbp]
+\caption{Papers with Artifacts Available Badge and unique identifier links.}
+\label{tab:papers-with-artifacts-available-badge-and-unique-identifier}
+\centering
+\small
+\begin{threeparttable}
+\begin{tabular}{@{}l rrrrrrr@{}}
+
+\toprule
+
+   &
+  2017 &
+  2018 &
+  2019 &
+  2020 &
+  2021 &
+  2022 &
+  2023 \\ 
+  
+  \toprule
+  
+  \# ICSE papers$^*$ &
+  - &
+  \varEvolutionBadgeArtifactAvailableXVIIIICSE &
+  \varEvolutionBadgeArtifactAvailableXIXICSE &
+  \varEvolutionBadgeArtifactAvailableXXICSE &
+  \varEvolutionBadgeArtifactAvailableXXIICSE &
+  \varEvolutionBadgeArtifactAvailableXXIIICSE &
+  \varEvolutionBadgeArtifactAvailableXXIIIICSE \\ 
+  
+  \% with unique identifier links &
+  - &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIICSE\% \\ 
+
+  \% without unique identifier links &
+  - &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIICSE\% \\ 
+
+  \% without any links &
+  - &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXIXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIICSE\% \\ 
+  
+\toprule
+
+  \# FSE papers$^*$ &
+  \varEvolutionBadgeArtifactAvailableXVIIFSE &
+  \varEvolutionBadgeArtifactAvailableXVIIIFSE &
+  \varEvolutionBadgeArtifactAvailableXIXFSE &
+  \varEvolutionBadgeArtifactAvailableXXFSE &
+  \varEvolutionBadgeArtifactAvailableXXIFSE &
+  \varEvolutionBadgeArtifactAvailableXXIIFSE &
+  \varEvolutionBadgeArtifactAvailableXXIIIFSE \\ 
+  
+  \% with unique identifier links &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIFSE\% \\ 
+  
+  \% without unique identifier links &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIFSE\% \\ 
+
+  \% without any links  &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXIXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIFSE\% \\ 
+  
+  \bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]
+            \item[*]{\scriptsize{Only papers with Artifacts Available Badge.}}
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+\end{document}

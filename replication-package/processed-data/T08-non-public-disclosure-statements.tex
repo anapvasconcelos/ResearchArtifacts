@@ -1,0 +1,211 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage[margin=3cm]{geometry}
+\usepackage{fp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{makecell}
+\usepackage{multirow}
+\npthousandsep{,}
+
+%%% Setup
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&\ShowPercentageNoHundred{#1}{#2}&\inlinechart{#1}{#2}}
+
+\newcommand{\inlinechart}[2]{%
+\FPeval{\BLACKBARSIZE}{#1/#2}\textcolor{black!80}{\rule{\BLACKBARSIZE\BARSIZE}{1.6ex}}%
+\FPeval{\BLACKBARSIZE}{1 - (#1/#2)}\textcolor{black!10}{\rule{\BLACKBARSIZE\BARSIZE}{1.6ex}}%
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \FPeval\percentage{round(#1/#2*100,1)}%
+    \FPeval\percentageRounded{round(#1/#2*100,0)}%
+    \ifthenelse
+        {\equal{\percentageRounded}{0}}%if
+        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+        {%else
+        \ifthenelse
+            {\equal{\percentageRounded}{1}}%if
+            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+            {%else
+            \ifthenelse
+                {\equal{\percentageRounded}{2}}%if
+                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                {%else
+                \ifthenelse
+                    {\equal{\percentageRounded}{3}}%if
+                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                    {%else
+                    \ifthenelse
+                        {\equal{\percentageRounded}{4}}%if
+                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                        {%else
+                        \ifthenelse
+                            {\equal{\percentageRounded}{5}}%if
+                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                            {%else
+                            \ifthenelse
+                                {\equal{\percentageRounded}{6}}%if
+                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                {%else
+                                \ifthenelse
+                                    {\equal{\percentageRounded}{7}}%if
+                                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                    {%else
+                                    \ifthenelse
+                                        {\equal{\percentageRounded}{8}}%if
+                                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                        {%else
+                                        \ifthenelse
+                                            {\equal{\percentageRounded}{9}}%if
+                                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                            {%else
+                                            \ifthenelse
+                                                {\equal{\percentage}{9.5}}%if
+                                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                {%else
+                                                \ifthenelse
+                                                    {\equal{\percentage}{9.6}}%if
+                                                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                    {%else
+                                                    \ifthenelse
+                                                        {\equal{\percentage}{9.7}}%if
+                                                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                        {%else
+                                                        \ifthenelse
+                                                            {\equal{\percentage}{9.8}}%if
+                                                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                            {%else
+                                                            \ifthenelse
+                                                                {\equal{\percentage}{9.9}}%if
+                                                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                                {%else
+                                                                    (\FPprint{percentage}\%)
+                                                                }%
+                                                            }%
+                                                        }%
+                                                    }%
+                                                }%
+                                            }%
+                                        }%
+                                    }%
+                                }%
+                            }%
+                        }%
+                    }%
+                }%
+            }%
+        }%
+}%
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 8
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\FPeval\varJustificationPapersICSEFSE{105}
+\FPeval\varStatementAccessThroughCredentialsICSEFSE{1}
+\FPeval\varStatementAccessUponRequestICSEFSE{13}
+\FPeval\varStatementAgreementsAndLegalRightsICSEFSE{28}
+\FPeval\varStatementConfidentialityAndPrivacyICSEFSE{46}
+\FPeval\varStatementFuturePlansICSEFSE{26}
+\FPeval\varStatementLimitedToPhysicalAccessICSEFSE{1}
+\FPeval\varStatementReasonNotExplainedICSEFSE{5}
+\FPeval\varStatementSecurityICSEFSE{5}
+\FPeval\varStatementTechnicalIssuesICSEFSE{3}
+
+\setcounter{table}{7}%Table 8
+
+\begin{table}[htbp]
+\caption{Statements about non-publicly-disclosure of (part of) artifacts from ICSE and FSE papers.}
+\label{tab:statements}
+\centering
+\small
+\begin{tabular}{@{} p{19mm} p{27mm} @{\hskip 0.1in} p{74mm} @{\hskip 0.1in} r r r r@{}}
+\toprule
+Category &
+  Sub-category &
+  Description &
+  \begin{tabular}[c]{@{}r@{}} \# Papers (\varJustificationPapersICSEFSE)\end{tabular}\\
+  \toprule
+\multirow{10}{*}{Barriers} &
+  \begin{tabular}[c]{@{}p{19mm}@{}}Confidentiality\\ and privacy\end{tabular} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors claim concerns regarding personal information, sensitive data, and the risk of deanonymization.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementConfidentialityAndPrivacyICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \cmidrule(l){2-4} 
+ &
+  \begin{tabular}[c]{@{}p{25mm}@{}}Agreements and\\ legal rights\end{tabular} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors state they made a non-disclosure agreement with participants or companies involved in the study or other legal issues.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+    \ChartWithAbsoluteAndPercentageNumbers{\varStatementAgreementsAndLegalRightsICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \cmidrule(l){2-4} 
+ &
+  \begin{tabular}[c]{@{}p{19mm}@{}}Security \\ issues\end{tabular} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors claim concerns relating to potential malicious data and code usage.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementSecurityICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\
+  \cmidrule(l){2-4} 
+ &
+  \begin{tabular}[c]{@{}p{19mm}@{}}Technical \\ issues\end{tabular} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors explain that technical issues make the artifact unusable or impossible to share.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementTechnicalIssuesICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \midrule
+
+\multirow{6}{*}{\begin{tabular}[c]{@{}p{19mm}@{}}Limited\\ access\end{tabular}} &
+  \begin{tabular}[c]{@{}l@{}}Request \\ required \end{tabular} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors do not provide artifacts upfront but claim they will upon request.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementAccessUponRequestICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \cmidrule(l){2-4} 
+ &
+  \begin{tabular}[c]{@{}p{19mm}@{}}Credentials \\ required \end{tabular} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors provide a link but explain that it is limited to those who have credentials.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementAccessThroughCredentialsICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \cmidrule(l){2-4} 
+ &
+  \begin{tabular}[c]{@{}p{19mm}@{}}Physical \\ access\end{tabular} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors claim they can provide access if one visits their research group.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementLimitedToPhysicalAccessICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \midrule
+
+\begin{tabular}[c]{@{}p{19mm}@{}}Future plans \end{tabular} &
+   &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors mention that they plan to make artifacts available in the future. \end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementFuturePlansICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \midrule
+
+
+\multicolumn{2}{@{}l}{No reason} &
+  \begin{tabular}[c]{@{}p{70mm}@{}}The authors mention that they cannot share but do not explain why.\end{tabular} &
+  \begin{tabular}[c]{@{} r @{\hskip 1mm} r @{\hskip 1mm} r@{\hskip -2mm}}
+  \ChartWithAbsoluteAndPercentageNumbers{\varStatementReasonNotExplainedICSEFSE}{\varJustificationPapersICSEFSE}\\ 
+  \end{tabular}\\ 
+  \bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}

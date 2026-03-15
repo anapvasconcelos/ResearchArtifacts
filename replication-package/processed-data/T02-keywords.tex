@@ -1,0 +1,64 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{fp}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 2
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{table}{1}%Table 2
+
+\begin{table}[htbp]
+    \caption{Keywords for searching information in the papers.}
+    \label{tab:keywords}
+    \centering
+    \small
+    \begin{tabular}{@{}lp{10cm}@{}}
+        \toprule
+        \multirow{2}{*}{Primary} & 
+        http*,
+        availab*,
+        releas*,
+        publi*,
+        appendix,
+        material*,
+        suppl*,
+        replic*,
+        reprod*,
+        repo*,
+        reason*,
+        due to\\
+
+\midrule
+        
+        \multirow{2}{*}{Secondary} &
+        disclos*,
+        detail*,
+        priva*,
+        confident*,
+        request*,
+        artifact*,
+        artefact*,
+        web*,
+        site*,
+        home*,
+        page*,
+        online,
+        git*,
+        bitbucket,
+        figshare,
+        zenodo,
+        arxiv,
+        goo*,
+        doi \\
+
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\end{document}

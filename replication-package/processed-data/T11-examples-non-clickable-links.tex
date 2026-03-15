@@ -1,0 +1,45 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{booktabs}
+\usepackage{makecell}
+\usepackage[table]{xcolor}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 11
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{table}{10}%Table 11
+
+\begin{table}[htbp]
+    \caption{Examples of non-clickable links.}
+    \label{tab:non-clickable-links}
+    \centering
+    \small
+    \begin{tabular}{m{120mm}}
+        \toprule
+        Examples of non-clickable links provided in papers \\
+        \midrule
+
+\rowcolor{gray!10}
+        arXiv 2110.10234 \\
+
+        Artifact DOI: 10.6084/m9.figshare.19091282 \\
+
+\rowcolor{gray!10}
+        arXiv:submit/3601478 \\
+
+        CoRR abs/1905.07147 \\
+
+\rowcolor{gray!10}
+        available on the Github repository gousiosg/pullreqs \\
+
+        \makecell[l]{https://www.fuzzbench.com/reports/<experiment-id>\\
+        Experiment ID: 2021-02-17-bug-paper; 2021-08-19-crash-s; 2021-08-19-crash-s2}\\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\end{document}

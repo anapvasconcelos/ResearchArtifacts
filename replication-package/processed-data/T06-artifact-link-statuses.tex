@@ -1,0 +1,174 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{fp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{threeparttable}
+\usepackage{makecell}
+\npthousandsep{,}
+
+%%% Setup
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&\ShowPercentageNoHundred{#1}{#2}&\inlinechart{#1}{#2}}
+
+\newcommand{\inlinechart}[2]{%
+\FPeval{\BLACKBARSIZE}{#1/#2}\textcolor{black!80}{\rule{\BLACKBARSIZE\BARSIZE}{1.6ex}}%
+\FPeval{\BLACKBARSIZE}{1 - (#1/#2)}\textcolor{black!10}{\rule{\BLACKBARSIZE\BARSIZE}{1.6ex}}%
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \FPeval\percentage{round(#1/#2*100,1)}%
+    \FPeval\percentageRounded{round(#1/#2*100,0)}%
+    \ifthenelse
+        {\equal{\percentageRounded}{0}}%if
+        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+        {%else
+        \ifthenelse
+            {\equal{\percentageRounded}{1}}%if
+            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+            {%else
+            \ifthenelse
+                {\equal{\percentageRounded}{2}}%if
+                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                {%else
+                \ifthenelse
+                    {\equal{\percentageRounded}{3}}%if
+                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                    {%else
+                    \ifthenelse
+                        {\equal{\percentageRounded}{4}}%if
+                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                        {%else
+                        \ifthenelse
+                            {\equal{\percentageRounded}{5}}%if
+                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                            {%else
+                            \ifthenelse
+                                {\equal{\percentageRounded}{6}}%if
+                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                {%else
+                                \ifthenelse
+                                    {\equal{\percentageRounded}{7}}%if
+                                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                    {%else
+                                    \ifthenelse
+                                        {\equal{\percentageRounded}{8}}%if
+                                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                        {%else
+                                        \ifthenelse
+                                            {\equal{\percentageRounded}{9}}%if
+                                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                            {%else
+                                            \ifthenelse
+                                                {\equal{\percentage}{9.5}}%if
+                                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                {%else
+                                                \ifthenelse
+                                                    {\equal{\percentage}{9.6}}%if
+                                                    {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                    {%else
+                                                    \ifthenelse
+                                                        {\equal{\percentage}{9.7}}%if
+                                                        {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                        {%else
+                                                        \ifthenelse
+                                                            {\equal{\percentage}{9.8}}%if
+                                                            {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                            {%else
+                                                            \ifthenelse
+                                                                {\equal{\percentage}{9.9}}%if
+                                                                {(\hspace*{4.3pt}\FPprint{percentage}\%)}%then
+                                                                {%else
+                                                                    (\FPprint{percentage}\%)
+                                                                }%
+                                                            }%
+                                                        }%
+                                                    }%
+                                                }%
+                                            }%
+                                        }%
+                                    }%
+                                }%
+                            }%
+                        }%
+                    }%
+                }%
+            }%
+        }%
+}%
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 6
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\FPeval\varTotalOfPapersWithLinkICSE{1001}
+\FPeval\varTotalOfPapersWithLinkICSEFSE{1696}
+\FPeval\varNumLinksNotAvailableICSEFSE{292}
+\FPeval\varNumLinksPublicAvailableICSEFSE{1862}
+\FPeval\varNumLinksRestrictAccessICSEFSE{17}
+\FPeval\varNumPapersLinkNotAvailableICSEFSE{263}
+\FPeval\varNumPapersLinkPublicAvailableICSEFSE{1469}
+\FPeval\varNumPapersLinkRestrictAccessICSEFSE{16}
+\FPeval\varPapersHaveOnlyNotAvailableLinksICSEFSE{217}
+\FPeval\varPapersHaveOnlyPubliclyAvailableLinksICSEFSE{1419}
+\FPeval\varPapersHaveOnlyRestrictAccessLinksICSEFSE{9}
+\FPeval\varTotalPapersUniqueInCategoryICSEFSE{1645}
+\FPeval\varTotalOfLinksICSEFSE{2171}
+
+\setcounter{table}{5}%Table 6
+
+
+\begin{table}[htbp]
+\begin{threeparttable}
+    \caption{Statuses of the links of ICSE and FSE papers.}
+    \label{tab:status-of-the-links}
+    \centering
+    \small
+    \begin{tabular}{@{}p{.23\textwidth} R{.06\textwidth} @{\hskip 0.02in} R{.04\textwidth} @{\hskip 0.26in} L{.08\textwidth} R{.06\textwidth} @{\hskip 0.02in} R{.04\textwidth} @{\hskip 0.26in} L{.08\textwidth} R{.06\textwidth} @{\hskip 0.02in} R{.04\textwidth} @{\hskip 0.26in} L{.08\textwidth}@{}}
+    
+        \toprule
+    
+         Status of the link & 
+         \multicolumn{3}{c}{\# Links (\numprint{\varTotalOfLinksICSEFSE})$^*$} &
+         \multicolumn{3}{c}{\# Papers (\numprint{\varTotalOfPapersWithLinkICSEFSE})} &
+         \multicolumn{3}{c}{\thead{\# Papers unique \\ in category (\numprint{\varTotalPapersUniqueInCategoryICSEFSE})}} \\
+        
+        \midrule
+
+        Publicly available &
+        \ChartWithAbsoluteAndPercentageNumbers{\varNumLinksPublicAvailableICSEFSE}{\varTotalOfLinksICSEFSE} &
+        \ChartWithAbsoluteAndPercentageNumbers{\varNumPapersLinkPublicAvailableICSEFSE}{\varTotalOfPapersWithLinkICSEFSE} &
+        \ChartWithAbsoluteAndPercentageNumbers{\varPapersHaveOnlyPubliclyAvailableLinksICSEFSE}{\varTotalPapersUniqueInCategoryICSEFSE} \\
+
+         Not available &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumLinksNotAvailableICSEFSE}{\varTotalOfLinksICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumPapersLinkNotAvailableICSEFSE}{\varTotalOfPapersWithLinkICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varPapersHaveOnlyNotAvailableLinksICSEFSE}{\varTotalPapersUniqueInCategoryICSEFSE} \\
+
+         Restricted access &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumLinksRestrictAccessICSEFSE}{\varTotalOfLinksICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumPapersLinkRestrictAccessICSEFSE}{\varTotalOfPapersWithLinkICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varPapersHaveOnlyRestrictAccessLinksICSEFSE}{\varTotalPapersUniqueInCategoryICSEFSE} \\
+
+        \bottomrule
+        
+    \end{tabular}
+    \begin{tablenotes}[flushleft]
+      \item [*] A paper might be counted in more than one category if it contains more than one link.
+    \end{tablenotes}
+  \end{threeparttable}
+\end{table}
+
+\end{document}

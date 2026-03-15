@@ -1,0 +1,476 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage[margin=2cm]{geometry}
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{fp}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Figure 9
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\FPeval\FSEXIVInstitutionalPages{65.7}
+\FPeval\FSEXIXInstitutionalPages{4.8}
+\FPeval\FSEXVIIIInstitutionalPages{11.8}
+\FPeval\FSEXVIIInstitutionalPages{39.6}
+\FPeval\FSEXVIInstitutionalPages{38.9}
+\FPeval\FSEXVInstitutionalPages{45.8}
+\FPeval\FSEXXIIIInstitutionalPages{0.0}
+\FPeval\FSEXXIIInstitutionalPages{1.1}
+\FPeval\FSEXXIInstitutionalPages{0.0}
+\FPeval\FSEXXInstitutionalPages{8.8}
+\FPeval\ICSEXIVInstitutionalPages{64.5}
+\FPeval\ICSEXIXInstitutionalPages{8.9}
+\FPeval\ICSEXVIIIInstitutionalPages{20.5}
+\FPeval\ICSEXVIIInstitutionalPages{37.5}
+\FPeval\ICSEXVIInstitutionalPages{58.6}
+\FPeval\ICSEXVInstitutionalPages{59.2}
+\FPeval\ICSEXXIIIInstitutionalPages{2.5}
+\FPeval\ICSEXXIIInstitutionalPages{1.1}
+\FPeval\ICSEXXIInstitutionalPages{5.0}
+\FPeval\ICSEXXInstitutionalPages{5.7}
+\FPeval\varFSEArchivalPlatEighteen{13.7}
+\FPeval\varFSEArchivalPlatFifteen{0.0}
+\FPeval\varFSEArchivalPlatFourteen{5.7}
+\FPeval\varFSEArchivalPlatNineteen{24.2}
+\FPeval\varFSEArchivalPlatSeventeen{0.0}
+\FPeval\varFSEArchivalPlatSixteen{1.9}
+\FPeval\varFSEArchivalPlatTwenty{45.1}
+\FPeval\varFSEArchivalPlatTwentyOne{27.1}
+\FPeval\varFSEArchivalPlatTwentyThree{46.4}
+\FPeval\varFSEArchivalPlatTwentyTwo{46.2}
+\FPeval\varFSECodePlatEighteen{58.8}
+\FPeval\varFSECodePlatFifteen{29.2}
+\FPeval\varFSECodePlatFourteen{14.3}
+\FPeval\varFSECodePlatNineteen{62.9}
+\FPeval\varFSECodePlatSeventeen{49.1}
+\FPeval\varFSECodePlatSixteen{40.7}
+\FPeval\varFSECodePlatTwenty{53.8}
+\FPeval\varFSECodePlatTwentyOne{81.2}
+\FPeval\varFSECodePlatTwentyThree{64.8}
+\FPeval\varFSECodePlatTwentyTwo{58.2}
+\FPeval\varFSEOtherAndGeneraPurposeEighteen{21.6}
+\FPeval\varFSEOtherAndGeneraPurposeFifteen{33.3}
+\FPeval\varFSEOtherAndGeneraPurposeFourteen{22.9}
+\FPeval\varFSEOtherAndGeneraPurposeNineteen{16.1}
+\FPeval\varFSEOtherAndGeneraPurposeSeventeen{18.9}
+\FPeval\varFSEOtherAndGeneraPurposeSixteen{35.2}
+\FPeval\varFSEOtherAndGeneraPurposeTwenty{18.7}
+\FPeval\varFSEOtherAndGeneraPurposeTwentyOne{4.7}
+\FPeval\varFSEOtherAndGeneraPurposeTwentyThree{12.8}
+\FPeval\varFSEOtherAndGeneraPurposeTwentyTwo{15.4}
+\FPeval\varICSEArchivalPlatEighteen{13.3}
+\FPeval\varICSEArchivalPlatFifteen{2.0}
+\FPeval\varICSEArchivalPlatFourteen{0.0}
+\FPeval\varICSEArchivalPlatNineteen{17.7}
+\FPeval\varICSEArchivalPlatSeventeen{3.6}
+\FPeval\varICSEArchivalPlatSixteen{8.6}
+\FPeval\varICSEArchivalPlatTwenty{20.8}
+\FPeval\varICSEArchivalPlatTwentyOne{30.8}
+\FPeval\varICSEArchivalPlatTwentyThree{36.0}
+\FPeval\varICSEArchivalPlatTwentyTwo{31.8}
+\FPeval\varICSECodePlatEighteen{49.4}
+\FPeval\varICSECodePlatFifteen{16.3}
+\FPeval\varICSECodePlatFourteen{17.7}
+\FPeval\varICSECodePlatNineteen{62.0}
+\FPeval\varICSECodePlatSeventeen{42.9}
+\FPeval\varICSECodePlatSixteen{18.6}
+\FPeval\varICSECodePlatTwenty{69.8}
+\FPeval\varICSECodePlatTwentyOne{66.7}
+\FPeval\varICSECodePlatTwentyThree{68.5}
+\FPeval\varICSECodePlatTwentyTwo{71.0}
+\FPeval\varICSEOtherAndGeneraPurposeEighteen{27.7}
+\FPeval\varICSEOtherAndGeneraPurposeFifteen{30.6}
+\FPeval\varICSEOtherAndGeneraPurposeFourteen{38.7}
+\FPeval\varICSEOtherAndGeneraPurposeNineteen{19.0}
+\FPeval\varICSEOtherAndGeneraPurposeSeventeen{26.8}
+\FPeval\varICSEOtherAndGeneraPurposeSixteen{20.0}
+\FPeval\varICSEOtherAndGeneraPurposeTwenty{14.2}
+\FPeval\varICSEOtherAndGeneraPurposeTwentyOne{12.5}
+\FPeval\varICSEOtherAndGeneraPurposeTwentyThree{10.5}
+\FPeval\varICSEOtherAndGeneraPurposeTwentyTwo{8.5}
+
+\setcounter{figure}{8}%Figure 9
+
+\begin{figure}[htbp]
+    \centering
+    \scriptsize
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{Archival} platforms -- ICSE}
+    \label{fig:artifact-rep-Research-ICSE}
+    \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=105,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varICSEArchivalPlatFourteen) [\varICSEArchivalPlatFourteen]
+            (2015, \varICSEArchivalPlatFifteen) [\varICSEArchivalPlatFifteen]
+            (2016, \varICSEArchivalPlatSixteen) [\varICSEArchivalPlatSixteen]
+            (2017, \varICSEArchivalPlatSeventeen) [\varICSEArchivalPlatSeventeen]
+            (2018, \varICSEArchivalPlatEighteen) [\varICSEArchivalPlatEighteen]
+            (2019, \varICSEArchivalPlatNineteen) [\varICSEArchivalPlatNineteen]
+            (2020, \varICSEArchivalPlatTwenty) [\varICSEArchivalPlatTwenty]
+            (2021, \varICSEArchivalPlatTwentyOne) [\varICSEArchivalPlatTwentyOne]
+            (2022, \varICSEArchivalPlatTwentyTwo) [\varICSEArchivalPlatTwentyTwo]
+            (2023, \varICSEArchivalPlatTwentyThree) [\varICSEArchivalPlatTwentyThree] 
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+    \quad 
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{Archival} platforms -- FSE}
+    \label{fig:artifact-rep-Research-FSE}
+    \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=105,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varFSEArchivalPlatFourteen) [\varFSEArchivalPlatFourteen]
+            (2015, \varFSEArchivalPlatFifteen) [\varFSEArchivalPlatFifteen]
+            (2016, \varFSEArchivalPlatSixteen) [\varFSEArchivalPlatSixteen]
+            (2017, \varFSEArchivalPlatSeventeen) [\varFSEArchivalPlatSeventeen]
+            (2018, \varFSEArchivalPlatEighteen) [\varFSEArchivalPlatEighteen]
+            (2019, \varFSEArchivalPlatNineteen) [\varFSEArchivalPlatNineteen]
+            (2020, \varFSEArchivalPlatTwenty) [\varFSEArchivalPlatTwenty]
+            (2021, \varFSEArchivalPlatTwentyOne) [\varFSEArchivalPlatTwentyOne]
+            (2022, \varFSEArchivalPlatTwentyTwo) [\varFSEArchivalPlatTwentyTwo]
+            (2023, \varFSEArchivalPlatTwentyThree) [\varFSEArchivalPlatTwentyThree]
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+
+\tiny   
+    ~ 
+\scriptsize
+\begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{Code} platforms -- ICSE}
+    \label{fig:artifact-rep-CodePlat-ICSE}
+    \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=120,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varICSECodePlatFourteen) [\varICSECodePlatFourteen]
+            (2015, \varICSECodePlatFifteen) [\varICSECodePlatFifteen]
+            (2016, \varICSECodePlatSixteen) [\varICSECodePlatSixteen]
+            (2017, \varICSECodePlatSeventeen) [\varICSECodePlatSeventeen]
+            (2018, \varICSECodePlatEighteen) [\varICSECodePlatEighteen]
+            (2019, \varICSECodePlatNineteen) [\varICSECodePlatNineteen]
+            (2020, \varICSECodePlatTwenty) [\varICSECodePlatTwenty]
+            (2021, \varICSECodePlatTwentyOne) [\varICSECodePlatTwentyOne]
+            (2022, \varICSECodePlatTwentyTwo) [\varICSECodePlatTwentyTwo]
+            (2023, \varICSECodePlatTwentyThree) [\varICSECodePlatTwentyThree] 
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+    \quad 
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{Code} platforms -- FSE}
+    \label{fig:artifact-rep-CodePlat-FSE}
+    \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=120,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varFSECodePlatFourteen) [\varFSECodePlatFourteen]
+            (2015, \varFSECodePlatFifteen) [\varFSECodePlatFifteen]
+            (2016, \varFSECodePlatSixteen) [\varFSECodePlatSixteen]
+            (2017, \varFSECodePlatSeventeen) [\varFSECodePlatSeventeen]
+            (2018, \varFSECodePlatEighteen) [\varFSECodePlatEighteen]
+            (2019, \varFSECodePlatNineteen) [\varFSECodePlatNineteen]
+            (2020, \varFSECodePlatTwenty) [\varFSECodePlatTwenty]
+            (2021, \varFSECodePlatTwentyOne) [\varFSECodePlatTwentyOne]
+            (2022, \varFSECodePlatTwentyTwo) [\varFSECodePlatTwentyTwo]
+            (2023, \varFSECodePlatTwentyThree) [\varFSECodePlatTwentyThree]
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+
+\tiny   
+    ~ 
+\scriptsize
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{Institutional} pages -- ICSE}
+    \label{fig:artifact-rep-InstitutionalPages-ICSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=105,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \ICSEXIVInstitutionalPages)[\ICSEXIVInstitutionalPages]
+            (2015, \ICSEXVInstitutionalPages)[\ICSEXVInstitutionalPages]
+            (2016, \ICSEXVIInstitutionalPages)[\ICSEXVIInstitutionalPages]
+            (2017, \ICSEXVIIInstitutionalPages)[\ICSEXVIIInstitutionalPages]
+            (2018, \ICSEXVIIIInstitutionalPages)[\ICSEXVIIIInstitutionalPages]
+            (2019, \ICSEXIXInstitutionalPages)[\ICSEXIXInstitutionalPages]
+            (2020, \ICSEXXInstitutionalPages)[\ICSEXXInstitutionalPages]
+            (2021, \ICSEXXIInstitutionalPages)[\ICSEXXIInstitutionalPages]
+            (2022, \ICSEXXIIInstitutionalPages)[\ICSEXXIIInstitutionalPages]
+            (2023, \ICSEXXIIIInstitutionalPages)[\ICSEXXIIIInstitutionalPages]
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+    \quad 
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{Institutional} pages -- FSE}
+    \label{fig:artifact-rep-InstitutionalPages-FSE}
+    \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=105,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \FSEXIVInstitutionalPages)[\FSEXIVInstitutionalPages]
+            (2015, \FSEXVInstitutionalPages)[\FSEXVInstitutionalPages]
+            (2016, \FSEXVIInstitutionalPages)[\FSEXVIInstitutionalPages]
+            (2017, \FSEXVIIInstitutionalPages)[\FSEXVIIInstitutionalPages]
+            (2018, \FSEXVIIIInstitutionalPages)[\FSEXVIIIInstitutionalPages]
+            (2019, \FSEXIXInstitutionalPages)[\FSEXIXInstitutionalPages]
+            (2020, \FSEXXInstitutionalPages)[\FSEXXInstitutionalPages]
+            (2021, \FSEXXIInstitutionalPages)[\FSEXXIInstitutionalPages]
+            (2022, \FSEXXIIInstitutionalPages)[\FSEXXIIInstitutionalPages]
+            (2023, \FSEXXIIIInstitutionalPages)[\FSEXXIIIInstitutionalPages]
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+
+ \tiny 
+    ~ 
+    \scriptsize
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{other} platforms (including \textbf{general-purpose} platforms for file sharing) -- ICSE}
+    \label{fig:artifact-rep-GeneralFileSharing-ICSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=105,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varICSEOtherAndGeneraPurposeFourteen) [\varICSEOtherAndGeneraPurposeFourteen]
+            (2015, \varICSEOtherAndGeneraPurposeFifteen) [\varICSEOtherAndGeneraPurposeFifteen]
+            (2016, \varICSEOtherAndGeneraPurposeSixteen) [\varICSEOtherAndGeneraPurposeSixteen]
+            (2017, \varICSEOtherAndGeneraPurposeSeventeen) [\varICSEOtherAndGeneraPurposeSeventeen]
+            (2018, \varICSEOtherAndGeneraPurposeEighteen) [\varICSEOtherAndGeneraPurposeEighteen]
+            (2019, \varICSEOtherAndGeneraPurposeNineteen) [\varICSEOtherAndGeneraPurposeNineteen]
+            (2020, \varICSEOtherAndGeneraPurposeTwenty) [\varICSEOtherAndGeneraPurposeTwenty]
+            (2021, \varICSEOtherAndGeneraPurposeTwentyOne) [\varICSEOtherAndGeneraPurposeTwentyOne]
+            (2022, \varICSEOtherAndGeneraPurposeTwentyTwo) [\varICSEOtherAndGeneraPurposeTwentyTwo]
+            (2023, \varICSEOtherAndGeneraPurposeTwentyThree) [\varICSEOtherAndGeneraPurposeTwentyThree]
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+    \quad 
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{Artifacts in \textbf{other} platforms (including \textbf{general-purpose} platforms for file sharing) -- FSE}
+    \label{fig:artifact-rep-GeneralFileSharing-FSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=5.5cm,
+            height=4.2cm,
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.15,.5), font=\scriptsize},anchor=south},
+            xtick=data,
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=105,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xticklabels={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varFSEOtherAndGeneraPurposeFourteen) [\varFSEOtherAndGeneraPurposeFourteen]
+            (2015, \varFSEOtherAndGeneraPurposeFifteen) [\varFSEOtherAndGeneraPurposeFifteen]
+            (2016, \varFSEOtherAndGeneraPurposeSixteen) [\varFSEOtherAndGeneraPurposeSixteen]
+            (2017, \varFSEOtherAndGeneraPurposeSeventeen) [\varFSEOtherAndGeneraPurposeSeventeen]
+            (2018, \varFSEOtherAndGeneraPurposeEighteen) [\varFSEOtherAndGeneraPurposeEighteen]
+            (2019, \varFSEOtherAndGeneraPurposeNineteen) [\varFSEOtherAndGeneraPurposeNineteen]
+            (2020, \varFSEOtherAndGeneraPurposeTwenty) [\varFSEOtherAndGeneraPurposeTwenty]
+            (2021, \varFSEOtherAndGeneraPurposeTwentyOne) [\varFSEOtherAndGeneraPurposeTwentyOne]
+            (2022, \varFSEOtherAndGeneraPurposeTwentyTwo) [\varFSEOtherAndGeneraPurposeTwentyTwo]
+            (2023, \varFSEOtherAndGeneraPurposeTwentyThree) [\varFSEOtherAndGeneraPurposeTwentyThree]
+        };
+    \end{axis}
+    \end{tikzpicture}
+    \end{subfigure}
+    \caption{Location of the artifacts over the years. One paper might be counted in more than one location category due to multiple links in the paper.}
+    \label{fig:artifact-rep-evolution}
+\end{figure}
+
+\end{document}
