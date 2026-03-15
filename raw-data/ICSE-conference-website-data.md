@@ -1,8 +1,6 @@
 # ICSE timeline
 
-<img src="https://github.com/anapvasconcelos/ResearchArtifacts/blob/main/data/scripts/TL-ICSE.png" alt="ICSE timeline of events" style="width:60%;"/>
-
-[PDF version of the timeline](./scripts/TL-ICSE.pdf)
+See the generated timeline: [ICSE timeline](../replication-package/outputs/expected-outputs/F03-ICSE-timeline.pdf)
 
 ## Data per timeline event collected from ICSE websites
 

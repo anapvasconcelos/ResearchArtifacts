@@ -1,6 +1,6 @@
 # FSE timeline
 
-[PDF version of the timeline](./analysis/output/expected-output/F02-FSE-timeline.pdf)
+See the generated timeline: [FSE timeline](../replication-package/outputs/expected-outputs/F02-FSE-timeline.pdf)
 
 ## Data per timeline event collected from FSE websites
 
