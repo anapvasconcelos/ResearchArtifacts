@@ -1,4 +1,4 @@
-[README](../README.md) > curated-raw-data/ > ICSE timeline
+[README](../README.md) > data-collection/ > ICSE timeline
 
 ---
 
@@ -60,7 +60,7 @@
 
 ---
 
-See the generated timeline: [ICSE timeline](../replication-package/outputs/expected-outputs/F03-ICSE-timeline.pdf)
+See the generated timeline: [ICSE timeline](../outputs/expected-outputs/F03-ICSE-timeline.pdf)
 
 |                                                                        Event                                                                       | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|

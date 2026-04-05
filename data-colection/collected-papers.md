@@ -1,19 +1,14 @@
-[README](../README.md) > curated-raw-data/ > Collected papers
+[README](../README.md) > data-collection/ > Collected papers
 
 ---
 
 # Collected papers
 
-The papers collected for the study were published in ICSE and FSE main tracks (Technical track and Research track) from 2014 to 2023.
+The papers collected for the study were published in the main tracks of ICSE and FSE (Technical and Research tracks) from 2014 to 2023.
 
-## List of papers
-- [List of ICSE papers](#icse-papers): 1,236 papers
-- [List of FSE papers](#fse-papers): 840 papers
+## Papers overview
 
-
-## Overview of collected papers
-
-| **Year**  | **ICSE papers**  | **FSE papers** | **Total of papers** |
+| **Year**  | **ICSE papers**  | **FSE papers** | **Total papers** |
 | --------- | ---------------: | -------------: | ------------------: |
 | 2014      | 98               | 61             | 159                 |
 | 2015      | 84               | 74             | 158                 |
@@ -29,7 +24,14 @@ The papers collected for the study were published in ICSE and FSE main tracks (T
 
 <br>
 
-## Detailed list of collected papers
+- [List of ICSE papers](#icse-papers): 1,236 papers
+- [List of FSE papers](#fse-papers): 840 papers
+
+
+## Papers list
+
+The complete list of collected papers, along with the extracted data, is available in the dataset (`../processed-data/dataset.xlsx`).
+
 
 ### ICSE papers
 

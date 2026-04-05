@@ -1,4 +1,4 @@
-[README](../README.md) > curated-raw-data/ > FSE timeline
+[README](../README.md) > data-collection/ > FSE timeline
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-See the generated timeline: [FSE timeline](../replication-package/outputs/expected-outputs/F02-FSE-timeline.pdf)
+See the generated timeline: [FSE timeline](../outputs/expected-outputs/F02-FSE-timeline.pdf)
 
 |                                                                 Event                                                                | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
 |:------------------------------------------------------------------------------------------------------------------------------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
