@@ -106,7 +106,7 @@ See the generated timeline: [ICSE timeline](../replication-package/outputs/expec
 > Authors are strongly encouraged to explicitly discuss the verifiability of their contributions, including any links to relevant research artifacts, in a sub-section or paragraph titled "Verifiability".
 
 [Direct link](https://icse2017.gatech.edu/?q=technical-research-cfp) -
-[PDF](ICSE_websites/ICSE2017-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2017-TT.pdf) <br>
 Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Research > Technical Track Submissions > Evaluation > Verifiability
 <br><br>
 
@@ -129,7 +129,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 > - Verifiability: The evaluation of submissions will take into account to what extent sufficient information is available to support the full or partial independent verification or replication of the claimed contributions. The committee will consider independent verifiability an important factor that can significantly strengthen the value of a submission. Authors are strongly encouraged to explicitly discuss the verifiability of their contributions, including any links to relevant research artifacts, in a sub-section or paragraph titled "Verifiability".
 
 [Direct link](https://icse2017.gatech.edu/?q=technical-research-cfp) - 
-[PDF](ICSE_websites/ICSE2017-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2017-TT.pdf) <br>
 Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Research > Technical Track Submissions > Evaluation
 <br><br>
 
@@ -144,7 +144,7 @@ Breadcrumb: ICSE 2017 > Call and dates > Call for submissions > Technical Resear
 
 
 [Direct link](https://web.archive.org/web/20170819025502/http://www.icse2018.org:80/track/icse-2018-Technical-Papers) - 
-[PDF](ICSE_websites/ICSE2018-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2018-TT.pdf) <br>
 Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions > Evaluation
 <br><br>
 
@@ -157,7 +157,7 @@ Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions 
 > -	Verifiability: Whether the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions,
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Technical-Papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2019-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-TT.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -170,7 +170,7 @@ Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers
 > -	Verifiability: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2020-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-TT.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Call for Papers > Review Criteria
 <br><br>
 
@@ -181,7 +181,7 @@ Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Call for Papers > Review Cri
 > -	Verifiability: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-TT-CFP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Review Criteria
 <br><br>
 
@@ -192,7 +192,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Review Crit
 > - Verifiability and Transparency: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-TT.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Review Criteria
 <br><br>
 
@@ -205,7 +205,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Review Crit
 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Review Criteria
 <br><br>
 
@@ -233,7 +233,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Rev
 
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Software-Engineering-Education-and-Training#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2020-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-SEET.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > SEET > Call for Papers > Submission
 <br><br>
 
@@ -248,7 +248,7 @@ Breadcrumb: ICSE 2020 > Tracks > SEET > Call for Papers > Submission
 
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2021-JSEET-CFP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-JSEET-CFP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Call for Papers > Submission Categories
 <br><br>
 
@@ -269,7 +269,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > - Verifiability: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-SEET.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -287,7 +287,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > - Verifiability: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -311,7 +311,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > - Verifiability: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](ICSE_websites/ICSE2023-NIER.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-NIER.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -332,7 +332,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > - Availability: whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users;
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2021-JSEET-CFP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-JSEET-CFP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET > Call for Papers > Submission Categories > Tool Papers > Availability
 <br><br>
 
@@ -351,7 +351,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET > Call for Papers > Submission Categories
 > - Availability: Whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-SEET.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -370,7 +370,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > - Availability: Whether the tool or technology is available online, open-sourced, or on a trial basis and the extent to which it can be evaluated by potential users.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Evaluation Criteria
 <br><br>
 
@@ -391,7 +391,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > ICSE’18 puts a strong emphasis on creation of quality artifacts and repeatability and verifiability of experiences reported in the papers. An artifact evaluation committee is put in place to review artifacts accompanying all accepted papers, without the need to conceal identity of the authors.
 
 [Direct link](https://web.archive.org/web/20170821063924/http://www.icse2018.org:80/track/icse-2018-Software-Engineering-in-Society) - 
-[PDF](ICSE_websites/ICSE2018-SEIS.pdf) [^2] <br>
+[PDF](ICSE-websites/ICSE2018-SEIS.pdf) [^2] <br>
 Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double Blind Review > ICSE’18 Double Blind Review Process > What about additional information to support repeatability or verifiability of the reported results?
 <br><br>
 
@@ -412,7 +412,7 @@ Breadcrumb: ICSE 2018 > Tracks > SEIS - Software Engineering in Society > Double
 > In addition, the authors will be invited to bring a poster summarizing their contributions to stimulate discussion after their presentations, and will be invited to submit artifacts related to the paper; the latter will be evaluated by the Artifact Evaluation Committee.
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Technical-Papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2019-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-TT.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers > How to Submit
 <br><br>
 
@@ -420,7 +420,7 @@ Breadcrumb: ICSE 2019 > Tracks > Technical Track > Call for Papers > How to Subm
 > Authors of papers accepted to the Technical Track are invited to submit an artifact to the ICSE Artifact Track.
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2019-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-AE.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br> <br>
 
@@ -429,7 +429,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the 2020 Technical/SEIP/NIER/SEET/SEIS Track are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate reusable, available, replicated or reproduced artifacts.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -438,7 +438,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > Authors of papers accepted to the 2021 Technical/SEIP/NIER/SEET/SEIS Track are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate reusable, available, replicated or reproduced artifacts.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -447,7 +447,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS Tracks are can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2022-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-AE.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -456,7 +456,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS tracks can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](ICSE_websites/ICSE2023-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-AE.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -480,7 +480,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > If the artifact is accepted it will receive one of the following badges on the front page of their paper and in the proceedings: Functional, Reusable, Available, Replicated, Reproduced
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2019-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-AE.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br><br>
 
@@ -491,7 +491,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Functional, Reusable, Available, Replicated, Reproduced
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -501,7 +501,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -511,7 +511,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > The artifact evaluation track aims to review, promote, share, and catalog the research artifacts of accepted software engineering papers. Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS Tracks are can submit an artifact for the Artifacts Evaluated and Artifacts Available badges. Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges. Definitions for the badges are given in the table below, taken from ACM Artifact Review and Badging Version 1.1.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2022-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-AE.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -521,7 +521,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS tracks can submit an artifact for the Artifacts Evaluated and Artifacts Available badges. Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges. Definitions for the badges are given in the table below, taken from ACM Artifact Review and Badging Version 1.1 .
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](ICSE_websites/ICSE2023-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-AE.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -540,7 +540,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > If the artifact is accepted it will receive one of the following badges on the front page of their paper and in the proceedings: Functional, Reusable, Available, Replicated, Reproduced
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2019-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-AE.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission
 <br><br>
 
@@ -550,7 +550,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -560,7 +560,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > If those artifact(s) are accepted, they will each receive one (and only one) of the badges below on the front page of the authors’ paper and in the proceedings.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -597,7 +597,7 @@ There is not information about this event at ICSE 2023 website, but nevertheless
 > There will be two ICSE 2019 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2019-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-AE.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submission > Best Artifact Awards
 <br><br>
 
@@ -607,7 +607,7 @@ Breadcrumb: ICSE 2019 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > There will be two ICSE 2020 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions > Best Artifact Awards
 <br><br>
 
@@ -618,7 +618,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > There will be two ICSE 2021 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions > Best Artifact Awards
 <br><br>
 
@@ -630,7 +630,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > There will be two ICSE 2022 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2022-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-AE.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions > Best Artifact Awards
 <br><br>
 
@@ -641,7 +641,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > There will be two ICSE 2023 Best Artifact Awards to recognize the effort of authors creating and sharing outstanding research artifacts.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](ICSE_websites/ICSE2023-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-AE.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions > Best Artifact Awards
 <br><br>
 
@@ -659,7 +659,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > Authors of papers accepted to the 2020 Technical/SEIP/NIER/SEET/SEIS Track are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate reusable, available, replicated or reproduced artifacts.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -668,7 +668,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > Authors of papers accepted to the 2021 Technical/SEIP/NIER/SEET/SEIS Track are invited to submit artifacts associated with those papers to the ICSE Artifact Track for evaluation as candidate reusable, available, replicated or reproduced artifacts.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -677,7 +677,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS Tracks are can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2022-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-AE.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -686,7 +686,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of papers accepted to the Technical/SEIP/NIER/SEET/SEIS tracks can submit an artifact for the Artifacts Evaluated and Artifacts Available badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](ICSE_websites/ICSE2023-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-AE.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -704,7 +704,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > For the first time, authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit an artifact for evaluation as a candidate replicated or reproduced artifact.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#About) - 
-[PDF](ICSE_websites/ICSE2020-AE-About.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-About.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > About
 <br><br>
 
@@ -713,7 +713,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > About
 > Authors of any prior SE work (published at ICSE or elsewhere) are invited to submit an artifact to the ICSE Artifact Track for evaluation as a candidate replicated or reproduced artifact.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -722,7 +722,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > Authors of any prior Software Engineering work (published at ICSE or elsewhere) are also eligible (and invited) to submit an artifact for evaluation as a candidate reusable, available, replicated or reproduced artifact.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -731,7 +731,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > As previous year, authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit an artifact for evaluation as a candidate replicated or reproduced artifact.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#About) - 
-[PDF](ICSE_websites/ICSE2021-AE-About.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE-About.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > About
 <br><br>
 
@@ -741,7 +741,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > About
 > In addition and as in previous year, authors of any prior SE work (published at ICSE or elsewhere) were also invited to submit an artifact for evaluation as a candidate replicated or reproduced artifact.
 
 [Direct link](https://dl.acm.org/action/showFmPdf?doi=10.5555%2F3502907) - 
-[PDF](ICSE_websites/ICSE2021-FM.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-FM.pdf) <br>
 Breadcrumb: ACM Digital Library > ICSE 2021 > Proceeding Downloads > Front matter
 <br><br>
 
@@ -750,7 +750,7 @@ Breadcrumb: ACM Digital Library > ICSE 2021 > Proceeding Downloads > Front matte
 > Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2022-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-AE.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -760,7 +760,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > Authors of any prior SE work (published at ICSE or elsewhere) are also invited to submit their work for the Results Validated badges.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](ICSE_websites/ICSE2023-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-AE.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions
 <br><br>
 
@@ -781,7 +781,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > - Authors will be invited to give lightning talks on this work at ICSE’20
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions
 <br><br>
 
@@ -792,7 +792,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-Artifact-Evaluation#Call-for-Submissions) - 
-[PDF](ICSE_websites/ICSE2020-AE-CFS.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-AE-CFS.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > ICSE’20 Artifact Track: Call for Submissions > Submission and Review > For Replicated and Reproduced Badges
 <br><br>
 
@@ -804,7 +804,7 @@ Breadcrumb: ICSE 2020 > Tracks > Artifact Evaluation > Call For Submissions > IC
 > - Authors will be invited to give lightning talks on this work at ICSE’21
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -815,7 +815,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Submissions > Submission for Replicated and Reproduced Badges
 <br><br>
 
@@ -827,7 +827,7 @@ Breadcrumb: ICSE 2021 > Tracks > AE - Artifact Evaluation > Call For Artifact Su
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-artifact-evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2022-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-AE.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submissions > Submission for Replicated and Reproduced Badges
 <br><br>
 
@@ -839,7 +839,7 @@ Breadcrumb: ICSE 2022 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > - The top ranked abstracts will be invited to give lightning talks.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-artifact-evaluation#About) - 
-[PDF](ICSE_websites/ICSE2023-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-AE.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact Submissions > Submission for Results Validated Badges
 <br><br>
 
@@ -858,7 +858,7 @@ Breadcrumb: ICSE 2023 > Tracks > Artifact Evaluation > About > Call For Artifact
 > All accepted abstracts documenting the artifacts will be further published in the ICSE 2021 proceedings as a further form of recognition.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Artifact-Evaluation#Call-For-Artifact-Submissions) - 
-[PDF](ICSE_websites/ICSE2021-AE.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-AE.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submissions
 <br><br>
 
@@ -866,7 +866,7 @@ Breadcrumb: ICSE 2021 > Tracks > Artifact Evaluation > Call For Artifact Submiss
 > In addition, as a further form of recognition — and for the first time at ICSE — all accepted extended abstracts documenting the artifacts were published in the ICSE Companion Volume. 
 
 [Direct link](https://dl.acm.org/action/showFmPdf?doi=10.5555%2F3502907) - 
-[PDF](ICSE_websites/ICSE2021-FM.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-FM.pdf) <br>
 Breadcrumb: ACM Digital Library > ICSE 2021 > Proceeding Downloads > Front matter
 <br><br>
 
@@ -894,7 +894,7 @@ Breadcrumb: ACM Digital Library > ICSE 2021 > Proceeding Downloads > Front matte
 > 3. Not relying on supplementary material (your web site, github repository, youTube channel) in the paper or on the rebuttal submitted during the clarification period. Supplementary information might result in revealing author identities.
 
 [Direct link](https://web.archive.org/web/20190307004605/https://www.icse2018.org/track/icse-2018-Double-blind-review) - 
-[PDF](ICSE_websites/ICSE2018-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2018-QA.pdf) <br>
 Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A
 <br><br>
 
@@ -910,7 +910,7 @@ Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A
 
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-Submitting-to-ICSE2019-Q-A) - 
-[PDF](ICSE_websites/ICSE2019-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-QA.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > Submitting to ICSE2019: Q&A
 <br><br>
 
@@ -928,7 +928,7 @@ Breadcrumb: ICSE 2019 > Tracks > Submitting to ICSE2019: Q&A
 > 3. Do not rely on supplementary material (your web site, your github repository, a youTube channel, a companion technical report or thesis) in the paper or in the rebuttal submitted during the clarification period. We allow supplementary material to be uploaded in the submission system, but it is your responsibility to make sure it does not include identifying information. If you choose to upload supplementary material (either through the submission site or as a link), and your material includes identifying information, then your submission could be desk rejected. Furthermore, please keep in mind that reviewers are not obligated to read supplementary material.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-papers?#Submitting-to-ICSE-Q-A) - 
-[PDF](ICSE_websites/ICSE2020-TT-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-TT-QA.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Submitting to ICSE: Q&A
 <br><br>
 
@@ -942,7 +942,7 @@ Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Submitting to ICSE: Q&A
 > 3. Do not rely on supplementary material (your web site, your github repository, a youTube channel, a companion technical report or thesis) in the paper or in the rebuttal submitted during the clarification period. Supplementary information might result in revealing author identities.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-submitting-to-icse2021--q-a) - 
-[PDF](ICSE_websites/ICSE2021-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-QA.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Submitting to ICSE2021: Q&A
 <br><br>
 
@@ -956,7 +956,7 @@ Breadcrumb: ICSE 2021 > Tracks > Submitting to ICSE2021: Q&A
 > 3. Do not rely on non-anonymous supplementary material (your web site, your github repository, a youTube channel, a companion technical report or thesis) in the paper or in the rebuttal submitted during the clarification period. Supplementary information might result in revealing author identities.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-submitting-to-icse2022--q-a) - 
-[PDF](ICSE_websites/ICSE2022-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-QA.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Submitting to ICSE2022: Q&A
 <br><br>
 
@@ -971,7 +971,7 @@ Breadcrumb: ICSE 2022 > Tracks > Submitting to ICSE2022: Q&A
 > 3. Do not rely on supplementary material (your web site, your github repository, a youTube channel, a companion technical report or thesis) in the paper or in the rebuttal submitted during the clarification period. Supplementary information might result in revealing author identities.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-submitting-to-icse2023--q-a) - 
-[PDF](ICSE_websites/ICSE2023-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-QA.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Submitting to ICSE2023: Q&A
 <br><br>
 
@@ -995,7 +995,7 @@ Breadcrumb: ICSE 2023 > Tracks > Submitting to ICSE2023: Q&A
 >A: You are welcome to submit a zip file with your code / data / case studies as part of your technical paper review. This happens at the paper submission time. All of the information should be blinded, and the committee MAY (but does not have to) look at this information if it finds it relevant for evaluating your technical paper.
 
 [Direct link](https://web.archive.org/web/20190307004605/https://www.icse2018.org/track/icse-2018-Double-blind-review) - 
-[PDF](ICSE_websites/ICSE2018-DBR.pdf) [^2] <br>
+[PDF](ICSE-websites/ICSE2018-DBR.pdf) [^2] <br>
 Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A > ICSE2018 Double Blind Review Process > Q: What about supplementary information?
 <br><br>
 
@@ -1005,7 +1005,7 @@ Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A > ICSE2018 Double B
 > Please take a particular care to blind your submission. You can submit, optionally, a zip file containing additional data (tool, experiments, etc.), which should also be blinded.
 
 [Direct link](https://web.archive.org/web/20170819025502/http://www.icse2018.org:80/track/icse-2018-Technical-Papers) - 
-[PDF](ICSE_websites/ICSE2018-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2018-TT.pdf) <br>
 Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions > Submission
 <br><br>
 
@@ -1022,7 +1022,7 @@ Breadcrumb: ICSE 2018 > Tracks > Technical Papers > Technical track submissions 
 >3.Do not rely on supplementary material (your web site, your github repository, a youTube channel, a companion technical report or thesis) in the paper or in the rebuttal submitted during the clarification period. We allow supplementary material to be uploaded in the submission system, but it is your responsibility to make sure it does not include identifying information. If you choose to upload supplementary material (either through the submission site or as a link), and your material includes identifying information, then your submission could be desk rejected. Furthermore, please keep in mind that reviewers are not obligated to read supplementary material.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-papers?#Submitting-to-ICSE-Q-A) - 
-[PDF](ICSE_websites/ICSE2020-TT-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-TT-QA.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Submitting to ICSE: Q&A
 <br><br>
 
@@ -1034,7 +1034,7 @@ Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Submitting to ICSE: Q&A
 > Authors are requested to adhere to the ICSE 2021 Open Science policies to the best of their abilities. To that end supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-TT-CFP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -1047,7 +1047,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementa
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. 
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-TT.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1059,7 +1059,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > Supplementary material can be uploaded via the HotCrp site or anonymously linked from the paper submission. Also, the authors must briefly describe, in the submission form, the content of the supplementary material with a short paragraph/bullet list. We strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1070,7 +1070,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > We therefore ask all authors to provide a supporting statement on the data availability (or lack thereof) in their submitted papers in a section named Data Availability after the Conclusion section. Authors can also provide anonymized links to anonymized data and repositories in that section or can upload anonymized data using the supplementary material upload option during submission process via the HotCRP submission site ( https://icse2023-seet.hotcrp.com ). Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1080,7 +1080,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](ICSE_websites/ICSE2023-NIER.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-NIER.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1104,7 +1104,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > Authors are requested to adhere to the ICSE 2021 Open Science policies to the best of their abilities. To that end supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible. Please carefully review any supplementary material to ensure it conforms to the double-blind policy (described above). For example, code and data repositories may be exported to remove version control history, scrubbed of names in comments and metadata, and anonymously uploaded to a sharing site to support review. One resource that may be helpful in accomplishing this task is this blog post (https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-TT-CFP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -1122,7 +1122,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementa
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. Authors are asked to carefully review any supplementary material to ensure it conforms to the double-anonymous policy (described above). For example, code and data repositories may be exported to remove version control history, scrubbed of names in comments and metadata, and anonymously uploaded to a sharing site to support review. One resource that may be helpful in accomplishing this task is this blog post.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-TT.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1144,7 +1144,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > Supplementary material can be uploaded via the HotCrp site or anonymously linked from the paper submission. Also, the authors must briefly describe, in the submission form, the content of the supplementary material with a short paragraph/bullet list. We strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. Authors are asked to carefully review any supplementary material to ensure it conforms to the double-anonymous policy (described above). For example, code and data repositories may be exported to remove version control history, scrubbed of names in comments and metadata, and anonymously uploaded to a sharing site to support review. One resource that may be helpful in accomplishing this task is this blog post.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1155,7 +1155,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > We therefore ask all authors to provide a supporting statement on the data availability (or lack thereof) in their submitted papers in a section named Data Availability after the Conclusion section. Authors can also provide anonymized links to anonymized data and repositories in that section or can upload anonymized data using the supplementary material upload option during submission process via the HotCRP submission site ( https://icse2023-seet.hotcrp.com ). Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1172,7 +1172,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. Authors are asked to carefully review any supplementary material to ensure it conforms to the double-anonymous policy (described above). For example, code and data repositories may be exported to remove version control history, scrubbed of names in comments and metadata, and anonymously uploaded to a sharing site to support review. One resource that may be helpful in accomplishing this task is this blog post.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](ICSE_websites/ICSE2023-NIER.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-NIER.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1204,7 +1204,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > A: You are welcome to submit a zip file with your code / data / case studies as part of your technical paper review. This happens at the paper submission time. All of the information should be blinded, and the committee MAY (but does not have to) look at this information if it finds it relevant for evaluating your technical paper.
 
 [Direct link](https://web.archive.org/web/20190307004605/https://www.icse2018.org/track/icse-2018-Double-blind-review) - 
-[PDF](ICSE_websites/ICSE2018-DBR.pdf) [^2] <br>
+[PDF](ICSE-websites/ICSE2018-DBR.pdf) [^2] <br>
 Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A > ICSE2018 Double Blind Review Process > Q: What about supplementary information?
 <br><br>
 
@@ -1221,7 +1221,7 @@ Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A > ICSE2018 Double B
 > We encourage authors to make artifacts available upon submission (either privately or publicly) and upon acceptance (publicly).
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies
 <br><br>
 
@@ -1232,7 +1232,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > Authors are requested to adhere to the ICSE 2021 Open Science policies to the best of their abilities. To that end supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-TT-CFP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -1247,7 +1247,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementa
 > We encourage authors to make artifacts available upon submission (either privately or publicly) and upon acceptance (publicly).
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -1259,7 +1259,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > 2. Follow our open science policy – share data and justify if you do not.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-TT.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -1275,7 +1275,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. Authors are asked to carefully review any supplementary material to ensure it conforms to the double-anonymous policy (described above). For example, code and data repositories may be exported to remove version control history, scrubbed of names in comments and metadata, and anonymously uploaded to a sharing site to support review. One resource that may be helpful in accomplishing this task is this blog post.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-TT.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1293,7 +1293,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > - Verifiability: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-seet?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-SEET.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Training > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -1306,7 +1306,7 @@ Breadcrumb: ICSE 2022 > Tracks > SEET - Software Engineering Education and Train
 > We encourage authors to make artifacts available upon submission (either privately or publicly) and upon acceptance (publicly).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -1327,7 +1327,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > Supplementary material can be uploaded via the HotCrp site or anonymously linked from the paper submission. Also, the authors must briefly describe, in the submission form, the content of the supplementary material with a short paragraph/bullet list. We strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1335,7 +1335,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > We encourage authors to make artifacts available upon submission (either privately or publicly) and upon acceptance (publicly).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT-OSP.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -1353,7 +1353,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - Verifiability: The extent to which the paper includes sufficient information to support independent verification or replication of the paper’s claimed contributions. This includes public availability of research data or an explicit statement why such data cannot be made publicly available.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Evaluation Criteria
 <br><br>
 
@@ -1364,7 +1364,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > We therefore ask all authors to provide a supporting statement on the data availability (or lack thereof) in their submitted papers in a section named Data Availability after the Conclusion section. Authors can also provide anonymized links to anonymized data and repositories in that section or can upload anonymized data using the supplementary material upload option during submission process via the HotCRP submission site ( https://icse2023-seet.hotcrp.com ). Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1383,7 +1383,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > Supplementary material can be uploaded via the HotCRP site or anonymously linked from the paper submission. Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. 
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](ICSE_websites/ICSE2023-NIER.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-NIER.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1411,7 +1411,7 @@ Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About >
 > Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -1423,7 +1423,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > 1. Provide a supporting statement on the data/software/analysis scripts/…/artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Information-for-Authors) - 
-[PDF](ICSE_websites/ICSE2021-TT-InformationForAuthors.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-TT-InformationForAuthors.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABOUT OPEN POLICIES
 <br><br>
 
@@ -1435,7 +1435,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Information for Authors > ABO
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Practice?#Information-for-Authors) - 
-[PDF](ICSE_websites/ICSE2021-SEIP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-SEIP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1447,7 +1447,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIP - Software Engineering in Practice > Infor
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-in-Society?#Information-for-Authors) - 
-[PDF](ICSE_websites/ICSE2021-SEIS.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-SEIS.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1459,7 +1459,7 @@ Breadcrumb: ICSE 2021 > Tracks > SEIS - Software Engineering in Society > Inform
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-Software-Engineering-and-Education-Track#Information-for-Authors) - 
-[PDF](ICSE_websites/ICSE2021-JSEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-JSEET.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Education and Training > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1471,7 +1471,7 @@ Breadcrumb: ICSE 2021 > Tracks > JSEET - Joint Track on Software Engineering Edu
 > - Provide a supporting statement on the data/software/analysis scripts/.../artifact availability (or lack thereof, which should be accompanied by reasons for non-disclosure) in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-New-Ideas-and-Emerging-Results?#Information-for-Authors) - 
-[PDF](ICSE_websites/ICSE2021-NIER.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-NIER.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Information for Authors > Open Science > About Open Policies
 <br><br>
 
@@ -1487,7 +1487,7 @@ Breadcrumb: ICSE 2021 > Tracks > NIER - New Ideas and Emerging Results > Informa
 >Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies#About) - 
-[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy > ICSE 2022 Open Science policies > About > ICSE 2022 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -1497,7 +1497,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > The research track of ICSE 2022 is governed by the ICSE 2022 Open Science policies. 
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-TT.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1518,7 +1518,7 @@ These tracks do not provide information related to this event. However, we know 
 > Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -1532,7 +1532,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open artifact
 > - to indicate if they intend to make their data publicly available upon acceptance.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1542,7 +1542,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > Authors who cannot disclose data for the reasons stated in the principles of the policies should provide a short statement in their submitted papers in a section named Data Availability after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT-OSP.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts > Supporting statement
 <br><br>
 
@@ -1553,7 +1553,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > We therefore ask all authors to provide a supporting statement on the data availability (or lack thereof) in their submitted papers in a section named Data Availability after the Conclusion section. Authors can also provide anonymized links to anonymized data and repositories in that section or can upload anonymized data using the supplementary material upload option during submission process via the HotCRP submission site ( https://icse2023-seet.hotcrp.com ). Authors who cannot disclose data should provide a short statement explaining the reasons why they cannot share the data in the Data Availability section of their paper, after the Conclusion section.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1563,7 +1563,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > The NIER track of ICSE 2023 is governed by the ICSE 2023 Open Science policies. In summary, the steering principle is that all research results should be accessible to the public and, if possible, empirical studies should be reproducible. In particular, we actively support the adoption of open data and open source principles and encourage all contributing authors to disclose (anonymized and curated) data to increase reproducibility and replicability. Note that sharing research data is not mandatory for submission or acceptance. However, sharing is expected to be the default, and non-sharing needs to be justified. We recognize that reproducibility or replicability is not a goal in qualitative research and that, similar to industrial studies, qualitative studies often face challenges in sharing research data. For guidelines on how to report qualitative research to ensure the assessment of the reliability and credibility of research results, see the Q&A page.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-NIER?#About) - 
-[PDF](ICSE_websites/ICSE2023-NIER.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-NIER.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > NIER - New Ideas and Emerging Results > About > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1595,7 +1595,7 @@ These tracks do not provide information related to this event. However, we know 
 > A: You are welcome to submit a zip file with your code / data / case studies as part of your technical paper review. This happens at the paper submission time. All of the information should be blinded, and the committee MAY (but does not have to) look at this information if it finds it relevant for evaluating your technical paper.
 
 [Direct link](https://web.archive.org/web/20190307004605/https://www.icse2018.org/track/icse-2018-Double-blind-review) - 
-[PDF](ICSE_websites/ICSE2018-DBR.pdf) [^2] <br>
+[PDF](ICSE-websites/ICSE2018-DBR.pdf) [^2] <br>
 Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A > ICSE2018 Double Blind Review Process > Q: What about supplementary information?
 <br><br>
 
@@ -1617,7 +1617,7 @@ Breadcrumb: ICSE 2018 > Tracks > Submitting to ICSE2018: Q&A > ICSE2018 Double B
 > 3. Do not rely on supplementary material (your web site, your github repository, a youTube channel, a companion technical report or thesis) in the paper or in the rebuttal submitted during the clarification period. We allow supplementary material to be uploaded in the submission system, but it is your responsibility to make sure it does not include identifying information. If you choose to upload supplementary material (either through the submission site or as a link), and your material includes identifying information, then your submission could be desk rejected. Furthermore, please keep in mind that reviewers are not obligated to read supplementary material.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-papers?#Submitting-to-ICSE-Q-A) - 
-[PDF](ICSE_websites/ICSE2020-TT-QA.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-TT-QA.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Submitting to ICSE: Q&A
 <br><br>
 
@@ -1632,7 +1632,7 @@ Breadcrumb: ICSE 2020 > Tracks > Technical Papers > Submitting to ICSE: Q&A
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -1642,7 +1642,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > Although PC members are not obligated to look at this material, we strongly encourage submitters to use supplementary material to provide access to anonymized code or data, whenever possible.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2021-TT-CFP.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-TT-CFP.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementary Material
 <br><br>
 
@@ -1658,7 +1658,7 @@ Breadcrumb: ICSE 2021 > Tracks > Technical Track > Call for Papers > Supplementa
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -1668,7 +1668,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > Although PC members are not required to look at this material, we strongly encourage authors to use supplementary material to provide access to anonymized data, whenever possible. 
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-papers?#Call-for-Papers) - 
-[PDF](ICSE_websites/ICSE2022-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-TT.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1683,7 +1683,7 @@ Breadcrumb: ICSE 2022 > Tracks > Technical Track > Call for Papers > Open Scienc
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Open Science Policies > About > ICSE 2023 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -1695,7 +1695,7 @@ Breadcrumb: ICSE 2023 > Tracks > Open Science Policies > About > ICSE 2023 Open 
 > 1. All open science steps are optional for authors and reviewers. You are invited, but not required, to inspect the provided artifacts as part of your review efforts.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT-OSP.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -1703,7 +1703,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > NEW! This year, at least one reviewer will check whether the enclosed package contains what is declared in the paper. This quality check process will be very lightweight, and the main aim is to ensure that authors do not submit (partially) empty packages.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1725,7 +1725,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > For the first time, this year, we asked one of the reviewers of each paper to scrutinize the provided artifacts and check whether they are in line with what was declared at submission time.
 
 [Direct link](https://dl.acm.org/action/showFmPdf?doi=10.5555%2F3606010) - 
-[PDF](ICSE_websites/ICSE2023-FM.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-FM.pdf) <br>
 Breadcrumb: ACM Digital Library > ICSE 2023 > Proceeding Downloads > Front matter
 <br><br>
 
@@ -1739,7 +1739,7 @@ Breadcrumb: ACM Digital Library > ICSE 2023 > Proceeding Downloads > Front matte
 > 1. As previous ICSE editions, we apply an open science policy. This year, we will ask a reviewer to perform a lightweight check on the shared artifacts (see below).
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 <br><br>
 
@@ -1748,7 +1748,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers
 > NEW! This year, at least one reviewer will check whether the enclosed package contains what is declared in the paper. This quality check process will be very lightweight, and the main aim is to ensure that authors do not submit (partially) empty packages.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Science Policy
 <br><br>
 
@@ -1757,7 +1757,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > Call for Papers > Open Scienc
 > New! this year, for every paper, one designated reviewer will perform a lightweight check of the online/attached data (if available). Note this is not a thorough replicability check as it is done by the artifact track, but it has mainly the goal to check whether the dataset contains what was declared.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT-OSP.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Instructions for reviewers
 <br><br>
 
@@ -1767,7 +1767,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - Verifiability and Transparency: The extent to which the paper includes sufficient information to understand how an innovation works; to understand how data was obtained, analyzed, and interpreted; and how the paper supports independent verification or replication of the paper’s claimed contributions. New this year: the artifacts attached to the paper (or hyperlinked to it) will be checked by at least one reviewer.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#About) - 
-[PDF](ICSE_websites/ICSE2023-TT.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Review Criteria
 <br><br>
 
@@ -1790,7 +1790,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > About > Call for Papers > Rev
 > ICSE 2021 Open Science Policies
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies
 <br><br>
 
@@ -1802,7 +1802,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > ICSE 2022 Open Science Policies
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies
 <br><br>
 
@@ -1814,7 +1814,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > ICSE 2023 Open Science Policies
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 <br><br>
 
@@ -1840,7 +1840,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 > As a conference sponsored by ACM SIGSOFT, ICSE 2021 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2021/icse-2021-open-science-policies#About) - 
-[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies
 <br><br>
 
@@ -1852,7 +1852,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > As a conference sponsored by ACM SIGSOFT, ICSE 2022 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies
 <br><br>
 
@@ -1865,7 +1865,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > As a conference co-sponsored by ACM SIGSOFT, ICSE 2023 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 <br><br>
 
@@ -1875,7 +1875,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies
 > As a conference sponsored by ACM SIGSOFT, ICSE 2023 adheres to open science policies as adopted by SIGSOFT. The text below is based on v0.9.9 of these policies.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT-OSP.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies
 <br><br>
 
@@ -1902,7 +1902,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -1915,7 +1915,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is [available online](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/).
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -1929,7 +1929,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > A step-by-step approach to disclosing artifacts for (double-blind) peer review and make it open data upon acceptance is available at: https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > HOWTOs
 <br><br>
 
@@ -1940,7 +1940,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is available online .
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT-OSP.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -1951,7 +1951,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - A step-by-step approach to disclosing artifacts for (doubly-anonymous) peer review and make it open data upon acceptance is [available online](https://ineed.coffee/5205/how-to-disclose-data-for-double-blind-review-and-make-it-archived-open-data-upon-acceptance/)
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Open Science Policy
 <br><br>
 
@@ -1975,7 +1975,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://2021.icse-conferences.org/track/icse-2021-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2021-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2021-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open Science Policies > Open science policies > Open artifacts
 <br><br>
 
@@ -1989,7 +1989,7 @@ Breadcrumb: ICSE 2021 > Tracks > Open Science Policies > About > ICSE 2021 Open 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://conf.researchr.org/track/icse-2022/icse-2022-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2022-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2022-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -2006,7 +2006,7 @@ Breadcrumb: ICSE 2022 > Tracks > Open Science Policies > About > ICSE 2022 Open 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) - 
-[PDF](ICSE_websites/ICSE2023-OpenSciencePolicies.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-OpenSciencePolicies.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science policies > HOWTOs
 <br><br>
 
@@ -2020,7 +2020,7 @@ Breadcrumb: ICSE 2023 > Tracks > ICSE 2023 Open Science Policies > Open science 
 > A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account .
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#ICSE-2023-open-science-policy) - 
-[PDF](ICSE_websites/ICSE2023-TT-OSP.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-TT-OSP.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Policies > Open science policies > Open artifacts > HOWTOs
 <br><br>
 
@@ -2033,7 +2033,7 @@ Breadcrumb: ICSE 2023 > Tracks > Technical Track > ICSE 2023 Open Science Polici
 > - A step-by-step approach to automatically archive a GitHub repository to figshare.com is available at https://knowledge.figshare.com/articles/item/how-to-connect-figshare-with-your-github-account
 
 [Direct link](https://conf.researchr.org/track/icse-2023/icse-2023-SEET?#About) - 
-[PDF](ICSE_websites/ICSE2023-SEET.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-SEET.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Training > About > Open Science Policy
 <br><br>
 
@@ -2054,7 +2054,7 @@ Breadcrumb: ICSE 2023 > Tracks > SEET - Software Engineering Education and Train
 > Enter ROSE. ROSE is a 90 minute session comprising lightning talks by researchers presenting replicated and reproduced results, followed by a panel discussing issues of replication in software engineering. Presentations can be about any prior SE publication (and is not restricted just to results from ICSE’19).
 
 [Direct link](https://2019.icse-conferences.org/track/icse-2019-ROSE-Festival#About) - 
-[PDF](ICSE_websites/ICSE2019-ROSEFestival.pdf) <br>
+[PDF](ICSE-websites/ICSE2019-ROSEFestival.pdf) <br>
 Breadcrumb: ICSE 2019 > Tracks > ROSE Festival > About
 <br><br>
 
@@ -2063,7 +2063,7 @@ Breadcrumb: ICSE 2019 > Tracks > ROSE Festival > About
 > The ICSE’20 ROSE festival celebrates open science artifacts in software engineering.
 
 [Direct link](https://2020.icse-conferences.org/track/icse-2020-rose) - 
-[PDF](ICSE_websites/ICSE2020-ROSE.pdf) <br>
+[PDF](ICSE-websites/ICSE2020-ROSE.pdf) <br>
 Breadcrumb: ICSE 2020 > Tracks > ROSE
 <br><br>
 
@@ -2081,7 +2081,7 @@ Breadcrumb: ICSE 2020 > Tracks > ROSE
 > Accepted submissions will be offered a lightning talk slot at the ICSE'23 ROSE Festival.
 
 [Direct link](https://conf.researchr.org/track/icse-2023/rose-festival) - 
-[PDF](ICSE_websites/ICSE2023-ROSEFestival.pdf) <br>
+[PDF](ICSE-websites/ICSE2023-ROSEFestival.pdf) <br>
 Breadcrumb: ICSE 2023 > Tracks > ROSE Festival
 <br><br>
 
