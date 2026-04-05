@@ -1,0 +1,135 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{xfp}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Figure 8
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varArtifactLocationEvolutionUniqueIdentifierXIVFSE{\fpeval{5.7}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXIVICSE{\fpeval{1.6}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXIXFSE{\fpeval{24.2}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXIXICSE{\fpeval{19.0}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVFSE{\fpeval{0.0}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVICSE{\fpeval{2.0}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVIFSE{\fpeval{1.9}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVIICSE{\fpeval{10.0}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVIIFSE{\fpeval{1.9}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVIIICSE{\fpeval{3.6}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVIIIFSE{\fpeval{13.7}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXVIIIICSE{\fpeval{13.3}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXFSE{\fpeval{47.3}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXICSE{\fpeval{17.0}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXIFSE{\fpeval{27.1}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXIICSE{\fpeval{31.7}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXIIFSE{\fpeval{46.2}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXIIICSE{\fpeval{31.3}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXIIIFSE{\fpeval{46.4}}
+\edef\varArtifactLocationEvolutionUniqueIdentifierXXIIIICSE{\fpeval{35.5}}
+
+\setcounter{figure}{7}%Figure 8
+
+\begin{figure}[htbp]
+    \centering
+    \scriptsize
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{ICSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.1,.5), font=\scriptsize},anchor=south},
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=62,
+            ytick={0,10,20,30,40,50},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords, 
+            point meta=explicit symbolic, 
+            nodes near coords style={rotate=90, anchor=west} 
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varArtifactLocationEvolutionUniqueIdentifierXIVICSE) [\varArtifactLocationEvolutionUniqueIdentifierXIVICSE] 
+            (2015, \varArtifactLocationEvolutionUniqueIdentifierXVICSE) [\varArtifactLocationEvolutionUniqueIdentifierXVICSE] 
+            (2016, \varArtifactLocationEvolutionUniqueIdentifierXVIICSE) [\varArtifactLocationEvolutionUniqueIdentifierXVIICSE]
+            (2017, \varArtifactLocationEvolutionUniqueIdentifierXVIIICSE) [\varArtifactLocationEvolutionUniqueIdentifierXVIIICSE]
+            (2018, \varArtifactLocationEvolutionUniqueIdentifierXVIIIICSE) [\varArtifactLocationEvolutionUniqueIdentifierXVIIIICSE]
+            (2019, \varArtifactLocationEvolutionUniqueIdentifierXIXICSE) [\varArtifactLocationEvolutionUniqueIdentifierXIXICSE]
+            (2020, \varArtifactLocationEvolutionUniqueIdentifierXXICSE) [\varArtifactLocationEvolutionUniqueIdentifierXXICSE]
+            (2021, \varArtifactLocationEvolutionUniqueIdentifierXXIICSE) [\varArtifactLocationEvolutionUniqueIdentifierXXIICSE]
+            (2022, \varArtifactLocationEvolutionUniqueIdentifierXXIIICSE) [\varArtifactLocationEvolutionUniqueIdentifierXXIIICSE]
+            (2023, \varArtifactLocationEvolutionUniqueIdentifierXXIIIICSE) [\varArtifactLocationEvolutionUniqueIdentifierXXIIIICSE]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:artifact-rep-UniqueIdentifier-ICSE}
+    \end{subfigure}
+    \quad \quad \quad \quad 
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{FSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers with links},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.1,.5), font=\scriptsize},anchor=south},
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=62,
+            ytick={0,10,20,30,40,50},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords, 
+            point meta=explicit symbolic, 
+            nodes near coords style={rotate=90, anchor=west} 
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014, \varArtifactLocationEvolutionUniqueIdentifierXIVFSE) [\varArtifactLocationEvolutionUniqueIdentifierXIVFSE] 
+            (2015, \varArtifactLocationEvolutionUniqueIdentifierXVFSE) [\varArtifactLocationEvolutionUniqueIdentifierXVFSE] 
+            (2016, \varArtifactLocationEvolutionUniqueIdentifierXVIFSE) [\varArtifactLocationEvolutionUniqueIdentifierXVIFSE]
+            (2017, \varArtifactLocationEvolutionUniqueIdentifierXVIIFSE) [\varArtifactLocationEvolutionUniqueIdentifierXVIIFSE]
+            (2018, \varArtifactLocationEvolutionUniqueIdentifierXVIIIFSE) [\varArtifactLocationEvolutionUniqueIdentifierXVIIIFSE]
+            (2019, \varArtifactLocationEvolutionUniqueIdentifierXIXFSE) [\varArtifactLocationEvolutionUniqueIdentifierXIXFSE]
+            (2020, \varArtifactLocationEvolutionUniqueIdentifierXXFSE) [\varArtifactLocationEvolutionUniqueIdentifierXXFSE]
+            (2021, \varArtifactLocationEvolutionUniqueIdentifierXXIFSE) [\varArtifactLocationEvolutionUniqueIdentifierXXIFSE]
+            (2022, \varArtifactLocationEvolutionUniqueIdentifierXXIIFSE) [\varArtifactLocationEvolutionUniqueIdentifierXXIIFSE]
+            (2023, \varArtifactLocationEvolutionUniqueIdentifierXXIIIFSE) [\varArtifactLocationEvolutionUniqueIdentifierXXIIIFSE]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:artifact-rep-UniqueIdentifier-FSE}
+    \end{subfigure}
+
+    \caption{Links shared in the paper by unique identifier.}
+    \label{fig:artifact-rep-UniqueIdentifier}
+\end{figure}
+
+\end{document}

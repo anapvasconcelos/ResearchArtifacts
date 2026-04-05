@@ -1,3 +1,7 @@
+[README](../README.md) > supplementary-material/ > Search protocol
+
+---
+
 # Protocol for searching for links and statements about partial disclosure or non-disclosure of research artifacts.
 
 Due to the large number of papers included in our study, it was not feasible to read each paper in its entirety. Therefore, similar to the approach taken by Heumuller et al. [^1], we will conduct a heuristic search that consisted of three steps to identify any indications of available artifacts or statements regarding artifact disclosure.

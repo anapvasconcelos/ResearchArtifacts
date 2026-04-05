@@ -1,0 +1,151 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{xfp}
+\usepackage{xspace}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Figure 6
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varPapersNotShareLinkFSEXIV{\fpeval{3.8}}
+\edef\varPapersNotShareLinkFSEXV{\fpeval{3.8}}
+\edef\varPapersNotShareLinkFSEXVI{\fpeval{0.0}}
+\edef\varPapersNotShareLinkFSEXVII{\fpeval{0.0}}
+\edef\varPapersNotShareLinkFSEXVIII{\fpeval{0.0}}
+\edef\varPapersNotShareLinkFSEXIX{\fpeval{8.3}}
+\edef\varPapersNotShareLinkFSEXX{\fpeval{10.0}}
+\edef\varPapersNotShareLinkFSEXXI{\fpeval{16.7}}
+\edef\varPapersNotShareLinkFSEXXII{\fpeval{0.0}}
+\edef\varPapersNotShareLinkFSEXXIII{\fpeval{50.0}}
+\edef\varPapersNotShareLinkICSEXIV{\fpeval{5.6}}
+\edef\varPapersNotShareLinkICSEXV{\fpeval{2.9}}
+\edef\varPapersNotShareLinkICSEXVI{\fpeval{12.9}}
+\edef\varPapersNotShareLinkICSEXVII{\fpeval{0.0}}
+\edef\varPapersNotShareLinkICSEXVIII{\fpeval{9.1}}
+\edef\varPapersNotShareLinkICSEXIX{\fpeval{3.3}}
+\edef\varPapersNotShareLinkICSEXX{\fpeval{0.0}}
+\edef\varPapersNotShareLinkICSEXXI{\fpeval{16.7}}
+\edef\varPapersNotShareLinkICSEXXII{\fpeval{19.0}}
+\edef\varPapersNotShareLinkICSEXXIII{\fpeval{14.3}}
+\newcommand{\varPapersNotShareLinkNumberFSEXIV}{1/26\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXV}{1/26\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXVI}{0/20\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXVII}{0/19\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXVIII}{0/10\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXIX}{1/12\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXX}{1/10\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXXI}{2/12\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXXII}{0/8\xspace}
+\newcommand{\varPapersNotShareLinkNumberFSEXXIII}{1/2\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXIV}{2/36\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXV}{1/35\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXVI}{4/31\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXVII}{0/12\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXVIII}{2/22\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXIX}{1/30\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXX}{0/23\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXXI}{3/18\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXXII}{4/21\xspace}
+\newcommand{\varPapersNotShareLinkNumberICSEXXIII}{1/7\xspace}
+
+
+\setcounter{figure}{5}%Figure 6
+
+\begin{figure}[htbp]
+    \scriptsize
+    \begin{subfigure}[b]{0.5\textwidth}
+    \caption{ICSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=5cm,
+            %xlabel={Years},
+            ylabel={\% of papers without links},
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=80,
+            ytick={0,10,20,40,60,80},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+       \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014,\varPapersNotShareLinkICSEXIV) [\varPapersNotShareLinkICSEXIV~(\varPapersNotShareLinkNumberICSEXIV)]
+            (2015,\varPapersNotShareLinkICSEXV) [\varPapersNotShareLinkICSEXV~(\varPapersNotShareLinkNumberICSEXV)]
+            (2016,\varPapersNotShareLinkICSEXVI) [\varPapersNotShareLinkICSEXVI~(\varPapersNotShareLinkNumberICSEXVI)]
+            (2017,\varPapersNotShareLinkICSEXVII) [\varPapersNotShareLinkICSEXVII~(\varPapersNotShareLinkNumberICSEXVII)]
+            (2018,\varPapersNotShareLinkICSEXVIII) [\varPapersNotShareLinkICSEXVIII~(\varPapersNotShareLinkNumberICSEXVIII)]
+            (2019,\varPapersNotShareLinkICSEXIX) [\varPapersNotShareLinkICSEXIX~(\varPapersNotShareLinkNumberICSEXIX)]
+            (2020,\varPapersNotShareLinkICSEXX) [\varPapersNotShareLinkICSEXX~(\varPapersNotShareLinkNumberICSEXX)]
+            (2021,\varPapersNotShareLinkICSEXXI) [\varPapersNotShareLinkICSEXXI~(\varPapersNotShareLinkNumberICSEXXI)]
+            (2022,\varPapersNotShareLinkICSEXXII) [\varPapersNotShareLinkICSEXXII~(\varPapersNotShareLinkNumberICSEXXII)]
+            (2023,\varPapersNotShareLinkICSEXXIII) [\varPapersNotShareLinkICSEXXIII~(\varPapersNotShareLinkNumberICSEXXIII)]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:statements-ICSE}
+    \end{subfigure}
+    \quad \quad
+    \begin{subfigure}[b]{0.5\textwidth}
+    \caption{FSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=5cm,
+            %xlabel={Years},
+            ylabel={\% of papers without links},
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=80,
+            ytick={0,10,20,40,60,80},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2014,\varPapersNotShareLinkFSEXIV) [\varPapersNotShareLinkFSEXIV~(\varPapersNotShareLinkNumberFSEXIV)]
+            (2015,\varPapersNotShareLinkFSEXV) [\varPapersNotShareLinkFSEXV~(\varPapersNotShareLinkNumberFSEXV)]
+            (2016,\varPapersNotShareLinkFSEXVI) [\varPapersNotShareLinkFSEXVI~(\varPapersNotShareLinkNumberFSEXVI)]
+            (2017,\varPapersNotShareLinkFSEXVII) [\varPapersNotShareLinkFSEXVII~(\varPapersNotShareLinkNumberFSEXVII)]
+            (2018,\varPapersNotShareLinkFSEXVIII) [\varPapersNotShareLinkFSEXVIII~(\varPapersNotShareLinkNumberFSEXVIII)]
+            (2019,\varPapersNotShareLinkFSEXIX) [\varPapersNotShareLinkFSEXIX~(\varPapersNotShareLinkNumberFSEXIX)]
+            (2020,\varPapersNotShareLinkFSEXX) [\varPapersNotShareLinkFSEXX~(\varPapersNotShareLinkNumberFSEXX)]
+            (2021,\varPapersNotShareLinkFSEXXI) [\varPapersNotShareLinkFSEXXI~(\varPapersNotShareLinkNumberFSEXXI)]
+            (2022,\varPapersNotShareLinkFSEXXII) [\varPapersNotShareLinkFSEXXII~(\varPapersNotShareLinkNumberFSEXXII)]
+            (2023,\varPapersNotShareLinkFSEXXIII) [\varPapersNotShareLinkFSEXXIII~(\varPapersNotShareLinkNumberFSEXXIII)]
+        };
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:statements-FSE}
+    \end{subfigure}
+    \caption{Evolution of the statements about artifact disclosure.}
+    \label{fig:statements-ICSEFSE}
+\end{figure}
+
+\end{document}

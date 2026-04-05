@@ -1,0 +1,96 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{pgf}
+\usepackage{siunitx}
+\npthousandsep{,}
+
+%%% Setup
+\sisetup{
+  round-mode=places,
+  round-precision=1,
+  retain-zero-exponent=false,
+  output-decimal-marker = {.}
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \edef\percentage{\fpeval{round(#1/#2*100,1)}}%
+    \ifdim\percentage pt < 10pt
+        (\hspace*{4.3pt}\num{\percentage}\%)
+    \else
+        (\num{\percentage}\%)
+    \fi
+}
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&
+    \ShowPercentageNoHundred{#1}{#2}&
+    \raisebox{-0.05em}{\inlinechart{#1}{#2}}
+}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+
+\newcommand{\inlinechart}[2]{%
+    \edef\blackbar{\fpeval{#1/#2}}%
+    \edef\whitebar{\fpeval{1 - (#1/#2)}}%
+    \textcolor{black!80}{\rule{\blackbar\BARSIZE}{1.6ex}}%
+    \textcolor{black!10}{\rule{\whitebar\BARSIZE}{1.6ex}}%
+}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 4
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varTotalOfPapersWithLinkICSE{\fpeval{1001}}
+\edef\varTotalOfPapersWithLinkICSEFSE{\fpeval{1696}}
+\edef\varPapersFourLinksAndMoreICSEFSE{\fpeval{29}}
+\edef\varPapersOneLinkICSEFSE{\fpeval{1382}}
+\edef\varPapersThreeLinksICSEFSE{\fpeval{46}}
+\edef\varPapersTwoLinksICSEFSE{\fpeval{239}}
+
+\setcounter{table}{3}%Table 4
+
+\begin{table}[htbp]
+    \caption{Number of different links in papers.}
+    \label{tab:links-per-paper}
+    \centering
+    \small 
+    \begin{tabular}{@{}l R{.103\textwidth} @{\hskip 0.05in} R{.035\textwidth} @{\hskip 0.31in} L{.075\textwidth}@{}}
+        
+        \toprule
+
+        \# Different links &
+        \multicolumn{3}{c@{}}{\# Papers (\numprint{\varTotalOfPapersWithLinkICSEFSE})}\\
+        
+        \midrule
+
+        Only one repository link &
+        \ChartWithAbsoluteAndPercentageNumbers{\varPapersOneLinkICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}\\
+        
+        Two links to different repositories &
+        \ChartWithAbsoluteAndPercentageNumbers{\varPapersTwoLinksICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}\\
+        
+        Three links to different repositories &
+        \ChartWithAbsoluteAndPercentageNumbers{\varPapersThreeLinksICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}\\
+        
+        Four or more links to different repositories &
+        \ChartWithAbsoluteAndPercentageNumbers{\varPapersFourLinksAndMoreICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}\\
+        
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\end{document}

@@ -1,0 +1,121 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage[margin=3cm]{geometry}
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{threeparttable}
+\usepackage{makecell}
+\usepackage{pgf}
+\usepackage{siunitx}
+\npthousandsep{,}
+
+%%% Setup
+\sisetup{
+  round-mode=places,
+  round-precision=1,
+  retain-zero-exponent=false,
+  output-decimal-marker = {.}
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \edef\percentage{\fpeval{round(#1/#2*100,1)}}%
+    \ifdim\percentage pt < 10pt
+        (\hspace*{4.3pt}\num{\percentage}\%)
+    \else
+        (\num{\percentage}\%)
+    \fi
+}
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&
+    \ShowPercentageNoHundred{#1}{#2}&
+    \raisebox{-0.05em}{\inlinechart{#1}{#2}}
+}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+
+\newcommand{\inlinechart}[2]{%
+    \edef\blackbar{\fpeval{#1/#2}}%
+    \edef\whitebar{\fpeval{1 - (#1/#2)}}%
+    \textcolor{black!80}{\rule{\blackbar\BARSIZE}{1.6ex}}%
+    \textcolor{black!10}{\rule{\whitebar\BARSIZE}{1.6ex}}%
+}
+
+
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 7
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varTotalOfLinksICSEFSE{\fpeval{2171}}
+\edef\varArchivalPlatformsICSEFSE{\fpeval{468}}
+\edef\varCodePlatICSEFSE{\fpeval{1035}}
+\edef\varGeneralPurposePlatICSEFSE{\fpeval{172}}
+\edef\varInstPersProfesPagesICSEFSE{\fpeval{309}}
+\edef\varOtherRepsICSEFSE{\fpeval{188}}
+
+\setcounter{table}{6}%Table 7
+
+\begin{table}[htbp]
+\begin{threeparttable}
+    \caption{Types of artifact storage platforms.}
+    \label{tab:artifact-rep}
+    \centering
+    \small
+
+    \begin{tabular}{@{}p{18mm} m{85mm} @{\hskip 0.1in} r @{\hskip 0.03in} r @{\hskip 0.02in} l@{}}
+
+        \toprule
+
+        \makecell[l]{Type} & Description & \multicolumn{3}{c@{}}{\# Links (\numprint{\varTotalOfLinksICSEFSE})}\\ 
+   
+\midrule
+
+\makecell[l]{Archival} &
+        Platforms providing long-term preservation and citability of research artifacts, such as Zenodo, Figshare, Open Science Framework (OSF), Mendeley Data, Software Heritage, ACM Digital Library, arXiv, and Internet Archive.&
+            \ChartWithAbsoluteAndPercentageNumbers{\varArchivalPlatformsICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+
+\midrule
+   
+        \makecell[l]{Code}&
+        Platforms primarily used for hosting and distributing code and software artifacts, such as GitHub, BitBucket, Docker, GitLab, Pypi, and Crates. &
+            \ChartWithAbsoluteAndPercentageNumbers{\varCodePlatICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+\midrule
+
+        \makecell[l]{Institutional} &
+        Webpages hosted under institutional domains, including personal, group, and organizational pages.&
+           \ChartWithAbsoluteAndPercentageNumbers{\varInstPersProfesPagesICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+\midrule
+
+        \makecell[l]{General-\\purpose}&
+        Generic cloud-based platforms for file storage, sharing, and collaboration, such as Dropbox, Google Drive, Google Sites, Google Documents, Youtube, Google Code, Google Cloud, and Kaggle. &
+            \ChartWithAbsoluteAndPercentageNumbers{\varGeneralPurposePlatICSEFSE}{\varTotalOfLinksICSEFSE}\\
+
+\midrule
+        Others &
+        Webpages and platforms that did not fit the previous categories (e.g., ResearchGate). &
+            \ChartWithAbsoluteAndPercentageNumbers{\varOtherRepsICSEFSE}{\varTotalOfLinksICSEFSE}\\
+   
+        \bottomrule
+   
+    \end{tabular}
+    \end{threeparttable}
+
+\end{table}
+
+\end{document}

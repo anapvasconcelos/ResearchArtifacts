@@ -1,0 +1,117 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{threeparttable}
+\usepackage{makecell}
+\usepackage{pgf}
+\usepackage{siunitx}
+\npthousandsep{,}
+
+%%% Setup
+\sisetup{
+  round-mode=places,
+  round-precision=1,
+  retain-zero-exponent=false,
+  output-decimal-marker = {.}
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \edef\percentage{\fpeval{round(#1/#2*100,1)}}%
+    \ifdim\percentage pt < 10pt
+        (\hspace*{4.3pt}\num{\percentage}\%)
+    \else
+        (\num{\percentage}\%)
+    \fi
+}
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&
+    \ShowPercentageNoHundred{#1}{#2}&
+    \raisebox{-0.05em}{\inlinechart{#1}{#2}}
+}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+
+\newcommand{\inlinechart}[2]{%
+    \edef\blackbar{\fpeval{#1/#2}}%
+    \edef\whitebar{\fpeval{1 - (#1/#2)}}%
+    \textcolor{black!80}{\rule{\blackbar\BARSIZE}{1.6ex}}%
+    \textcolor{black!10}{\rule{\whitebar\BARSIZE}{1.6ex}}%
+}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 6
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varTotalOfPapersWithLinkICSE{\fpeval{1001}}
+\edef\varTotalOfPapersWithLinkICSEFSE{\fpeval{1696}}
+\edef\varNumLinksNotAvailableICSEFSE{\fpeval{292}}
+\edef\varNumLinksPublicAvailableICSEFSE{\fpeval{1862}}
+\edef\varNumLinksRestrictAccessICSEFSE{\fpeval{17}}
+\edef\varNumPapersLinkNotAvailableICSEFSE{\fpeval{263}}
+\edef\varNumPapersLinkPublicAvailableICSEFSE{\fpeval{1469}}
+\edef\varNumPapersLinkRestrictAccessICSEFSE{\fpeval{16}}
+\edef\varPapersHaveOnlyNotAvailableLinksICSEFSE{\fpeval{217}}
+\edef\varPapersHaveOnlyPubliclyAvailableLinksICSEFSE{\fpeval{1419}}
+\edef\varPapersHaveOnlyRestrictAccessLinksICSEFSE{\fpeval{9}}
+\edef\varTotalPapersUniqueInCategoryICSEFSE{\fpeval{1645}}
+\edef\varTotalOfLinksICSEFSE{\fpeval{2171}}
+
+\setcounter{table}{5}%Table 6
+
+
+\begin{table}[htbp]
+\begin{threeparttable}
+    \caption{Statuses of the links of ICSE and FSE papers.}
+    \label{tab:status-of-the-links}
+    \centering
+    \small
+    \begin{tabular}{@{}l r @{\hskip 0.04in} r @{\hskip 0.04in} l r @{\hskip 0.04in} r @{\hskip 0.04in} l r @{\hskip 0.04in} r @{\hskip 0.04in} L{.075\textwidth}@{}}
+    
+        \toprule
+    
+         Status of the link & 
+         \multicolumn{3}{c}{\# Links (\numprint{\varTotalOfLinksICSEFSE})$^*$} &
+         \multicolumn{3}{c}{\# Papers (\numprint{\varTotalOfPapersWithLinkICSEFSE})} &
+         \multicolumn{3}{c}{\thead{\# Papers unique \\ in category (\numprint{\varTotalPapersUniqueInCategoryICSEFSE})}} \\
+        
+        \midrule
+
+        Publicly available &
+        \ChartWithAbsoluteAndPercentageNumbers{\varNumLinksPublicAvailableICSEFSE}{\varTotalOfLinksICSEFSE} &
+        \ChartWithAbsoluteAndPercentageNumbers{\varNumPapersLinkPublicAvailableICSEFSE}{\varTotalOfPapersWithLinkICSEFSE} &
+        \ChartWithAbsoluteAndPercentageNumbers{\varPapersHaveOnlyPubliclyAvailableLinksICSEFSE}{\varTotalPapersUniqueInCategoryICSEFSE} \\
+
+         Not available &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumLinksNotAvailableICSEFSE}{\varTotalOfLinksICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumPapersLinkNotAvailableICSEFSE}{\varTotalOfPapersWithLinkICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varPapersHaveOnlyNotAvailableLinksICSEFSE}{\varTotalPapersUniqueInCategoryICSEFSE} \\
+
+         Restricted access &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumLinksRestrictAccessICSEFSE}{\varTotalOfLinksICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varNumPapersLinkRestrictAccessICSEFSE}{\varTotalOfPapersWithLinkICSEFSE} &
+         \ChartWithAbsoluteAndPercentageNumbers{\varPapersHaveOnlyRestrictAccessLinksICSEFSE}{\varTotalPapersUniqueInCategoryICSEFSE} \\
+
+        \bottomrule
+        
+    \end{tabular}
+    \begin{tablenotes}[flushleft]
+      \item [*] A paper might be counted in more than one category if it contains more than one link.
+    \end{tablenotes}
+  \end{threeparttable}
+\end{table}
+
+\end{document}

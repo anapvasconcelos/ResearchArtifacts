@@ -1,0 +1,163 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage[margin=2cm]{geometry}
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{multirow}
+\usepackage{threeparttable}
+\usepackage{pgf}
+\usepackage{siunitx}
+\npthousandsep{,}
+
+%%% Setup
+\sisetup{
+  round-mode=places,
+  round-precision=1,
+  retain-zero-exponent=false,
+  output-decimal-marker = {.}
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \edef\percentage{\fpeval{round(#1/#2*100,1)}}%
+    \ifdim\percentage pt < 10pt
+        (\hspace*{4.3pt}\num{\percentage}\%)
+    \else
+        (\num{\percentage}\%)
+    \fi
+}
+
+\newcommand*\ChartWithAbsoluteAndPercentageNumbersD[2]{
+  \numprint{#1}&\ShowPercentageNoHundred{#1}{#2}
+}
+
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 5
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varTotalOfPapersWithLinkICSE{\fpeval{1001}}
+\edef\varTotalOfPapersWithLinkICSEFSE{\fpeval{1696}}
+\edef\varTotalOfPapersWithLinkFSE{\fpeval{695}}
+\edef\varLinkInConclusionAndMoreFSE{\fpeval{36}}
+\edef\varLinkInConclusionAndMoreICSE{\fpeval{78}}
+\edef\varLinkInConclusionAndMoreICSEFSE{\fpeval{114}}
+\edef\varLinkInConclusionFSE{\fpeval{62}}
+\edef\varLinkInConclusionICSE{\fpeval{127}}
+\edef\varLinkInConclusionICSEFSE{\fpeval{189}}
+\edef\varLinkInIntroductionAndMoreFSE{\fpeval{165}}
+\edef\varLinkInIntroductionAndMoreICSE{\fpeval{242}}
+\edef\varLinkInIntroductionAndMoreICSEFSE{\fpeval{407}}
+\edef\varLinkInIntroductionFSE{\fpeval{282}}
+\edef\varLinkInIntroductionICSE{\fpeval{447}}
+\edef\varLinkInIntroductionICSEFSE{\fpeval{729}}
+\edef\varLinkInOtherPlaceAndMoreFSE{\fpeval{205}}
+\edef\varLinkInOtherPlaceAndMoreICSE{\fpeval{297}}
+\edef\varLinkInOtherPlaceAndMoreICSEFSE{\fpeval{502}}
+\edef\varLinkInOtherPlaceFSE{\fpeval{436}}
+\edef\varLinkInOtherPlaceICSE{\fpeval{662}}
+\edef\varLinkInOtherPlaceICSEFSE{\fpeval{1098}}
+\edef\varLinkInSpecificAndMoreFSE{\fpeval{104}}
+\edef\varLinkInSpecificAndMoreICSE{\fpeval{63}}
+\edef\varLinkInSpecificAndMoreICSEFSE{\fpeval{167}}
+\edef\varLinkInSpecificFSE{\fpeval{184}}
+\edef\varLinkInSpecificICSE{\fpeval{127}}
+\edef\varLinkInSpecificICSEFSE{\fpeval{311}}
+\edef\varLinkOnlyInConclusionFSE{\fpeval{26}}
+\edef\varLinkOnlyInConclusionICSE{\fpeval{49}}
+\edef\varLinkOnlyInConclusionICSEFSE{\fpeval{75}}
+\edef\varLinkOnlyInIntroductionFSE{\fpeval{117}}
+\edef\varLinkOnlyInIntroductionICSE{\fpeval{205}}
+\edef\varLinkOnlyInIntroductionICSEFSE{\fpeval{322}}
+\edef\varLinkOnlyInOtherPlacesFSE{\fpeval{231}}
+\edef\varLinkOnlyInOtherPlacesICSE{\fpeval{365}}
+\edef\varLinkOnlyInOtherPlacesICSEFSE{\fpeval{596}}
+\edef\varLinkOnlyInSpecificFSE{\fpeval{80}}
+\edef\varLinkOnlyInSpecificICSE{\fpeval{64}}
+\edef\varLinkOnlyInSpecificICSEFSE{\fpeval{144}}
+
+\setcounter{table}{4}%Table 5
+
+
+\begin{table}[htbp]
+\caption{Distribution of artifact link locations in papers containing artifact links.}
+\label{tab:where-is-the-link}
+\centering
+\small
+\begin{tabular}{@{}l l r @{\hskip 0.04in} l r @{\hskip 0.04in} l r @{\hskip 0.04in} l r @{\hskip 0.04in} l@{}}
+\toprule
+  & &
+  \multicolumn{2}{l}{Introduction}&
+  \multicolumn{2}{c}{Conclusion}&
+  \multicolumn{2}{c}{Data availability}&
+  \multicolumn{2}{c@{}}{Other sections}\\ 
+  \midrule
+\multirow{3}{*}{Unique section}&
+ICSE&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInIntroductionICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInConclusionICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInSpecificICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInOtherPlacesICSE}{\varTotalOfPapersWithLinkICSE}\\
+&
+FSE&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInIntroductionFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInConclusionFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInSpecificFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInOtherPlacesFSE}{\varTotalOfPapersWithLinkFSE}\\
+&
+Total&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInIntroductionICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&   
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInConclusionICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInSpecificICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkOnlyInOtherPlacesICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}\\ 
+  \midrule
+
+\multirow{3}{*}{Overlapped sections}&
+ICSE&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInIntroductionAndMoreICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInConclusionAndMoreICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInSpecificAndMoreICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInOtherPlaceAndMoreICSE}{\varTotalOfPapersWithLinkICSE}\\
+&
+FSE&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInIntroductionAndMoreFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInConclusionAndMoreFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInSpecificAndMoreFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInOtherPlaceAndMoreFSE}{\varTotalOfPapersWithLinkFSE}\\
+  &
+Total&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInIntroductionAndMoreICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInConclusionAndMoreICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInSpecificAndMoreICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInOtherPlaceAndMoreICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}\\ 
+     \midrule
+\multirow{3}{*}{Total (unique + overlapped)}
+&
+ICSE&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInIntroductionICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInConclusionICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInSpecificICSE}{\varTotalOfPapersWithLinkICSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInOtherPlaceICSE}{\varTotalOfPapersWithLinkICSE}\\
+&
+FSE&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInIntroductionFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInConclusionFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInSpecificFSE}{\varTotalOfPapersWithLinkFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInOtherPlaceFSE}{\varTotalOfPapersWithLinkFSE}\\
+  &
+Total&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInIntroductionICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInConclusionICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInSpecificICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}&
+  \ChartWithAbsoluteAndPercentageNumbersD{\varLinkInOtherPlaceICSEFSE}{\varTotalOfPapersWithLinkICSEFSE}\\ 
+  \bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}

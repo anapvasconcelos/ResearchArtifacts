@@ -1,0 +1,121 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage[margin=3cm]{geometry}
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{ifthen}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{makecell}
+\usepackage{multirow}
+\usepackage{threeparttable}
+\usepackage{pgf}
+\usepackage{siunitx}
+\npthousandsep{,}
+
+%%% Setup
+\sisetup{
+  round-mode=places,
+  round-precision=1,
+  retain-zero-exponent=false,
+  output-decimal-marker = {.}
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \edef\percentage{\fpeval{round(#1/#2*100,1)}}%
+    \ifdim\percentage pt < 10pt
+        (\hspace*{4.3pt}\num{\percentage}\%)
+    \else
+        (\num{\percentage}\%)
+    \fi
+}
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&
+    \ShowPercentageNoHundred{#1}{#2}&
+    \raisebox{-0.05em}{\inlinechart{#1}{#2}}
+}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+
+\newcommand{\inlinechart}[2]{%
+    \edef\blackbar{\fpeval{#1/#2}}%
+    \edef\whitebar{\fpeval{1 - (#1/#2)}}%
+    \textcolor{black!80}{\rule{\blackbar\BARSIZE}{1.6ex}}%
+    \textcolor{black!10}{\rule{\whitebar\BARSIZE}{1.6ex}}%
+}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 9
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varTotalOfPapersFSE{\fpeval{840}}
+\edef\varTotalOfPapersICSE{\fpeval{1236}}
+\edef\varTotalOfPapersICSEFSE{\fpeval{2076}}
+\edef\varLinkNoStatementNoFSE{\fpeval{138}}
+\edef\varLinkNoStatementNoICSE{\fpeval{217}}
+\edef\varLinkNoStatementNoICSEFSE{\fpeval{355}}
+\edef\varLinkNoStatementYesFSE{\fpeval{7}}
+\edef\varLinkNoStatementYesICSE{\fpeval{18}}
+\edef\varLinkNoStatementYesICSEFSE{\fpeval{25}}
+\edef\varLinkYesStatementNoFSE{\fpeval{665}}
+\edef\varLinkYesStatementNoICSE{\fpeval{951}}
+\edef\varLinkYesStatementNoICSEFSE{\fpeval{1616}}
+\edef\varLinkYesStatementYesFSE{\fpeval{30}}
+\edef\varLinkYesStatementYesICSE{\fpeval{50}}
+\edef\varLinkYesStatementYesICSEFSE{\fpeval{80}}
+
+\setcounter{table}{8}%Table 9
+
+
+\begin{table}[htbp]
+\caption{Frequency of links and non-disclosure statements.}
+\label{tab:frequency-links-and-statements}
+\centering
+\small
+\begin{threeparttable}
+\begin{tabular}{@{} l  @{\hskip 0.2in} r @{\hskip 0.04in} l @{\hskip 0.7mm} l @{\hskip 0.2in} r @{\hskip 0.04in} l @{\hskip 0.7mm} l @{\hskip 0.2in} r @{\hskip 0.04in} l @{\hskip 0.7mm} l @{}}
+\toprule
+Status &
+  \multicolumn{3}{c}{ICSE (\numprint{\varTotalOfPapersICSE})} &
+  \multicolumn{3}{c}{FSE (\numprint{\varTotalOfPapersFSE})} &
+  \multicolumn{3}{c}{Total (\numprint{\varTotalOfPapersICSEFSE})} \\ 
+  \midrule
+Link and statement &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkYesStatementYesICSE}{\varTotalOfPapersICSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkYesStatementYesFSE}{\varTotalOfPapersFSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkYesStatementYesICSEFSE}{\varTotalOfPapersICSEFSE}
+  \\
+No link but statement &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkNoStatementYesICSE}{\varTotalOfPapersICSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkNoStatementYesFSE}{\varTotalOfPapersFSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkNoStatementYesICSEFSE}{\varTotalOfPapersICSEFSE}
+  \\
+Link and no statement &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkYesStatementNoICSE}{\varTotalOfPapersICSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkYesStatementNoFSE}{\varTotalOfPapersFSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkYesStatementNoICSEFSE}{\varTotalOfPapersICSEFSE}
+  \\
+No link and no statement$^*$ &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkNoStatementNoICSE}{\varTotalOfPapersICSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkNoStatementNoFSE}{\varTotalOfPapersFSE} &
+  \ChartWithAbsoluteAndPercentageNumbers{\varLinkNoStatementNoICSEFSE}{\varTotalOfPapersICSEFSE}
+  \\ 
+  \bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]
+            \item[*]{\footnotesize{The worst-case scenario.}}
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+\end{document}

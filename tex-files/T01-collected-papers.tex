@@ -1,0 +1,116 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\npthousandsep{,}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 1
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varCollectedPapersFSEEighteen{\fpeval{61}}
+\edef\varCollectedPapersFSEFifteen{\fpeval{74}}
+\edef\varCollectedPapersFSEFourteen{\fpeval{61}}
+\edef\varCollectedPapersFSENineteen{\fpeval{74}}
+\edef\varCollectedPapersFSESeventeen{\fpeval{72}}
+\edef\varCollectedPapersFSESixteen{\fpeval{74}}
+\edef\varCollectedPapersFSETwenty{\fpeval{101}}
+\edef\varCollectedPapersFSETwentyOne{\fpeval{97}}
+\edef\varCollectedPapersFSETwentyThree{\fpeval{127}}
+\edef\varCollectedPapersFSETwentyTwo{\fpeval{99}}
+\edef\varCollectedPapersICSEEighteen{\fpeval{105}}
+\edef\varCollectedPapersICSEFifteen{\fpeval{84}}
+\edef\varCollectedPapersICSEFourteen{\fpeval{98}}
+\edef\varCollectedPapersICSENineteen{\fpeval{109}}
+\edef\varCollectedPapersICSESeventeen{\fpeval{68}}
+\edef\varCollectedPapersICSESixteen{\fpeval{101}}
+\edef\varCollectedPapersICSETwenty{\fpeval{129}}
+\edef\varCollectedPapersICSETwentyOne{\fpeval{138}}
+\edef\varCollectedPapersICSETwentyThree{\fpeval{207}}
+\edef\varCollectedPapersICSETwentyTwo{\fpeval{197}}
+\edef\varTotalPapersXIVICSEFSE{\fpeval{159}}
+\edef\varTotalPapersXIXICSEFSE{\fpeval{183}}
+\edef\varTotalPapersXVICSEFSE{\fpeval{158}}
+\edef\varTotalPapersXVIICSEFSE{\fpeval{175}}
+\edef\varTotalPapersXVIIICSEFSE{\fpeval{140}}
+\edef\varTotalPapersXVIIIICSEFSE{\fpeval{166}}
+\edef\varTotalPapersXXICSEFSE{\fpeval{230}}
+\edef\varTotalPapersXXIICSEFSE{\fpeval{235}}
+\edef\varTotalPapersXXIIICSEFSE{\fpeval{296}}
+\edef\varTotalPapersXXIIIICSEFSE{\fpeval{334}}
+\edef\varTotalOfPapersFSE{\fpeval{840}}
+\edef\varTotalOfPapersICSE{\fpeval{1236}}
+\edef\varTotalOfPapersICSEFSE{\fpeval{2076}}
+
+\begin{table}[htbp]
+\caption{Collected papers.}
+\label{tab:collected-papers}
+\centering
+\small
+\begin{tabular}{@{}lrrrrrrrrrrr@{}}
+\toprule
+ &
+ 2014 &
+ 2015 &
+ 2016 &
+ 2017 &
+ 2018 &
+ 2019 &
+ 2020 &
+ 2021 &
+ 2022 &
+ 2023 &
+ Total\\
+\midrule
+
+ICSE &
+\varCollectedPapersICSEFourteen &
+\varCollectedPapersICSEFifteen &
+\varCollectedPapersICSESixteen &
+\varCollectedPapersICSESeventeen &
+\varCollectedPapersICSEEighteen &
+\varCollectedPapersICSENineteen &
+\varCollectedPapersICSETwenty &
+\varCollectedPapersICSETwentyOne &
+\varCollectedPapersICSETwentyTwo &
+\varCollectedPapersICSETwentyThree &
+\numprint{\varTotalOfPapersICSE}\\
+
+FSE &
+\varCollectedPapersFSEFourteen &
+\varCollectedPapersFSEFifteen &
+\varCollectedPapersFSESixteen &
+\varCollectedPapersFSESeventeen &
+\varCollectedPapersFSEEighteen &
+\varCollectedPapersFSENineteen &
+\varCollectedPapersFSETwenty &
+\varCollectedPapersFSETwentyOne &
+\varCollectedPapersFSETwentyTwo &
+\varCollectedPapersFSETwentyThree &
+\varTotalOfPapersFSE \\
+
+\midrule
+
+Total &
+\varTotalPapersXIVICSEFSE &
+\varTotalPapersXVICSEFSE &
+\varTotalPapersXVIICSEFSE &
+\varTotalPapersXVIIICSEFSE &
+\varTotalPapersXVIIIICSEFSE &
+\varTotalPapersXIXICSEFSE &
+\varTotalPapersXXICSEFSE &
+\varTotalPapersXXIICSEFSE &
+\varTotalPapersXXIIICSEFSE &
+\varTotalPapersXXIIIICSEFSE &
+\numprint{\varTotalOfPapersICSEFSE}\\
+
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}

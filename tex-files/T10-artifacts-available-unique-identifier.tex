@@ -1,0 +1,177 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{threeparttable}
+\npthousandsep{,}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 10
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXFSE{\fpeval{47.4}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXICSE{\fpeval{21.6}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIFSE{\fpeval{0.0}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIFSE{\fpeval{22.2}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIICSE{\fpeval{50.0}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXFSE{\fpeval{68.6}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXICSE{\fpeval{24.0}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIFSE{\fpeval{35.4}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIICSE{\fpeval{60.5}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIFSE{\fpeval{78.0}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIICSE{\fpeval{56.9}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIFSE{\fpeval{72.6}}
+\edef\varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIICSE{\fpeval{50.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXIXFSE{\fpeval{5.3}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXIXICSE{\fpeval{5.4}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIFSE{\fpeval{0.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIFSE{\fpeval{16.7}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIICSE{\fpeval{0.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXFSE{\fpeval{2.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXICSE{\fpeval{10.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIFSE{\fpeval{4.2}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIICSE{\fpeval{2.6}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIFSE{\fpeval{0.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIICSE{\fpeval{3.4}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIFSE{\fpeval{0.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIICSE{\fpeval{0.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXFSE{\fpeval{47.4}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXICSE{\fpeval{73.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIFSE{\fpeval{100}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIFSE{\fpeval{61.1}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIICSE{\fpeval{50.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXFSE{\fpeval{29.4}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXICSE{\fpeval{66.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIFSE{\fpeval{60.4}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIICSE{\fpeval{36.8}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIFSE{\fpeval{22.0}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIICSE{\fpeval{39.7}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIFSE{\fpeval{27.4}}
+\edef\varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIICSE{\fpeval{50.0}}
+\edef\varEvolutionBadgeArtifactAvailableXIXFSE{\fpeval{19}}
+\edef\varEvolutionBadgeArtifactAvailableXIXICSE{\fpeval{37}}
+\edef\varEvolutionBadgeArtifactAvailableXVIIFSE{\fpeval{1}}
+\edef\varEvolutionBadgeArtifactAvailableXVIIICSE{\fpeval{0}}
+\edef\varEvolutionBadgeArtifactAvailableXVIIIFSE{\fpeval{18}}
+\edef\varEvolutionBadgeArtifactAvailableXVIIIICSE{\fpeval{2}}
+\edef\varEvolutionBadgeArtifactAvailableXXFSE{\fpeval{51}}
+\edef\varEvolutionBadgeArtifactAvailableXXICSE{\fpeval{50}}
+\edef\varEvolutionBadgeArtifactAvailableXXIFSE{\fpeval{48}}
+\edef\varEvolutionBadgeArtifactAvailableXXIICSE{\fpeval{38}}
+\edef\varEvolutionBadgeArtifactAvailableXXIIFSE{\fpeval{41}}
+\edef\varEvolutionBadgeArtifactAvailableXXIIICSE{\fpeval{58}}
+\edef\varEvolutionBadgeArtifactAvailableXXIIIFSE{\fpeval{62}}
+\edef\varEvolutionBadgeArtifactAvailableXXIIIICSE{\fpeval{80}}
+
+\setcounter{table}{9}%Table 10
+
+
+\begin{table}[htbp]
+\caption{Papers with Artifacts Available Badge and unique identifier links.}
+\label{tab:papers-with-artifacts-available-badge-and-unique-identifier}
+\centering
+\small
+\begin{threeparttable}
+\begin{tabular}{@{}l rrrrrrr@{}}
+
+\toprule
+
+   &
+  2017 &
+  2018 &
+  2019 &
+  2020 &
+  2021 &
+  2022 &
+  2023 \\ 
+  
+  \toprule
+  
+  \# ICSE papers$^*$ &
+  - &
+  \varEvolutionBadgeArtifactAvailableXVIIIICSE &
+  \varEvolutionBadgeArtifactAvailableXIXICSE &
+  \varEvolutionBadgeArtifactAvailableXXICSE &
+  \varEvolutionBadgeArtifactAvailableXXIICSE &
+  \varEvolutionBadgeArtifactAvailableXXIIICSE &
+  \varEvolutionBadgeArtifactAvailableXXIIIICSE \\ 
+  
+  \% with unique identifier links &
+  - &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIICSE\% \\ 
+
+  \% without unique identifier links &
+  - &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIICSE\% \\ 
+
+  \% without any links &
+  - &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXIXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIICSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIICSE\% \\ 
+  
+\toprule
+
+  \# FSE papers$^*$ &
+  \varEvolutionBadgeArtifactAvailableXVIIFSE &
+  \varEvolutionBadgeArtifactAvailableXVIIIFSE &
+  \varEvolutionBadgeArtifactAvailableXIXFSE &
+  \varEvolutionBadgeArtifactAvailableXXFSE &
+  \varEvolutionBadgeArtifactAvailableXXIFSE &
+  \varEvolutionBadgeArtifactAvailableXXIIFSE &
+  \varEvolutionBadgeArtifactAvailableXXIIIFSE \\ 
+  
+  \% with unique identifier links &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXVIIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXIXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeANDUniqueIdentifierXXIIIFSE\% \\ 
+  
+  \% without unique identifier links &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXVIIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXIXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutUniqueIdentifierXXIIIFSE\% \\ 
+
+  \% without any links  &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXVIIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXIXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIFSE\% &
+  \varEvolutionArtifactsAvailableBadgeWithoutLinkXXIIIFSE\% \\ 
+  
+  \bottomrule
+\end{tabular}
+\begin{tablenotes}[flushleft]
+            \item[*]{\scriptsize{Only papers with Artifacts Available Badge.}}
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+\end{document}

@@ -1,0 +1,98 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{xfp}
+\usepackage{booktabs}
+\usepackage{numprint}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{siunitx}
+\npthousandsep{,}
+
+%%% Setup
+\sisetup{
+  round-mode=places,
+  round-precision=1,
+  retain-zero-exponent=false,
+  output-decimal-marker = {.}
+}
+
+\newcommand{\ShowPercentageNoHundred}[2]{%
+    \edef\percentage{\fpeval{round(#1/#2*100,1)}}%
+    \ifdim\percentage pt < 10pt
+        (\hspace*{4.3pt}\num{\percentage}\%)
+    \else
+        (\num{\percentage}\%)
+    \fi
+}
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+\newcommand*\ChartWithAbsoluteAndPercentageNumbers[2]{
+    \numprint{#1}&
+    \ShowPercentageNoHundred{#1}{#2}&
+    \raisebox{-0.05em}{\inlinechart{#1}{#2}}
+}
+
+\newlength\BARSIZE  \setlength\BARSIZE{0.9cm}
+
+\newcommand{\inlinechart}[2]{%
+    \edef\blackbar{\fpeval{#1/#2}}%
+    \edef\whitebar{\fpeval{1 - (#1/#2)}}%
+    \textcolor{black!80}{\rule{\blackbar\BARSIZE}{1.6ex}}%
+    \textcolor{black!10}{\rule{\whitebar\BARSIZE}{1.6ex}}%
+}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Table 3
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varTotalOfPapersFSE{\fpeval{840}}
+\edef\varTotalOfPapersICSE{\fpeval{1236}}
+\edef\varTotalOfPapersICSEFSE{\fpeval{2076}}
+\edef\varTotalOfPapersWithLinkICSE{\fpeval{1001}}
+\edef\varTotalOfPapersWithLinkICSEFSE{\fpeval{1696}}
+\edef\varTotalOfPapersWithLinkFSE{\fpeval{695}}
+
+\setcounter{table}{2}%Table 3
+
+\begin{table}[htbp]
+    \caption{Artifact sharing frequency.}
+    \label{tab:artifacts-sharing-frequency}
+    \centering
+    \small
+    \begin{tabular}{@{}l r @{\hskip 0.3in} r @{\hskip 0.03in} R{.035\textwidth} @{\hskip 0.3in} L{.075\textwidth}@{}}
+        
+        \toprule
+        
+        Conference &
+        \# Papers &
+        \multicolumn{3}{c@{}}{Artifact sharing}\\
+        
+        \midrule
+        
+        ICSE &
+        \numprint{\varTotalOfPapersICSE} &
+        \ChartWithAbsoluteAndPercentageNumbers{\varTotalOfPapersWithLinkICSE}{\varTotalOfPapersICSE}\\
+        
+        FSE &
+        \varTotalOfPapersFSE &
+        \ChartWithAbsoluteAndPercentageNumbers{\varTotalOfPapersWithLinkFSE}{\varTotalOfPapersFSE}\\
+        
+        \midrule
+        
+        Total &
+        \numprint{\varTotalOfPapersICSEFSE} &
+        \ChartWithAbsoluteAndPercentageNumbers{\varTotalOfPapersWithLinkICSEFSE}{\varTotalOfPapersICSEFSE}\\ 
+
+        \bottomrule
+        
+    \end{tabular}
+\end{table}
+
+\end{document}

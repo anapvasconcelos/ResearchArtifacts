@@ -1,0 +1,179 @@
+\documentclass{article}
+
+%%% Packages
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{xfp}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%% Figure 11
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Variables
+\edef\varFSEArtifactSharingEvolutionEighteen{\fpeval{83.6}}
+\edef\varFSEArtifactSharingEvolutionFifteen{\fpeval{64.9}}
+\edef\varFSEArtifactSharingEvolutionFourteen{\fpeval{57.4}}
+\edef\varFSEArtifactSharingEvolutionNineteen{\fpeval{83.8}}
+\edef\varFSEArtifactSharingEvolutionSeventeen{\fpeval{73.6}}
+\edef\varFSEArtifactSharingEvolutionSixteen{\fpeval{73.0}}
+\edef\varFSEArtifactSharingEvolutionTwenty{\fpeval{90.1}}
+\edef\varFSEArtifactSharingEvolutionTwentyOne{\fpeval{87.6}}
+\edef\varFSEArtifactSharingEvolutionTwentyThree{\fpeval{98.4}}
+\edef\varFSEArtifactSharingEvolutionTwentyTwo{\fpeval{91.9}}
+\edef\varICSEArtifactSharingEvolutionEighteen{\fpeval{79.0}}
+\edef\varICSEArtifactSharingEvolutionFifteen{\fpeval{58.3}}
+\edef\varICSEArtifactSharingEvolutionFourteen{\fpeval{63.3}}
+\edef\varICSEArtifactSharingEvolutionNineteen{\fpeval{72.5}}
+\edef\varICSEArtifactSharingEvolutionSeventeen{\fpeval{82.4}}
+\edef\varICSEArtifactSharingEvolutionSixteen{\fpeval{69.3}}
+\edef\varICSEArtifactSharingEvolutionTwenty{\fpeval{82.2}}
+\edef\varICSEArtifactSharingEvolutionTwentyOne{\fpeval{87.0}}
+\edef\varICSEArtifactSharingEvolutionTwentyThree{\fpeval{96.6}}
+\edef\varICSEArtifactSharingEvolutionTwentyTwo{\fpeval{89.3}}
+\edef\varFSEEvaluatedArtifactEighteen{\fpeval{32.8}}
+\edef\varFSEEvaluatedArtifactFifteen{\fpeval{23.0}}
+\edef\varFSEEvaluatedArtifactFourteen{\fpeval{24.6}}
+\edef\varFSEEvaluatedArtifactNineteen{\fpeval{28.4}}
+\edef\varFSEEvaluatedArtifactSeventeen{\fpeval{15.3}}
+\edef\varFSEEvaluatedArtifactSixteen{\fpeval{23.0}}
+\edef\varFSEEvaluatedArtifactTwenty{\fpeval{53.5}}
+\edef\varFSEEvaluatedArtifactTwentyOne{\fpeval{51.5}}
+\edef\varFSEEvaluatedArtifactTwentyThree{\fpeval{48.8}}
+\edef\varFSEEvaluatedArtifactTwentyTwo{\fpeval{41.4}}
+\edef\varICSEEvaluatedArtifactNineteen{\fpeval{41.3}}
+\edef\varICSEEvaluatedArtifactTwenty{\fpeval{41.9}}
+\edef\varICSEEvaluatedArtifactTwentyOne{\fpeval{36.2}}
+\edef\varICSEEvaluatedArtifactTwentyThree{\fpeval{39.6}}
+\edef\varICSEEvaluatedArtifactTwentyTwo{\fpeval{32.0}}
+
+\setcounter{figure}{10}%Figure 11
+
+\begin{figure}[htbp]
+    \noindent
+    \scriptsize
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{ICSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.1,.5), font=\scriptsize},anchor=south},
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=125,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1, legend cell align=left},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=diamond*]
+        coordinates {
+            (2014,\varICSEArtifactSharingEvolutionFourteen) [\varICSEArtifactSharingEvolutionFourteen]
+            (2015,\varICSEArtifactSharingEvolutionFifteen) [\varICSEArtifactSharingEvolutionFifteen]
+            (2016,\varICSEArtifactSharingEvolutionSixteen) [\varICSEArtifactSharingEvolutionSixteen]
+            (2017,\varICSEArtifactSharingEvolutionSeventeen) [\varICSEArtifactSharingEvolutionSeventeen]
+            (2018,\varICSEArtifactSharingEvolutionEighteen) [\varICSEArtifactSharingEvolutionEighteen]
+            (2019,\varICSEArtifactSharingEvolutionNineteen) [\varICSEArtifactSharingEvolutionNineteen]
+            (2020,\varICSEArtifactSharingEvolutionTwenty) [\varICSEArtifactSharingEvolutionTwenty]
+            (2021,\varICSEArtifactSharingEvolutionTwentyOne) [\varICSEArtifactSharingEvolutionTwentyOne]
+            (2022,\varICSEArtifactSharingEvolutionTwentyTwo) [\varICSEArtifactSharingEvolutionTwentyTwo]
+            (2023,\varICSEArtifactSharingEvolutionTwentyThree) [\varICSEArtifactSharingEvolutionTwentyThree]
+        };
+        \addlegendentry{Artifact sharing}
+
+
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+        coordinates {
+            (2019, \varICSEEvaluatedArtifactNineteen) [\varICSEEvaluatedArtifactNineteen]
+            (2020, \varICSEEvaluatedArtifactTwenty) [\varICSEEvaluatedArtifactTwenty]
+            (2021, \varICSEEvaluatedArtifactTwentyOne) [\varICSEEvaluatedArtifactTwentyOne]
+            (2022, \varICSEEvaluatedArtifactTwentyTwo) [\varICSEEvaluatedArtifactTwentyTwo]
+            (2023, \varICSEEvaluatedArtifactTwentyThree) [\varICSEEvaluatedArtifactTwentyThree]
+        };
+        \addlegendentry{Successful artifact evaluation}
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:artifact-sharing-evolution-ICSE}
+    \end{subfigure}
+    \quad \quad \quad \quad
+    \begin{subfigure}[b]{0.45\textwidth}
+    \caption{FSE}
+        \pgfplotsset{every tick label/.append style={font=\scriptsize}}
+\begin{tikzpicture}   
+    \begin{axis}[
+            width=6.3cm,
+            height=4.5cm,
+            %xlabel={Years},
+            ylabel={\% of papers},
+            %x label style={at={(axis description cs:0.5,-0.038), font=\scriptsize},anchor=north},
+            y label style={at={(axis description cs:-0.1,.5), font=\scriptsize},anchor=south},
+            symbolic x coords={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmin=2014, xmax=2023,
+            enlarge x limits=0.05,
+            ymin=0, ymax=125,
+            ytick={0,20,40,60,80,100},
+            legend style={at={(0.5,1.02), font=\scriptsize}, anchor=south,legend columns=1, legend cell align=left},
+            ymajorgrids=true,
+            grid style=dashed,
+            xtick={2014,2015,2016,2017,2018,2019,2020,2021,2022,2023},
+            xmajorgrids=true,
+            x tick label style={rotate=90,anchor=east},
+            nodes near coords,
+            point meta=explicit symbolic,
+            nodes near coords style={rotate=90, anchor=west}
+        ]
+        \addplot[solid, every mark/.append style={solid, fill=gray}, mark=diamond*]
+    coordinates {
+        (2014, \varFSEArtifactSharingEvolutionFourteen) [\varFSEArtifactSharingEvolutionFourteen]
+        (2015, \varFSEArtifactSharingEvolutionFifteen) [\varFSEArtifactSharingEvolutionFifteen]
+        (2016, \varFSEArtifactSharingEvolutionSixteen) [\varFSEArtifactSharingEvolutionSixteen]
+        (2017, \varFSEArtifactSharingEvolutionSeventeen) [\varFSEArtifactSharingEvolutionSeventeen]
+        (2018, \varFSEArtifactSharingEvolutionEighteen) [\varFSEArtifactSharingEvolutionEighteen]
+        (2019, \varFSEArtifactSharingEvolutionNineteen) [\varFSEArtifactSharingEvolutionNineteen]
+        (2020, \varFSEArtifactSharingEvolutionTwenty) [\varFSEArtifactSharingEvolutionTwenty]
+        (2021, \varFSEArtifactSharingEvolutionTwentyOne) [\varFSEArtifactSharingEvolutionTwentyOne]
+        (2022, \varFSEArtifactSharingEvolutionTwentyTwo) [\varFSEArtifactSharingEvolutionTwentyTwo]
+        (2023, \varFSEArtifactSharingEvolutionTwentyThree) [\varFSEArtifactSharingEvolutionTwentyThree]
+    };
+    
+    \addlegendentry{Artifact sharing}
+    
+    \addplot[solid, every mark/.append style={solid, fill=gray}, mark=*]
+    coordinates {
+        (2014, \varFSEEvaluatedArtifactFourteen) [\varFSEEvaluatedArtifactFourteen]
+        (2015, \varFSEEvaluatedArtifactFifteen) [\varFSEEvaluatedArtifactFifteen]
+        (2016, \varFSEEvaluatedArtifactSixteen) [\varFSEEvaluatedArtifactSixteen]
+        (2017, \varFSEEvaluatedArtifactSeventeen) [\varFSEEvaluatedArtifactSeventeen]
+        (2018, \varFSEEvaluatedArtifactEighteen) [\varFSEEvaluatedArtifactEighteen]
+        (2019, \varFSEEvaluatedArtifactNineteen) [\varFSEEvaluatedArtifactNineteen]
+        (2020, \varFSEEvaluatedArtifactTwenty) [\varFSEEvaluatedArtifactTwenty]
+        (2021, \varFSEEvaluatedArtifactTwentyOne) [\varFSEEvaluatedArtifactTwentyOne]
+        (2022, \varFSEEvaluatedArtifactTwentyTwo) [\varFSEEvaluatedArtifactTwentyTwo]
+        (2023, \varFSEEvaluatedArtifactTwentyThree) [\varFSEEvaluatedArtifactTwentyThree]
+    };
+    
+    \addlegendentry{Successful artifact evaluation}
+    \end{axis}
+    \end{tikzpicture}
+        \label{fig:artifact-sharing-evolution-FSE}
+    \end{subfigure}
+    \caption{Artifact sharing and successful artifact evaluation  rates.}
+    \label{fig:artifact-sharing-evolution-ICSEFSE}
+\end{figure}
+
+\end{document}
